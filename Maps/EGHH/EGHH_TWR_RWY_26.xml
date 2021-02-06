@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:26 2021">
+   <Map Type="System" Name="EGHH_TWR_RWY_26" Priority="1" Center="+504657.58-0014936.88">
+      <Runway Name="26">
+         <Threshold Name="26" Position="+504657.58-0014936.88" ExtendedCentrelineTrack="75.32" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="08" Position="+504642.48-0015107.76"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGHH_TWR_RWY_26_SID" Priority="1" Center="+504657.58-0014936.88">
+      <Line>D076A/D076F/SAM/D256A/D264C/SAM</Line>
+      <Line>D076A/D077D/THRED/ORTAC/D256A/D264C/THRED/LELNA</Line>
+   </Map>
+   <Map Type="System" Name="EGHH_TWR_RWY_26_STAR" Priority="1" Center="+504657.58-0014936.88">
+      <Line Pattern="Dotted">BUGUP/RISIN/NUBRI/PEPIS/SAM</Line>
+      <Line Pattern="Dotted">COWLY/PEPIS/SAM</Line>
+      <Line Pattern="Dotted">CPT/PEPIS/SAM</Line>
+      <Line Pattern="Dotted">ELDAX/NOTGI/EVEXU/GIVUN/RUDMO/MIVLA/SAM</Line>
+      <Line Pattern="Dotted">THRED/NEDUL</Line>
+      <Line Pattern="Dotted">UMBUR/OCK/PEPIS/SAM</Line>
+   </Map>
+   <Map Type="System" Name="EGHH_TWR_RWY_26_NAMES" Priority="2" Center="+504657.58-0014936.88">
+      <Label>
+         <Point>D076A</Point>
+         <Point>ELDAX</Point>
+         <Point>BUGUP</Point>
+         <Point>D264C</Point>
+         <Point>D077D</Point>
+         <Point>NOTGI</Point>
+         <Point>NEDUL</Point>
+         <Point>RUDMO</Point>
+         <Point>THRED</Point>
+         <Point>UMBUR</Point>
+         <Point>EVEXU</Point>
+         <Point>LELNA</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>NUBRI</Point>
+         <Point>PEPIS</Point>
+         <Point>MIVLA</Point>
+         <Point>COWLY</Point>
+         <Point>RISIN</Point>
+         <Point>D256A</Point>
+         <Point>GIVUN</Point>
+         <Point>ORTAC</Point>
+         <Point>D076F</Point>
+         <Point>SAM</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D076A</Point>
+         <Point>ELDAX</Point>
+         <Point>BUGUP</Point>
+         <Point>D264C</Point>
+         <Point>D077D</Point>
+         <Point>NOTGI</Point>
+         <Point>NEDUL</Point>
+         <Point>RUDMO</Point>
+         <Point>THRED</Point>
+         <Point>UMBUR</Point>
+         <Point>EVEXU</Point>
+         <Point>LELNA</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>NUBRI</Point>
+         <Point>PEPIS</Point>
+         <Point>MIVLA</Point>
+         <Point>COWLY</Point>
+         <Point>RISIN</Point>
+         <Point>D256A</Point>
+         <Point>GIVUN</Point>
+         <Point>ORTAC</Point>
+         <Point>D076F</Point>
+         <Point>SAM</Point>
+      </Symbol>
+   </Map>
+</Maps>

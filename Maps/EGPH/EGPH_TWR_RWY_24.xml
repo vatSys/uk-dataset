@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:31 2021">
+   <Map Type="System" Name="EGPH_TWR_RWY_24" Priority="1" Center="+555717.66-0032128.66">
+      <Runway Name="24">
+         <Threshold Name="24" Position="+555717.66-0032128.66" ExtendedCentrelineTrack="58.88" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="06" Position="+555641.99-0032313.90"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGPH_TWR_RWY_24_SID" Priority="1" Center="+555717.66-0032128.66">
+      <Line>D262E/D262J/MAVIX/GOSAM</Line>
+      <Line>TLA32/TLA33/TLA38/GRICE</Line>
+      <Line>D242H/D345T/D345M/TLA</Line>
+   </Map>
+   <Map Type="System" Name="EGPH_TWR_RWY_24_STAR" Priority="1" Center="+555717.66-0032128.66">
+      <Line Pattern="Dotted">AGPED/HAVEN/TARTN</Line>
+      <Line Pattern="Dotted">GIRVA/TLA/TARTN</Line>
+      <Line Pattern="Dotted">INPIP/INREV/ESKDO/TARTN</Line>
+      <Line Pattern="Dotted">PTH/GRICE/STIRA</Line>
+      <Line Pattern="Dotted">TUNSO/TLA/TARTN</Line>
+   </Map>
+   <Map Type="System" Name="EGPH_TWR_RWY_24_NAMES" Priority="2" Center="+555717.66-0032128.66">
+      <Label>
+         <Point>GIRVA</Point>
+         <Point>D262E</Point>
+         <Point>TLA</Point>
+         <Point>TLA33</Point>
+         <Point>HAVEN</Point>
+         <Point>TUNSO</Point>
+         <Point>AGPED</Point>
+         <Point>D345M</Point>
+         <Point>STIRA</Point>
+         <Point>ESKDO</Point>
+         <Point>PTH</Point>
+         <Point>INPIP</Point>
+         <Point>TLA32</Point>
+         <Point>TARTN</Point>
+         <Point>TLA38</Point>
+         <Point>INREV</Point>
+         <Point>MAVIX</Point>
+         <Point>D242H</Point>
+         <Point>D262J</Point>
+         <Point>GRICE</Point>
+         <Point>D345T</Point>
+         <Point>GOSAM</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>GIRVA</Point>
+         <Point>D262E</Point>
+         <Point>TLA</Point>
+         <Point>TLA33</Point>
+         <Point>HAVEN</Point>
+         <Point>TUNSO</Point>
+         <Point>AGPED</Point>
+         <Point>D345M</Point>
+         <Point>STIRA</Point>
+         <Point>ESKDO</Point>
+         <Point>PTH</Point>
+         <Point>INPIP</Point>
+         <Point>TLA32</Point>
+         <Point>TARTN</Point>
+         <Point>TLA38</Point>
+         <Point>INREV</Point>
+         <Point>MAVIX</Point>
+         <Point>D242H</Point>
+         <Point>D262J</Point>
+         <Point>GRICE</Point>
+         <Point>D345T</Point>
+         <Point>GOSAM</Point>
+      </Symbol>
+   </Map>
+</Maps>

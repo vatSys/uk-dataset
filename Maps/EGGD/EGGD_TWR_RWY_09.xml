@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:27 2021">
+   <Map Type="System" Name="EGGD_TWR_RWY_09" Priority="1" Center="+512255.59-0024400.61">
+      <Runway Name="09">
+         <Threshold Name="09" Position="+512255.59-0024400.61" ExtendedCentrelineTrack="266.44" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="27" Position="+512259.37-0024223.50"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGGD_TWR_RWY_09_SID" Priority="1" Center="+512255.59-0024400.61">
+      <Line>D087E/BCN30/D124O/D124J/BCN</Line>
+      <Line>D087E/SOMOT/D245P/EXMOR</Line>
+      <Line>D087E/HON63/HON58/WOTAN</Line>
+   </Map>
+   <Map Type="System" Name="EGGD_TWR_RWY_09_STAR" Priority="1" Center="+512255.59-0024400.61">
+      <Line Pattern="Dotted">EXMOR/ADVED</Line>
+      <Line Pattern="Dotted">RETSI/AMRAL/RILES/DOBEM/INGUR/BRI</Line>
+      <Line Pattern="Dotted">STU/STU30/AMMAN/BCN/D136I/BRI</Line>
+      <Line Pattern="Dotted">CPT/POMAX/BRI</Line>
+      <Line Pattern="Dotted">TALGA/BCN/D136I/BRI</Line>
+      <Line Pattern="Dotted">BHD/TINAN/TIVER/EXMOR/BRI</Line>
+   </Map>
+   <Map Type="System" Name="EGGD_TWR_RWY_09_NAMES" Priority="2" Center="+512255.59-0024400.61">
+      <Label>
+         <Point>RILES</Point>
+         <Point>TINAN</Point>
+         <Point>STU</Point>
+         <Point>DOBEM</Point>
+         <Point>D124J</Point>
+         <Point>D087E</Point>
+         <Point>POMAX</Point>
+         <Point>HON58</Point>
+         <Point>SOMOT</Point>
+         <Point>EXMOR</Point>
+         <Point>WOTAN</Point>
+         <Point>STU30</Point>
+         <Point>CPT</Point>
+         <Point>BHD</Point>
+         <Point>ADVED</Point>
+         <Point>BCN</Point>
+         <Point>INGUR</Point>
+         <Point>HON63</Point>
+         <Point>AMMAN</Point>
+         <Point>BRI</Point>
+         <Point>D136I</Point>
+         <Point>D124O</Point>
+         <Point>TALGA</Point>
+         <Point>RETSI</Point>
+         <Point>AMRAL</Point>
+         <Point>BCN30</Point>
+         <Point>D245P</Point>
+         <Point>TIVER</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>RILES</Point>
+         <Point>TINAN</Point>
+         <Point>STU</Point>
+         <Point>DOBEM</Point>
+         <Point>D124J</Point>
+         <Point>D087E</Point>
+         <Point>POMAX</Point>
+         <Point>HON58</Point>
+         <Point>SOMOT</Point>
+         <Point>EXMOR</Point>
+         <Point>WOTAN</Point>
+         <Point>STU30</Point>
+         <Point>CPT</Point>
+         <Point>BHD</Point>
+         <Point>ADVED</Point>
+         <Point>BCN</Point>
+         <Point>INGUR</Point>
+         <Point>HON63</Point>
+         <Point>AMMAN</Point>
+         <Point>BRI</Point>
+         <Point>D136I</Point>
+         <Point>D124O</Point>
+         <Point>TALGA</Point>
+         <Point>RETSI</Point>
+         <Point>AMRAL</Point>
+         <Point>BCN30</Point>
+         <Point>D245P</Point>
+         <Point>TIVER</Point>
+      </Symbol>
+   </Map>
+</Maps>

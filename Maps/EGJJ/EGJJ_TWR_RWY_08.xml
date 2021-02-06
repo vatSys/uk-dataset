@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:35 2021">
+   <Map Type="System" Name="EGJJ_TWR_RWY_08" Priority="1" Center="+491225.44-0021221.94">
+      <Runway Name="08">
+         <Threshold Name="08" Position="+491225.44-0021221.94" ExtendedCentrelineTrack="262.75" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="26" Position="+491231.80-0021105.66"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGJJ_TWR_RWY_08_SID" Priority="1" Center="+491225.44-0021221.94">
+      <Line>JSY/KETIK/BENIX</Line>
+      <Line>JSY/LUSIT/CAN</Line>
+      <Line>MINQI/DIN</Line>
+      <Line>LERAK</Line>
+      <Line>JJE01/JJE02/UPLIS/ORIST</Line>
+      <Line>ANGLA/ORTAC</Line>
+      <Line>JSY/ORVAL</Line>
+      <Line>OYSTA/CHUBB/SKERY</Line>
+      <Line>D319T/SKERY</Line>
+      <Line>OYSTA/TUNIT/LIZAD</Line>
+   </Map>
+   <Map Type="System" Name="EGJJ_TWR_RWY_08_STAR" Priority="1" Center="+491225.44-0021221.94"/>
+   <Map Type="System" Name="EGJJ_TWR_RWY_08_NAMES" Priority="2" Center="+491225.44-0021221.94">
+      <Label>
+         <Point>UPLIS</Point>
+         <Point>TUNIT</Point>
+         <Point>KETIK</Point>
+         <Point>MINQI</Point>
+         <Point>LERAK</Point>
+         <Point>LUSIT</Point>
+         <Point>ANGLA</Point>
+         <Point>CHUBB</Point>
+         <Point>DIN</Point>
+         <Point>OYSTA</Point>
+         <Point>JJE01</Point>
+         <Point>SKERY</Point>
+         <Point>LIZAD</Point>
+         <Point>ORIST</Point>
+         <Point>D319T</Point>
+         <Point>JSY</Point>
+         <Point>ORTAC</Point>
+         <Point>JJE02</Point>
+         <Point>BENIX</Point>
+         <Point>ORVAL</Point>
+         <Point>CAN</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>UPLIS</Point>
+         <Point>TUNIT</Point>
+         <Point>KETIK</Point>
+         <Point>MINQI</Point>
+         <Point>LERAK</Point>
+         <Point>LUSIT</Point>
+         <Point>ANGLA</Point>
+         <Point>CHUBB</Point>
+         <Point>DIN</Point>
+         <Point>OYSTA</Point>
+         <Point>JJE01</Point>
+         <Point>SKERY</Point>
+         <Point>LIZAD</Point>
+         <Point>ORIST</Point>
+         <Point>D319T</Point>
+         <Point>JSY</Point>
+         <Point>ORTAC</Point>
+         <Point>JJE02</Point>
+         <Point>BENIX</Point>
+         <Point>ORVAL</Point>
+         <Point>CAN</Point>
+      </Symbol>
+   </Map>
+</Maps>

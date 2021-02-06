@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:36 2021">
+   <Map Type="System" Name="EGNM_TWR_RWY_32" Priority="1" Center="+535137.31-0013907.44">
+      <Runway Name="32">
+         <Threshold Name="32" Position="+535137.31-0013907.44" ExtendedCentrelineTrack="137.75" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="14" Position="+535217.15-0014008.68"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGNM_TWR_RWY_32_SID" Priority="1" Center="+535137.31-0013907.44">
+      <Line>D319A/D312C/D298D/D254F/GAM38/GAM35/GAM31/D319S/D319R/D322O/DOPEK</Line>
+      <Line>D319A/D312C/D298D/D254F/GAM38/GAM35/GAM31/D319S/D319R/D322O/DOPEK/LAMIX</Line>
+      <Line>D319A/D312C/D298D/D052L/D052K/D052J/NELSA</Line>
+   </Map>
+   <Map Type="System" Name="EGNM_TWR_RWY_32_STAR" Priority="1" Center="+535137.31-0013907.44"/>
+   <Map Type="System" Name="EGNM_TWR_RWY_32_NAMES" Priority="2" Center="+535137.31-0013907.44">
+      <Label>
+         <Point>D312C</Point>
+         <Point>D319R</Point>
+         <Point>GAM31</Point>
+         <Point>D052J</Point>
+         <Point>D298D</Point>
+         <Point>GAM35</Point>
+         <Point>DOPEK</Point>
+         <Point>D052K</Point>
+         <Point>D052L</Point>
+         <Point>GAM38</Point>
+         <Point>D319A</Point>
+         <Point>D322O</Point>
+         <Point>NELSA</Point>
+         <Point>D254F</Point>
+         <Point>LAMIX</Point>
+         <Point>D319S</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D312C</Point>
+         <Point>D319R</Point>
+         <Point>GAM31</Point>
+         <Point>D052J</Point>
+         <Point>D298D</Point>
+         <Point>GAM35</Point>
+         <Point>DOPEK</Point>
+         <Point>D052K</Point>
+         <Point>D052L</Point>
+         <Point>GAM38</Point>
+         <Point>D319A</Point>
+         <Point>D322O</Point>
+         <Point>NELSA</Point>
+         <Point>D254F</Point>
+         <Point>LAMIX</Point>
+         <Point>D319S</Point>
+      </Symbol>
+   </Map>
+</Maps>

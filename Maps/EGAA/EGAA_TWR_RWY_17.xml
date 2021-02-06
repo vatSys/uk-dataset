@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:24 2021">
+   <Map Type="System" Name="EGAA_TWR_RWY_17" Priority="1" Center="+543928.52-0061343.04">
+      <Runway Name="17">
+         <Threshold Name="17" Position="+543928.52-0061343.04" ExtendedCentrelineTrack="341.95" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="35" Position="+543833.19-0061311.96"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGAA_TWR_RWY_17_SID" Priority="1" Center="+543928.52-0061343.04"/>
+   <Map Type="System" Name="EGAA_TWR_RWY_17_STAR" Priority="1" Center="+543928.52-0061343.04"/>
+   <Map Type="System" Name="EGAA_TWR_RWY_17_NAMES" Priority="2" Center="+543928.52-0061343.04">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

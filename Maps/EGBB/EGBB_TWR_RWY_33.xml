@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:25 2021">
+   <Map Type="System" Name="EGBB_TWR_RWY_33" Priority="1" Center="+522646.58-0014422.56">
+      <Runway Name="33">
+         <Threshold Name="33" Position="+522646.58-0014422.56" ExtendedCentrelineTrack="145.82" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="15" Position="+522748.52-0014531.43"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGBB_TWR_RWY_33_SID" Priority="1" Center="+522646.58-0014422.56">
+      <Line>BBN31/BBE21/BBE20/ADMEX</Line>
+      <Line>D328B/D189Z/DTY27/D327I/DTY</Line>
+      <Line>BBN30/BBN32/LUVUM</Line>
+      <Line>BBW01/BBW02/BBW04/UMLUX</Line>
+      <Line>BBN31/BBE21/BBE20/UNGAP</Line>
+   </Map>
+   <Map Type="System" Name="EGBB_TWR_RWY_33_STAR" Priority="1" Center="+522646.58-0014422.56">
+      <Line Pattern="Dotted">AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">BEGAM/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">POL/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">DESIG/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">CROFT/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">DOLOP/AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">FIGZI/BIFIN/GROVE</Line>
+      <Line Pattern="Dotted">HEMEL/BUZAD/WELIN/PUFAX/HON/OSKOT/GROVE</Line>
+      <Line Pattern="Dotted">MAKUX/AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">MALUD/AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">SILVA/YOHDA/HON/OSKOT/GROVE</Line>
+      <Line Pattern="Dotted">WAL/CREWE/CHASE</Line>
+   </Map>
+   <Map Type="System" Name="EGBB_TWR_RWY_33_NAMES" Priority="2" Center="+522646.58-0014422.56">
+      <Label>
+         <Point>D158Y</Point>
+         <Point>DESIG</Point>
+         <Point>BBE20</Point>
+         <Point>WELIN</Point>
+         <Point>CHASE</Point>
+         <Point>BBN32</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>ADMEX</Point>
+         <Point>MALUD</Point>
+         <Point>DTY27</Point>
+         <Point>MAKUX</Point>
+         <Point>PUFAX</Point>
+         <Point>BBN30</Point>
+         <Point>BBW01</Point>
+         <Point>BBW04</Point>
+         <Point>GROVE</Point>
+         <Point>CROFT</Point>
+         <Point>D189Z</Point>
+         <Point>AMPIT</Point>
+         <Point>UNGAP</Point>
+         <Point>BBN31</Point>
+         <Point>DOLOP</Point>
+         <Point>HEMEL</Point>
+         <Point>NOKIN</Point>
+         <Point>BUZAD</Point>
+         <Point>UMLUX</Point>
+         <Point>MCT</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>D327I</Point>
+         <Point>YOHDA</Point>
+         <Point>DTY</Point>
+         <Point>D328B</Point>
+         <Point>CREWE</Point>
+         <Point>LUVUM</Point>
+         <Point>FIGZI</Point>
+         <Point>OSKOT</Point>
+         <Point>BBE21</Point>
+         <Point>HON</Point>
+         <Point>BIFIN</Point>
+         <Point>BBW02</Point>
+         <Point>SILVA</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D158Y</Point>
+         <Point>DESIG</Point>
+         <Point>BBE20</Point>
+         <Point>WELIN</Point>
+         <Point>CHASE</Point>
+         <Point>BBN32</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>ADMEX</Point>
+         <Point>MALUD</Point>
+         <Point>DTY27</Point>
+         <Point>MAKUX</Point>
+         <Point>PUFAX</Point>
+         <Point>BBN30</Point>
+         <Point>BBW01</Point>
+         <Point>BBW04</Point>
+         <Point>GROVE</Point>
+         <Point>CROFT</Point>
+         <Point>D189Z</Point>
+         <Point>AMPIT</Point>
+         <Point>UNGAP</Point>
+         <Point>BBN31</Point>
+         <Point>DOLOP</Point>
+         <Point>HEMEL</Point>
+         <Point>NOKIN</Point>
+         <Point>BUZAD</Point>
+         <Point>UMLUX</Point>
+         <Point>MCT</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>D327I</Point>
+         <Point>YOHDA</Point>
+         <Point>DTY</Point>
+         <Point>D328B</Point>
+         <Point>CREWE</Point>
+         <Point>LUVUM</Point>
+         <Point>FIGZI</Point>
+         <Point>OSKOT</Point>
+         <Point>BBE21</Point>
+         <Point>HON</Point>
+         <Point>BIFIN</Point>
+         <Point>BBW02</Point>
+         <Point>SILVA</Point>
+      </Symbol>
+   </Map>
+</Maps>

@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:30 2021">
+   <Map Type="System" Name="EGCN_TWR_RWY_20" Priority="1" Center="+532910.93-0005953.58">
+      <Runway Name="20">
+         <Threshold Name="20" Position="+532910.93-0005953.58" ExtendedCentrelineTrack="17.66" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="02" Position="+532751.11-0010036.17"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGCN_TWR_RWY_20_SID" Priority="1" Center="+532910.93-0005953.58">
+      <Line>05ADM/25DME/D015K/LAMIX/ROGAG</Line>
+      <Line>05ADM/15DME/35DME/D322B/ROGAG</Line>
+      <Line>CNS01/CNS02/CNS03/CNS05/CNS06/LEDLA/ROGAG</Line>
+      <Line>CNS01/CNS02/CNW06/CNW07/CNW08/UPTON</Line>
+      <Line>CNS01/CNS04/CNE03/CNE04/UPTON</Line>
+   </Map>
+   <Map Type="System" Name="EGCN_TWR_RWY_20_STAR" Priority="1" Center="+532910.93-0005953.58">
+      <Line Pattern="Dotted">CALDA/DENBY/UNIGO/UPTON/FNY</Line>
+      <Line Pattern="Dotted">EMBOR/EVSON/ADELU/MAMUL/FNY</Line>
+      <Line Pattern="Dotted">GASKO/CNW02/BATLI/UPTON/FNY</Line>
+      <Line Pattern="Dotted">REXAM/CNW03/BARTN/UNIGO/UPTON/FNY</Line>
+      <Line Pattern="Dotted">SETEL/POL/DENBY/UNIGO/UPTON/FNY</Line>
+      <Line Pattern="Dotted">TNT/TIPIL/EVSON/ADELU/MAMUL/FNY</Line>
+      <Line Pattern="Dotted">WAL/CNW04/BARTN/UNIGO/UPTON/FNY</Line>
+   </Map>
+   <Map Type="System" Name="EGCN_TWR_RWY_20_NAMES" Priority="2" Center="+532910.93-0005953.58">
+      <Label>
+         <Point>CNW04</Point>
+         <Point>CNW02</Point>
+         <Point>CNS03</Point>
+         <Point>LEDLA</Point>
+         <Point>35DME</Point>
+         <Point>TNT</Point>
+         <Point>CNS04</Point>
+         <Point>GASKO</Point>
+         <Point>REXAM</Point>
+         <Point>UPTON</Point>
+         <Point>UNIGO</Point>
+         <Point>TIPIL</Point>
+         <Point>05ADM</Point>
+         <Point>EMBOR</Point>
+         <Point>ROGAG</Point>
+         <Point>DENBY</Point>
+         <Point>CNW08</Point>
+         <Point>15DME</Point>
+         <Point>CNE03</Point>
+         <Point>SETEL</Point>
+         <Point>D322B</Point>
+         <Point>CNS02</Point>
+         <Point>BATLI</Point>
+         <Point>CALDA</Point>
+         <Point>CNW06</Point>
+         <Point>25DME</Point>
+         <Point>CNS05</Point>
+         <Point>FNY</Point>
+         <Point>D015K</Point>
+         <Point>POL</Point>
+         <Point>MAMUL</Point>
+         <Point>WAL</Point>
+         <Point>ADELU</Point>
+         <Point>CNW03</Point>
+         <Point>CNE04</Point>
+         <Point>CNS06</Point>
+         <Point>CNW07</Point>
+         <Point>CNS01</Point>
+         <Point>BARTN</Point>
+         <Point>EVSON</Point>
+         <Point>LAMIX</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>CNW04</Point>
+         <Point>CNW02</Point>
+         <Point>CNS03</Point>
+         <Point>LEDLA</Point>
+         <Point>35DME</Point>
+         <Point>TNT</Point>
+         <Point>CNS04</Point>
+         <Point>GASKO</Point>
+         <Point>REXAM</Point>
+         <Point>UPTON</Point>
+         <Point>UNIGO</Point>
+         <Point>TIPIL</Point>
+         <Point>05ADM</Point>
+         <Point>EMBOR</Point>
+         <Point>ROGAG</Point>
+         <Point>DENBY</Point>
+         <Point>CNW08</Point>
+         <Point>15DME</Point>
+         <Point>CNE03</Point>
+         <Point>SETEL</Point>
+         <Point>D322B</Point>
+         <Point>CNS02</Point>
+         <Point>BATLI</Point>
+         <Point>CALDA</Point>
+         <Point>CNW06</Point>
+         <Point>25DME</Point>
+         <Point>CNS05</Point>
+         <Point>FNY</Point>
+         <Point>D015K</Point>
+         <Point>POL</Point>
+         <Point>MAMUL</Point>
+         <Point>WAL</Point>
+         <Point>ADELU</Point>
+         <Point>CNW03</Point>
+         <Point>CNE04</Point>
+         <Point>CNS06</Point>
+         <Point>CNW07</Point>
+         <Point>CNS01</Point>
+         <Point>BARTN</Point>
+         <Point>EVSON</Point>
+         <Point>LAMIX</Point>
+      </Symbol>
+   </Map>
+</Maps>

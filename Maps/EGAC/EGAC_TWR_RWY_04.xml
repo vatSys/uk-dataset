@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:24 2021">
+   <Map Type="System" Name="EGAC_TWR_RWY_04" Priority="1" Center="+543643.34-0055247.14">
+      <Runway Name="04">
+         <Threshold Name="04" Position="+543643.34-0055247.14" ExtendedCentrelineTrack="214.76" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="22" Position="+543729.48-0055151.95"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGAC_TWR_RWY_04_SID" Priority="1" Center="+543643.34-0055247.14"/>
+   <Map Type="System" Name="EGAC_TWR_RWY_04_STAR" Priority="1" Center="+543643.34-0055247.14"/>
+   <Map Type="System" Name="EGAC_TWR_RWY_04_NAMES" Priority="2" Center="+543643.34-0055247.14">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

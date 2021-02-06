@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:42 2021">
+   <Map Type="System" Name="EGCB_TWR_RWY_08R" Priority="1" Center="+532816.40-0022339.81">
+      <Runway Name="08R">
+         <Threshold Name="08R" Position="+532816.40-0022339.81" ExtendedCentrelineTrack="262.84" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="26L" Position="+532818.92-0022306.16"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGCB_TWR_RWY_08R_SID" Priority="1" Center="+532816.40-0022339.81"/>
+   <Map Type="System" Name="EGCB_TWR_RWY_08R_STAR" Priority="1" Center="+532816.40-0022339.81"/>
+   <Map Type="System" Name="EGCB_TWR_RWY_08R_NAMES" Priority="2" Center="+532816.40-0022339.81">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

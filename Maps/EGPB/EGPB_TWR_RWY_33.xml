@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:48 2021">
+   <Map Type="System" Name="EGPB_TWR_RWY_33" Priority="1" Center="+595222.60-0011714.28">
+      <Runway Name="33">
+         <Threshold Name="33" Position="+595222.60-0011714.28" ExtendedCentrelineTrack="143.41" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="15" Position="+595249.88-0011754.57"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGPB_TWR_RWY_33_SID" Priority="1" Center="+595222.60-0011714.28"/>
+   <Map Type="System" Name="EGPB_TWR_RWY_33_STAR" Priority="1" Center="+595222.60-0011714.28"/>
+   <Map Type="System" Name="EGPB_TWR_RWY_33_NAMES" Priority="2" Center="+595222.60-0011714.28">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

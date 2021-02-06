@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:43 2021">
+   <Map Type="System" Name="EGNT_TWR_RWY_25" Priority="1" Center="+550230.46-0014030.76">
+      <Runway Name="25">
+         <Threshold Name="25" Position="+550230.46-0014030.76" ExtendedCentrelineTrack="65.21" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="07" Position="+550202.35-0014216.68"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGNT_TWR_RWY_25_SID" Priority="1" Center="+550230.46-0014030.76">
+      <Line>NTW03/NTS08/GIRLI</Line>
+      <Line>NTW02/NITUD/GIRLI</Line>
+   </Map>
+   <Map Type="System" Name="EGNT_TWR_RWY_25_STAR" Priority="1" Center="+550230.46-0014030.76">
+      <Line Pattern="Dotted">ETSES/NTS02/UPMOP</Line>
+      <Line Pattern="Dotted">POL/GOKOV/IRKOR/XODRU/ETSES</Line>
+      <Line Pattern="Dotted">RIMTO/GOKOV/IRKOR/XODRU/ETSES</Line>
+   </Map>
+   <Map Type="System" Name="EGNT_TWR_RWY_25_NAMES" Priority="2" Center="+550230.46-0014030.76">
+      <Label>
+         <Point>GIRLI</Point>
+         <Point>IRKOR</Point>
+         <Point>GOKOV</Point>
+         <Point>XODRU</Point>
+         <Point>NITUD</Point>
+         <Point>RIMTO</Point>
+         <Point>NTW03</Point>
+         <Point>ETSES</Point>
+         <Point>UPMOP</Point>
+         <Point>POL</Point>
+         <Point>NTS02</Point>
+         <Point>NTS08</Point>
+         <Point>NTW02</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>GIRLI</Point>
+         <Point>IRKOR</Point>
+         <Point>GOKOV</Point>
+         <Point>XODRU</Point>
+         <Point>NITUD</Point>
+         <Point>RIMTO</Point>
+         <Point>NTW03</Point>
+         <Point>ETSES</Point>
+         <Point>UPMOP</Point>
+         <Point>POL</Point>
+         <Point>NTS02</Point>
+         <Point>NTS08</Point>
+         <Point>NTW02</Point>
+      </Symbol>
+   </Map>
+</Maps>

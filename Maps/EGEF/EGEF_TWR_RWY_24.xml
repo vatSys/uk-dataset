@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:32 2021">
+   <Map Type="System" Name="EGEF_TWR_RWY_24" Priority="1" Center="+593209.06-0013729.66">
+      <Runway Name="24">
+         <Threshold Name="24" Position="+593209.06-0013729.66" ExtendedCentrelineTrack="56.73" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="06" Position="+593200.98-0013755.62"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGEF_TWR_RWY_24_SID" Priority="1" Center="+593209.06-0013729.66"/>
+   <Map Type="System" Name="EGEF_TWR_RWY_24_STAR" Priority="1" Center="+593209.06-0013729.66"/>
+   <Map Type="System" Name="EGEF_TWR_RWY_24_NAMES" Priority="2" Center="+593209.06-0013729.66">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:31 2021">
+   <Map Type="System" Name="EGTU_TWR_RWY_22" Priority="1" Center="+505147.61-0031349.09">
+      <Runway Name="22">
+         <Threshold Name="22" Position="+505147.61-0031349.09" ExtendedCentrelineTrack="41.1" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="04" Position="+505124.12-0031421.47"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGTU_TWR_RWY_22_SID" Priority="1" Center="+505147.61-0031349.09"/>
+   <Map Type="System" Name="EGTU_TWR_RWY_22_STAR" Priority="1" Center="+505147.61-0031349.09"/>
+   <Map Type="System" Name="EGTU_TWR_RWY_22_NAMES" Priority="2" Center="+505147.61-0031349.09">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

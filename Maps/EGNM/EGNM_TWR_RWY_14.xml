@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:36 2021">
+   <Map Type="System" Name="EGNM_TWR_RWY_14" Priority="1" Center="+535217.15-0014008.68">
+      <Runway Name="14">
+         <Threshold Name="14" Position="+535217.15-0014008.68" ExtendedCentrelineTrack="317.74" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="32" Position="+535137.31-0013907.44"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGNM_TWR_RWY_14_SID" Priority="1" Center="+535217.15-0014008.68">
+      <Line>D139B/GAM36/GAM32/GAM29/D327S/D327O/D327N/DOPEK</Line>
+      <Line>D139B/GAM36/GAM32/GAM29/D327S/D327O/D327N/DOPEK/LAMIX</Line>
+      <Line>D139B/D082N/D082J/POL</Line>
+   </Map>
+   <Map Type="System" Name="EGNM_TWR_RWY_14_STAR" Priority="1" Center="+535217.15-0014008.68"/>
+   <Map Type="System" Name="EGNM_TWR_RWY_14_NAMES" Priority="2" Center="+535217.15-0014008.68">
+      <Label>
+         <Point>D139B</Point>
+         <Point>GAM32</Point>
+         <Point>D327N</Point>
+         <Point>D082N</Point>
+         <Point>DOPEK</Point>
+         <Point>D082J</Point>
+         <Point>D327S</Point>
+         <Point>GAM29</Point>
+         <Point>GAM36</Point>
+         <Point>POL</Point>
+         <Point>D327O</Point>
+         <Point>LAMIX</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D139B</Point>
+         <Point>GAM32</Point>
+         <Point>D327N</Point>
+         <Point>D082N</Point>
+         <Point>DOPEK</Point>
+         <Point>D082J</Point>
+         <Point>D327S</Point>
+         <Point>GAM29</Point>
+         <Point>GAM36</Point>
+         <Point>POL</Point>
+         <Point>D327O</Point>
+         <Point>LAMIX</Point>
+      </Symbol>
+   </Map>
+</Maps>

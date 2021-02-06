@@ -1,0 +1,2031 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:21 2021">
+   <Map Type="System" Name="ALL_NAVAIDS_NAMES" Priority="0" Center="+53.7-1.5">
+      <Label HasLeader="true">
+         <Point Name="ABAPO">+520610.00-0044812.00</Point>
+         <Point Name="ABBOT">+520058.00+0003558.00</Point>
+         <Point Name="ABDAL">+512646.00-0015148.00</Point>
+         <Point Name="ABDUK">+513834.00-0034801.00</Point>
+         <Point Name="ABEDA">+521940.00+0015216.00</Point>
+         <Point Name="ABEVI">+544227.00-0024629.00</Point>
+         <Point Name="ABGEP">+532539.00-0045140.00</Point>
+         <Point Name="ABKAT">+540853.00-0015847.00</Point>
+         <Point Name="ABKIM">+505043.00-0015858.00</Point>
+         <Point Name="ABLIN">+524658.00-0045933.00</Point>
+         <Point Name="ABSAV">+503829.00-0011029.00</Point>
+         <Point Name="ABSUN">+541732.00-0061518.00</Point>
+         <Point Name="ABTOS">+531445.00+0002536.00</Point>
+         <Point Name="ABTUM">+512604.00+0012229.00</Point>
+         <Point Name="ADASI">+591315.00-0061731.00</Point>
+         <Point Name="ADCUB">+505436.00-0020000.00</Point>
+         <Point Name="ADELU">+532630.00-0013213.00</Point>
+         <Point Name="ADGEG">+531343.00+0021906.00</Point>
+         <Point Name="ADKIK">+504749.00-0023245.00</Point>
+         <Point Name="ADLOG">+501925.00-0004933.00</Point>
+         <Point Name="ADMAG">+511402.00+0002934.00</Point>
+         <Point Name="ADMEX">+522139.00-0012745.00</Point>
+         <Point Name="ADMIS">+515949.00+0001036.00</Point>
+         <Point Name="ADNAM">+520617.00+0004419.00</Point>
+         <Point Name="ADODO">+583000.00-0100000.00</Point>
+         <Point Name="ADRUD">+491014.00-0062655.00</Point>
+         <Point Name="ADVAS">+514053.00+0012633.00</Point>
+         <Point Name="ADVAT">+450000.00-0092811.00</Point>
+         <Point Name="AGLIL">+533442.00-0032711.00</Point>
+         <Point Name="AGORI">+570000.00-0130000.00</Point>
+         <Point Name="AGPED">+550719.00-0015657.00</Point>
+         <Point Name="AKIVO">+595752.00-0093000.00</Point>
+         <Point Name="AKOKO">+531416.00+0031207.00</Point>
+         <Point Name="AKUPA">+522912.00-0010528.00</Point>
+         <Point Name="ALASO">+552650.00-0013354.00</Point>
+         <Point Name="ALAVA">+532343.00-0035817.00</Point>
+         <Point Name="ALESO">+503432.00+0011332.00</Point>
+         <Point Name="ALOTI">+575427.00+0033630.00</Point>
+         <Point Name="ALUTA">+490019.00-0072953.00</Point>
+         <Point Name="ALVIN">+513945.00-0024042.00</Point>
+         <Point Name="AMDUT">+504028.00+0004746.00</Point>
+         <Point Name="AMHAG">+513000.00-0041801.00</Point>
+         <Point Name="AMLAD">+561552.00-0100000.00</Point>
+         <Point Name="AMLET">+531607.00-0015018.00</Point>
+         <Point Name="AMMAN">+515026.00-0035954.00</Point>
+         <Point Name="AMPIT">+531139.00-0031133.00</Point>
+         <Point Name="AMPOP">+493148.00-0060903.00</Point>
+         <Point Name="AMRAL">+520653.00-0025433.00</Point>
+         <Point Name="AMTAP">+582225.00-0093000.00</Point>
+         <Point Name="AMTOD">+503216.00-0012544.00</Point>
+         <Point Name="AMVEL">+531103.00-0000155.00</Point>
+         <Point Name="ANJAK">+525350.00-0025933.00</Point>
+         <Point Name="ANNET">+493905.00-0040005.00</Point>
+         <Point Name="APPLE">+543000.00-0023050.00</Point>
+         <Point Name="APSOV">+554923.00-0100000.00</Point>
+         <Point Name="ARKIL">+503928.00-0080000.00</Point>
+         <Point Name="ARNUN">+510326.00+0005553.00</Point>
+         <Point Name="ARPUB">+533534.00-0011428.00</Point>
+         <Point Name="ARREK">+513643.00+0015007.00</Point>
+         <Point Name="ARSAT">+543206.00-0014419.00</Point>
+         <Point Name="ARTEX">+565341.00+0035738.00</Point>
+         <Point Name="ARTHA">+534659.00-0021707.00</Point>
+         <Point Name="ARTIX">+532342.00-0010209.00</Point>
+         <Point Name="ASKAM">+545747.00+0031350.00</Point>
+         <Point Name="ASKEY">+520050.00-0000310.00</Point>
+         <Point Name="ASLIB">+544928.00-0030339.00</Point>
+         <Point Name="ASMIM">+532646.00-0023911.00</Point>
+         <Point Name="ASNIP">+532843.00-0025426.00</Point>
+         <Point Name="ASNUD">+564139.00-0030320.00</Point>
+         <Point Name="ASRAX">+513117.00-0041643.00</Point>
+         <Point Name="ASRUS">+550321.00-0032045.00</Point>
+         <Point Name="ATNAK">+570000.00+0050000.00</Point>
+         <Point Name="ATSAP">+512716.00+0013017.00</Point>
+         <Point Name="ATSIX">+600000.00-0100000.00</Point>
+         <Point Name="ATSUR">+500000.00-0140000.00</Point>
+         <Point Name="ATWEL">+505051.00-0032502.00</Point>
+         <Point Name="AVANT">+504912.00-0005618.00</Point>
+         <Point Name="AVRAL">+553034.00+0034259.00</Point>
+         <Point Name="BABAX">+502511.00-0034817.00</Point>
+         <Point Name="BABGU">+541639.00-0051625.00</Point>
+         <Point Name="BABRA">+533739.00-0035643.00</Point>
+         <Point Name="BADGA">+553749.00+0023658.00</Point>
+         <Point Name="BADIM">+513838.00-0023040.00</Point>
+         <Point Name="BADSI">+523930.00-0044617.00</Point>
+         <Point Name="BAGIT">+531345.00-0035918.00</Point>
+         <Point Name="BAGSO">+534048.00-0053000.00</Point>
+         <Point Name="BAKER">+512942.00+0001753.00</Point>
+         <Point Name="BAKOX">+533143.00-0050933.00</Point>
+         <Point Name="BAKUR">+521430.00-0054049.00</Point>
+         <Point Name="BALID">+562949.00-0015707.00</Point>
+         <Point Name="BALIX">+590000.00-0100000.00</Point>
+         <Point Name="BAMEP">+535242.00-0021609.00</Point>
+         <Point Name="BAMLI">+540828.00-0063904.00</Point>
+         <Point Name="BAMRA">+592600.00-0035710.00</Point>
+         <Point Name="BANBA">+515710.00-0061421.00</Point>
+         <Point Name="BANEM">+522008.00+0013019.00</Point>
+         <Point Name="BANTO">+522128.00-0001357.00</Point>
+         <Point Name="BANVA">+503242.00+0004512.00</Point>
+         <Point Name="BARKU">+603618.00-0092436.00</Point>
+         <Point Name="BARMI">+522842.00+0023414.00</Point>
+         <Point Name="BAROS">+532422.00-0032643.00</Point>
+         <Point Name="BARTN">+532814.00-0022541.00</Point>
+         <Point Name="BATLI">+533845.00-0012137.00</Point>
+         <Point Name="BAVDO">+541820.00-0010925.00</Point>
+         <Point Name="BAVUD">+533108.00-0045109.00</Point>
+         <Point Name="BAZJO">+505025.00-0035345.00</Point>
+         <Point Name="BEBNI">+545906.00-0033514.00</Point>
+         <Point Name="BEDEK">+512215.00-0013331.00</Point>
+         <Point Name="BEDFO">+521330.00-0003348.00</Point>
+         <Point Name="BEDRA">+490000.00-0150000.00</Point>
+         <Point Name="BEGAM">+540925.00-0020715.00</Point>
+         <Point Name="BEGAS">+450000.00-0090000.00</Point>
+         <Point Name="BEGID">+563000.00-0140000.00</Point>
+         <Point Name="BEGTO">+504545.00-0011408.00</Point>
+         <Point Name="BEKET">+585313.00-0013120.00</Point>
+         <Point Name="BEKMO">+525910.00+0023710.00</Point>
+         <Point Name="BELOX">+535316.00-0032923.00</Point>
+         <Point Name="BENBO">+502705.00+0000037.00</Point>
+         <Point Name="BENSU">+513444.00-0005508.00</Point>
+         <Point Name="BEREP">+590209.00+0014420.00</Point>
+         <Point Name="BERUL">+524016.00-0033113.00</Point>
+         <Point Name="BERUX">+450000.00-0110000.00</Point>
+         <Point Name="BESGA">+604723.00-0075446.00</Point>
+         <Point Name="BETAX">+530033.00-0005403.00</Point>
+         <Point Name="BETPO">+514754.00-0004328.00</Point>
+         <Point Name="BEVAM">+554353.00+0001503.00</Point>
+         <Point Name="BEVUP">+504800.00-0021420.00</Point>
+         <Point Name="BIDVA">+504339.00-0005839.00</Point>
+         <Point Name="BIFIN">+520323.00-0022719.00</Point>
+         <Point Name="BIGNO">+500000.00-0024930.00</Point>
+         <Point Name="BILLY">+600111.00-0083408.00</Point>
+         <Point Name="BILNI">+504031.00-0020733.00</Point>
+         <Point Name="BILTO">+563000.00-0150000.00</Point>
+         <Point Name="BILVO">+534352.00-0031109.00</Point>
+         <Point Name="BIMGO">+493000.00-0140000.00</Point>
+         <Point Name="BINBO">+532406.00+0032029.00</Point>
+         <Point Name="BINTI">+543345.00-0015945.00</Point>
+         <Point Name="BISRU">+510418.00+0002203.00</Point>
+         <Point Name="BLACA">+545300.00-0050932.00</Point>
+         <Point Name="BLIXY">+513730.00+0015832.00</Point>
+         <Point Name="BODSO">+530308.00+0020541.00</Point>
+         <Point Name="BOGMI">+505953.00-0071217.00</Point>
+         <Point Name="BOGNA">+504207.00-0001506.00</Point>
+         <Point Name="BOLBI">+532800.00-0014845.00</Point>
+         <Point Name="BOLRO">+500000.00-0014129.00</Point>
+         <Point Name="BOMBO">+515944.00-0002347.00</Point>
+         <Point Name="BONBY">+575330.00-0042036.00</Point>
+         <Point Name="BOVVA">+514334.00-0003259.00</Point>
+         <Point Name="BOYNE">+534602.00-0053000.00</Point>
+         <Point Name="BRAIN">+514840.00+0003906.00</Point>
+         <Point Name="BRASO">+514107.00+0004100.00</Point>
+         <Point Name="BRIPO">+504227.00-0024500.00</Point>
+         <Point Name="BRUCE">+561411.00-0055028.00</Point>
+         <Point Name="BUDON">+574207.00-0003343.00</Point>
+         <Point Name="BUGUP">+515237.00-0013700.00</Point>
+         <Point Name="BUKUT">+524530.00+0024802.00</Point>
+         <Point Name="BUMUX">+504816.00-0032058.00</Point>
+         <Point Name="BURNI">+534338.00-0023104.00</Point>
+         <Point Name="BUSTA">+520534.00+0000404.00</Point>
+         <Point Name="BUZAD">+515632.00-0003308.00</Point>
+         <Point Name="CALDA">+534627.00-0023838.00</Point>
+         <Point Name="CAMBO">+491730.00-0055135.00</Point>
+         <Point Name="CASEL">+534952.00-0041057.00</Point>
+         <Point Name="CASEY">+520031.00+0003459.00</Point>
+         <Point Name="CHASE">+523648.00-0015502.00</Point>
+         <Point Name="CHINN">+575751.00-0041117.00</Point>
+         <Point Name="CLIPY">+520003.00-0010509.00</Point>
+         <Point Name="CLYDE">+555748.00-0044732.00</Point>
+         <Point Name="COWJO">+511324.00-0034834.00</Point>
+         <Point Name="COWLY">+513658.00-0010354.00</Point>
+         <Point Name="CREWE">+524907.00-0021827.00</Point>
+         <Point Name="CROFT">+533737.00-0023220.00</Point>
+         <Point Name="CUTEL">+555309.00+0022228.00</Point>
+         <Point Name="DAGGA">+514919.00+0004739.00</Point>
+         <Point Name="DAGKO">+505138.00-0035328.00</Point>
+         <Point Name="DALEY">+534008.00-0022057.00</Point>
+         <Point Name="DANDI">+534104.00-0035658.00</Point>
+         <Point Name="DAUNT">+552508.00-0045247.00</Point>
+         <Point Name="DAVOT">+572042.00-0040529.00</Point>
+         <Point Name="DAWLY">+503427.00-0032750.00</Point>
+         <Point Name="DAYNE">+531419.00-0020145.00</Point>
+         <Point Name="DEGOS">+541121.00-0065423.00</Point>
+         <Point Name="DELBO">+515237.00-0011624.00</Point>
+         <Point Name="DENBY">+533113.00-0015740.00</Point>
+         <Point Name="DENOG">+572553.00-0014516.00</Point>
+         <Point Name="DESIG">+533138.00-0015334.00</Point>
+         <Point Name="DESNA">+503700.00-0004700.00</Point>
+         <Point Name="DEVAL">+505125.00+0012800.00</Point>
+         <Point Name="DEVBI">+604254.00-0084610.00</Point>
+         <Point Name="DEVOM">+504318.00-0034519.00</Point>
+         <Point Name="DEXEN">+531649.00-0053000.00</Point>
+         <Point Name="DEZZU">+513619.00-0020000.00</Point>
+         <Point Name="DIBAL">+524750.00+0023000.00</Point>
+         <Point Name="DIDEL">+505035.00-0035950.00</Point>
+         <Point Name="DIGBI">+551106.00-0010301.00</Point>
+         <Point Name="DIGMA">+533900.00-0033724.00</Point>
+         <Point Name="DIGSU">+520126.00+0003805.00</Point>
+         <Point Name="DIGUT">+513901.00-0011759.00</Point>
+         <Point Name="DIKAS">+514637.00-0031533.00</Point>
+         <Point Name="DIKVU">+511747.00+0001902.00</Point>
+         <Point Name="DIMLI">+545647.00-0063655.00</Point>
+         <Point Name="DINIM">+510000.00-0150000.00</Point>
+         <Point Name="DIPSO">+530313.00-0012039.00</Point>
+         <Point Name="DISIT">+520611.00-0014241.00</Point>
+         <Point Name="DISVO">+503931.00-0010257.00</Point>
+         <Point Name="DITOB">+521701.00+0014927.00</Point>
+         <Point Name="DIXIB">+511412.00-0005054.00</Point>
+         <Point Name="DOBEM">+515211.00-0025545.00</Point>
+         <Point Name="DOGAL">+540000.00-0150000.00</Point>
+         <Point Name="DOKEK">+512518.00-0060329.00</Point>
+         <Point Name="DOKEN">+554055.00+0020656.00</Point>
+         <Point Name="DOLAS">+525843.00+0010003.00</Point>
+         <Point Name="DOLOP">+531251.00-0033751.00</Point>
+         <Point Name="DOLUR">+492904.00-0050326.00</Point>
+         <Point Name="DOMUT">+501543.00-0014009.00</Point>
+         <Point Name="DONAX">+532911.00-0035740.00</Point>
+         <Point Name="DONIB">+554309.00-0074144.00</Point>
+         <Point Name="DONNA">+514200.00-0004437.00</Point>
+         <Point Name="DOPEK">+532304.00-0005532.00</Point>
+         <Point Name="DORKI">+511633.00-0001552.00</Point>
+         <Point Name="DOSUN">+600703.00-0062339.00</Point>
+         <Point Name="DRAKE">+501234.00-0000434.00</Point>
+         <Point Name="DUCNO">+515824.00-0021852.00</Point>
+         <Point Name="DUFFY">+543053.00-0055139.00</Point>
+         <Point Name="DUFZO">+513017.00-0042036.00</Point>
+         <Point Name="EBOTO">+522133.00-0004140.00</Point>
+         <Point Name="EDONU">+561736.00-0033341.00</Point>
+         <Point Name="EDUXO">+532424.00-0011301.00</Point>
+         <Point Name="EKLAD">+531514.00-0024929.00</Point>
+         <Point Name="EKNIV">+512426.00+0003731.00</Point>
+         <Point Name="ELBOB">+544358.00-0074438.00</Point>
+         <Point Name="ELDAX">+502918.00+0003930.00</Point>
+         <Point Name="ELDER">+503948.00-0012014.00</Point>
+         <Point Name="ELKOG">+602648.00-0093000.00</Point>
+         <Point Name="ELMUD">+550656.00-0014024.00</Point>
+         <Point Name="ELNAB">+532211.00+0011251.00</Point>
+         <Point Name="ELNOD">+532826.00-0013524.00</Point>
+         <Point Name="ELRAG">+511028.00-0050621.00</Point>
+         <Point Name="ELRIP">+503745.00-0025924.00</Point>
+         <Point Name="ELSAN">+564219.00+0034358.00</Point>
+         <Point Name="ELSOX">+510000.00-0140000.00</Point>
+         <Point Name="ELVOS">+524201.00-0011825.00</Point>
+         <Point Name="EMBOR">+525748.00-0011745.00</Point>
+         <Point Name="EMKAD">+511450.00+0004234.00</Point>
+         <Point Name="EMKUK">+515837.00-0012115.00</Point>
+         <Point Name="EMLON">+531220.00+0023000.00</Point>
+         <Point Name="EMPER">+490000.00-0090000.00</Point>
+         <Point Name="ENCOD">+531959.00-0002424.00</Point>
+         <Point Name="ENIPI">+550111.00-0031510.00</Point>
+         <Point Name="ENITO">+524805.00+0022803.00</Point>
+         <Point Name="ENUKU">+561400.00-0033819.00</Point>
+         <Point Name="EPOXI">+531959.00-0032718.00</Point>
+         <Point Name="EPUNA">+503000.00-0140000.00</Point>
+         <Point Name="ERAKA">+580000.00-0100000.00</Point>
+         <Point Name="ERDOG">+592003.00-0012504.00</Point>
+         <Point Name="ERDUV">+535235.00-0041008.00</Point>
+         <Point Name="ERFAX">+502630.00-0035903.00</Point>
+         <Point Name="ERGAB">+540922.00-0022312.00</Point>
+         <Point Name="ERGUM">+500725.00-0014450.00</Point>
+         <Point Name="ERING">+513526.00+0013643.00</Point>
+         <Point Name="ERKEX">+505241.00+0011937.00</Point>
+         <Point Name="ERKIT">+540149.00-0004949.00</Point>
+         <Point Name="ERLOT">+551714.00-0003506.00</Point>
+         <Point Name="ERNAN">+541644.00-0072334.00</Point>
+         <Point Name="ERNOK">+514130.00-0025644.00</Point>
+         <Point Name="ERSON">+562748.00-0041824.00</Point>
+         <Point Name="ESKDO">+551756.00-0031215.00</Point>
+         <Point Name="ESTRY">+533952.00-0031542.00</Point>
+         <Point Name="ETARI">+553000.00-0150000.00</Point>
+         <Point Name="ETIGA">+540239.00-0044727.00</Point>
+         <Point Name="ETILO">+573000.00-0100000.00</Point>
+         <Point Name="ETSOM">+575331.00-0093000.00</Point>
+         <Point Name="ETVAX">+505807.00+0003556.00</Point>
+         <Point Name="EVATA">+510821.00-0004558.00</Point>
+         <Point Name="EVBEV">+574710.00-0074041.00</Point>
+         <Point Name="EVEXU">+504116.00-0003441.00</Point>
+         <Point Name="EVKAL">+531547.00-0002637.00</Point>
+         <Point Name="EVMEK">+514741.00+0011218.00</Point>
+         <Point Name="EVNAL">+572431.00-0093000.00</Point>
+         <Point Name="EVNAS">+514004.00+0002638.00</Point>
+         <Point Name="EVRIN">+514656.00-0063348.00</Point>
+         <Point Name="EVSEM">+514350.00-0012745.00</Point>
+         <Point Name="EVSON">+532127.00-0013949.00</Point>
+         <Point Name="EVTES">+510455.00-0011257.00</Point>
+         <Point Name="EXARO">+510003.00-0012250.00</Point>
+         <Point Name="EXJET">+505319.00-0030532.00</Point>
+         <Point Name="EXMOR">+511043.00-0032135.00</Point>
+         <Point Name="FACTU">+522103.00-0021713.00</Point>
+         <Point Name="FENIK">+554255.00-0041731.00</Point>
+         <Point Name="FERIT">+513759.00+0003221.00</Point>
+         <Point Name="FIGZI">+515735.00-0023614.00</Point>
+         <Point Name="FINDO">+562209.00-0032749.00</Point>
+         <Point Name="FINMA">+515947.00-0010313.00</Point>
+         <Point Name="FITBO">+521309.00-0022413.00</Point>
+         <Point Name="FONZU">+504922.00-0035359.00</Point>
+         <Point Name="FORTY">+575700.00+0003545.00</Point>
+         <Point Name="FOXLA">+520157.00-0041237.00</Point>
+         <Point Name="FOYLE">+560834.00-0042256.00</Point>
+         <Point Name="FRANE">+512306.00+0003739.00</Point>
+         <Point Name="FYNER">+560256.00-0050655.00</Point>
+         <Point Name="GAJIT">+512040.00-0020000.00</Point>
+         <Point Name="GAKKA">+504137.00-0035542.00</Point>
+         <Point Name="GANKI">+564548.00-0025808.00</Point>
+         <Point Name="GAPLI">+500000.00-0080000.00</Point>
+         <Point Name="GARMI">+500000.00-0012250.00</Point>
+         <Point Name="GARVA">+574118.00-0042941.00</Point>
+         <Point Name="GASBA">+515010.00+0004853.00</Point>
+         <Point Name="GASGU">+511224.00-0005736.00</Point>
+         <Point Name="GASKO">+541329.00-0015721.00</Point>
+         <Point Name="GATRA">+511752.00-0063755.00</Point>
+         <Point Name="GAVEL">+592300.00-0012422.00</Point>
+         <Point Name="GAVGO">+513350.00-0014236.00</Point>
+         <Point Name="GELPO">+483839.00-0093009.00</Point>
+         <Point Name="GETNO">+535548.00-0032947.00</Point>
+         <Point Name="GIBSO">+504459.00-0023107.00</Point>
+         <Point Name="GIBSU">+564547.00+0031610.00</Point>
+         <Point Name="GIGTO">+533801.00-0040551.00</Point>
+         <Point Name="GIGUL">+543626.00+0031010.00</Point>
+         <Point Name="GILDA">+513606.00+0003501.00</Point>
+         <Point Name="GILTI">+513413.00+0020318.00</Point>
+         <Point Name="GINGA">+565530.00-0093000.00</Point>
+         <Point Name="GINIS">+532739.00-0045129.00</Point>
+         <Point Name="GIPER">+510000.00-0120000.00</Point>
+         <Point Name="GIPLO">+533131.00-0004723.00</Point>
+         <Point Name="GIRLI">+544241.00-0014811.00</Point>
+         <Point Name="GIRVA">+551108.00-0045347.00</Point>
+         <Point Name="GISOK">+513009.00-0050728.00</Point>
+         <Point Name="GITUS">+502000.00-0054200.00</Point>
+         <Point Name="GIVEM">+552754.00+0001453.00</Point>
+         <Point Name="GIVPO">+531710.00+0025209.00</Point>
+         <Point Name="GIVUN">+504358.00-0004803.00</Point>
+         <Point Name="GLESK">+565400.00-0024745.00</Point>
+         <Point Name="GOBNU">+512053.00-0010625.00</Point>
+         <Point Name="GODLU">+510958.00+0011704.00</Point>
+         <Point Name="GODOS">+531457.00+0032547.00</Point>
+         <Point Name="GODPA">+525900.00-0031001.00</Point>
+         <Point Name="GOGIG">+515330.00-0031502.00</Point>
+         <Point Name="GOGSI">+511727.00-0010002.00</Point>
+         <Point Name="GOKTU">+501505.00-0012245.00</Point>
+         <Point Name="GOLES">+533629.00-0010500.00</Point>
+         <Point Name="GOLVO">+542441.00+0033508.00</Point>
+         <Point Name="GOMOT">+555510.00-0003239.00</Point>
+         <Point Name="GOMUP">+570000.00-0100000.00</Point>
+         <Point Name="GONAN">+450000.00-0140000.00</Point>
+         <Point Name="GOREV">+560312.00+0050000.00</Point>
+         <Point Name="GOSAM">+554719.00-0041202.00</Point>
+         <Point Name="GOTNA">+543541.00-0053553.00</Point>
+         <Point Name="GOXUL">+512132.00-0001033.00</Point>
+         <Point Name="GRICE">+561148.00-0034108.00</Point>
+         <Point Name="GROVE">+522338.00-0015544.00</Point>
+         <Point Name="GUNPA">+610000.00+0000000.00</Point>
+         <Point Name="GUNSO">+490310.00-0114606.00</Point>
+         <Point Name="GUNTU">+533537.00-0030954.00</Point>
+         <Point Name="GUSSI">+571247.00-0040727.00</Point>
+         <Point Name="HALIF">+534406.00-0013450.00</Point>
+         <Point Name="HANKY">+510646.00-0010751.00</Point>
+         <Point Name="HARDY">+502816.00+0002928.00</Point>
+         <Point Name="HASTY">+504342.00+0003200.00</Point>
+         <Point Name="HAVEN">+552740.00-0025947.00</Point>
+         <Point Name="HAWKE">+502227.00+0000525.00</Point>
+         <Point Name="HAZEL">+510019.00-0005904.00</Point>
+         <Point Name="HEMEL">+514820.00-0002510.00</Point>
+         <Point Name="HERON">+552035.00-0050000.00</Point>
+         <Point Name="HICAP">+510516.00-0035024.00</Point>
+         <Point Name="HILLY">+512006.00+0001437.00</Point>
+         <Point Name="HOFIK">+512605.00-0020000.00</Point>
+         <Point Name="HOLLY">+505312.00-0000542.00</Point>
+         <Point Name="HOTBE">+504749.00-0035419.00</Point>
+         <Point Name="IBGON">+510047.00-0004758.00</Point>
+         <Point Name="IBNID">+503144.00-0014708.00</Point>
+         <Point Name="IBOLU">+562310.00-0030803.00</Point>
+         <Point Name="IBRAR">+533154.00-0034111.00</Point>
+         <Point Name="IBROD">+563000.00-0100000.00</Point>
+         <Point Name="IBTES">+542625.00-0050315.00</Point>
+         <Point Name="IDESI">+515352.00+0015308.00</Point>
+         <Point Name="IDEXA">+532814.00-0050951.00</Point>
+         <Point Name="IDGAS">+541423.00-0043329.00</Point>
+         <Point Name="IDITU">+513225.00+0005837.00</Point>
+         <Point Name="IDKOL">+540543.00-0015945.00</Point>
+         <Point Name="IDOKI">+495137.00-0061139.00</Point>
+         <Point Name="IDOVO">+521326.00-0033304.00</Point>
+         <Point Name="ILZAP">+513543.00-0051135.00</Point>
+         <Point Name="IMVUR">+511029.00-0003156.00</Point>
+         <Point Name="INBAS">+564200.00-0041459.00</Point>
+         <Point Name="INBOB">+553625.00+0050000.00</Point>
+         <Point Name="INDOX">+511840.00-0010114.00</Point>
+         <Point Name="INGUR">+514242.00-0025137.00</Point>
+         <Point Name="INKEK">+503853.00-0003209.00</Point>
+         <Point Name="INKOB">+535216.00-0042414.00</Point>
+         <Point Name="INLAK">+512841.00-0013127.00</Point>
+         <Point Name="INLIM">+515423.00+0011913.00</Point>
+         <Point Name="INPIP">+545236.00-0025346.00</Point>
+         <Point Name="INPUT">+551818.00+0043905.00</Point>
+         <Point Name="INREV">+550857.00-0030539.00</Point>
+         <Point Name="INRUB">+514910.00-0035141.00</Point>
+         <Point Name="INSUN">+502343.00-0061924.00</Point>
+         <Point Name="IPDOR">+552239.00-0031545.00</Point>
+         <Point Name="IPKUS">+513152.00+0002319.00</Point>
+         <Point Name="IPNOX">+541340.00-0024222.00</Point>
+         <Point Name="IPRIL">+514029.00-0001335.00</Point>
+         <Point Name="IPSAD">+552145.00-0024114.00</Point>
+         <Point Name="IPSET">+543106.00-0052709.00</Point>
+         <Point Name="IPSIR">+540454.00-0015657.00</Point>
+         <Point Name="IPZOL">+505427.00-0031340.00</Point>
+         <Point Name="IRKUM">+525948.00-0052239.00</Point>
+         <Point Name="IRKUN">+505516.00+0012800.00</Point>
+         <Point Name="ITJON">+512832.00-0025908.00</Point>
+         <Point Name="ITSUX">+560300.00+0033000.00</Point>
+         <Point Name="ITVIP">+511714.00+0010312.00</Point>
+         <Point Name="IVLOD">+530746.00-0030919.00</Point>
+         <Point Name="IXURA">+520405.00-0012540.00</Point>
+         <Point Name="JACKO">+514409.00+0012536.00</Point>
+         <Point Name="JOZMA">+503738.00-0035635.00</Point>
+         <Point Name="KAPEX">+504030.00-0015100.00</Point>
+         <Point Name="KARNO">+525340.00-0025354.00</Point>
+         <Point Name="KATHY">+503114.00-0012000.00</Point>
+         <Point Name="KEGUN">+531133.00-0030901.00</Point>
+         <Point Name="KELLY">+535419.00-0042151.00</Point>
+         <Point Name="KEMPY">+520739.00+0003846.00</Point>
+         <Point Name="KENET">+513114.00-0012718.00</Point>
+         <Point Name="KEPAD">+524835.00-0022844.00</Point>
+         <Point Name="KESEG">+600058.00-0060056.00</Point>
+         <Point Name="KESIX">+565700.00-0140000.00</Point>
+         <Point Name="KESUP">+511932.00-0033917.00</Point>
+         <Point Name="KIDLI">+514617.00-0012141.00</Point>
+         <Point Name="KILFA">+514209.00-0015759.00</Point>
+         <Point Name="KLONN">+582324.00+0024944.00</Point>
+         <Point Name="KOBBI">+514114.00-0000918.00</Point>
+         <Point Name="KOFAL">+502831.00-0035836.00</Point>
+         <Point Name="KOGAD">+493000.00-0150000.00</Point>
+         <Point Name="KOKAL">+585735.00-0025338.00</Point>
+         <Point Name="KOKIB">+543000.00-0140000.00</Point>
+         <Point Name="KOLAG">+530237.00+0031518.00</Point>
+         <Point Name="KOLID">+533426.00-0024520.00</Point>
+         <Point Name="KONAN">+510751.00+0020000.00</Point>
+         <Point Name="KOPUL">+513232.00+0010814.00</Point>
+         <Point Name="KOTEM">+500000.00-0010314.00</Point>
+         <Point Name="KOXOD">+504229.00-0031958.00</Point>
+         <Point Name="KUBAX">+525634.00+0025713.00</Point>
+         <Point Name="KUGUR">+553000.00-0100000.00</Point>
+         <Point Name="KUKIS">+514156.00-0030437.00</Point>
+         <Point Name="KUMIL">+503431.00-0013639.00</Point>
+         <Point Name="KUNAV">+503054.00+0010356.00</Point>
+         <Point Name="KUVOX">+580459.00-0073624.00</Point>
+         <Point Name="KUXEM">+531511.00-0024047.00</Point>
+         <Point Name="LAGAV">+565335.00-0041210.00</Point>
+         <Point Name="LAKEY">+541420.00-0025852.00</Point>
+         <Point Name="LAMAT">+511807.00-0030103.00</Point>
+         <Point Name="LAMIX">+531829.00-0004056.00</Point>
+         <Point Name="LAMMA">+555130.00-0024603.00</Point>
+         <Point Name="LAMRO">+570151.00+0033309.00</Point>
+         <Point Name="LAMSO">+524358.00+0025940.00</Point>
+         <Point Name="LANAK">+554201.00-0035619.00</Point>
+         <Point Name="LANON">+522552.00-0042221.00</Point>
+         <Point Name="LANPI">+521115.00-0052330.00</Point>
+         <Point Name="LANVA">+534348.00-0042638.00</Point>
+         <Point Name="LAPRA">+520707.00+0011236.00</Point>
+         <Point Name="LARCK">+505442.00+0002648.00</Point>
+         <Point Name="LARDI">+533616.00+0033057.00</Point>
+         <Point Name="LARGA">+545150.00+0040912.00</Point>
+         <Point Name="LARLA">+492241.00-0070715.00</Point>
+         <Point Name="LASNO">+483554.00-0090000.00</Point>
+         <Point Name="LATMU">+531525.00+0020522.00</Point>
+         <Point Name="LAVRI">+511549.00+0003449.00</Point>
+         <Point Name="LAZTU">+514216.00-0045200.00</Point>
+         <Point Name="LEDBO">+523235.00+0020608.00</Point>
+         <Point Name="LEDGO">+511424.00-0073405.00</Point>
+         <Point Name="LEGRO">+531935.00+0013046.00</Point>
+         <Point Name="LELDO">+534300.00-0040507.00</Point>
+         <Point Name="LELNA">+495857.00-0020623.00</Point>
+         <Point Name="LEMGU">+522422.00-0052236.00</Point>
+         <Point Name="LESLU">+510000.00-0080000.00</Point>
+         <Point Name="LESNI">+573233.00-0011622.00</Point>
+         <Point Name="LESRA">+552308.00+0050000.00</Point>
+         <Point Name="LESTA">+524427.00-0010419.00</Point>
+         <Point Name="LIBBA">+554326.00-0034443.00</Point>
+         <Point Name="LIBSO">+533129.00+0000536.00</Point>
+         <Point Name="LIFFY">+532848.00-0053000.00</Point>
+         <Point Name="LIMKA">+543026.00-0051311.00</Point>
+         <Point Name="LINDY">+512814.00-0010257.00</Point>
+         <Point Name="LIPGO">+530350.00-0053000.00</Point>
+         <Point Name="LISBO">+543130.00-0060524.00</Point>
+         <Point Name="LISTO">+530836.00-0021157.00</Point>
+         <Point Name="LIVSU">+514149.00+0005058.00</Point>
+         <Point Name="LIZAD">+493525.00-0041949.00</Point>
+         <Point Name="LOFFO">+515012.00+0003556.00</Point>
+         <Point Name="LOGAN">+514451.00+0013643.00</Point>
+         <Point Name="LOMON">+560346.00-0043448.00</Point>
+         <Point Name="LOMVO">+531616.00-0051046.00</Point>
+         <Point Name="LONAM">+535022.00+0035633.00</Point>
+         <Point Name="LOREL">+520050.00-0000310.00</Point>
+         <Point Name="LORKU">+495618.00-0022216.00</Point>
+         <Point Name="LOVEL">+531506.00-0021628.00</Point>
+         <Point Name="LUCCO">+552049.00-0043341.00</Point>
+         <Point Name="LUFTU">+515139.00-0035501.00</Point>
+         <Point Name="LUGIS">+500000.00-0005220.00</Point>
+         <Point Name="LULOX">+502200.00-0080000.00</Point>
+         <Point Name="LUSEN">+603000.00-0100000.00</Point>
+         <Point Name="LUSIV">+554002.00-0041441.00</Point>
+         <Point Name="LUSOD">+535623.00-0041926.00</Point>
+         <Point Name="LUTIP">+531522.00-0044416.00</Point>
+         <Point Name="LUTOV">+551422.00-0100000.00</Point>
+         <Point Name="LUXIV">+510511.00-0004657.00</Point>
+         <Point Name="LUXTO">+520831.00-0020338.00</Point>
+         <Point Name="LYNAS">+532633.00-0042000.00</Point>
+         <Point Name="MABUG">+494705.00-0055612.00</Point>
+         <Point Name="MADAD">+555447.00-0014402.00</Point>
+         <Point Name="MAGEE">+544730.00-0053630.00</Point>
+         <Point Name="MAKUX">+535830.00-0045228.00</Point>
+         <Point Name="MALBY">+513533.00-0020342.00</Point>
+         <Point Name="MALUD">+532448.00-0033630.00</Point>
+         <Point Name="MAMUL">+532505.00-0011648.00</Point>
+         <Point Name="MANGO">+514134.00+0004726.00</Point>
+         <Point Name="MANIG">+494707.00-0031534.00</Point>
+         <Point Name="MARUK">+501447.00-0020420.00</Point>
+         <Point Name="MASOP">+540921.00-0042115.00</Point>
+         <Point Name="MATCH">+514645.00+0001500.00</Point>
+         <Point Name="MATIK">+610000.00-0080400.00</Point>
+         <Point Name="MATUT">+541017.00-0043822.00</Point>
+         <Point Name="MAVET">+540257.00-0033104.00</Point>
+         <Point Name="MAXIT">+511459.00-0003343.00</Point>
+         <Point Name="MAYLA">+513741.00+0004312.00</Point>
+         <Point Name="MEDOG">+515701.00-0033258.00</Point>
+         <Point Name="MEGEL">+522058.00+0020425.00</Point>
+         <Point Name="MERLY">+512000.00-0050000.00</Point>
+         <Point Name="MIMBI">+513257.00-0014136.00</Point>
+         <Point Name="MIMKU">+560000.00-0100000.00</Point>
+         <Point Name="MIMVA">+530603.00+0031813.00</Point>
+         <Point Name="MIPVO">+521329.00+0013609.00</Point>
+         <Point Name="MIRSI">+533217.00-0024242.00</Point>
+         <Point Name="MITSO">+533907.00-0005338.00</Point>
+         <Point Name="MIVLA">+504630.00-0011558.00</Point>
+         <Point Name="MOCHA">+593256.00-0012159.00</Point>
+         <Point Name="MODGO">+602643.00-0073955.00</Point>
+         <Point Name="MODMI">+511401.00-0002910.00</Point>
+         <Point Name="MOGLI">+521830.00-0001609.00</Point>
+         <Point Name="MOGLO">+553000.00-0140000.00</Point>
+         <Point Name="MOGMO">+532443.00-0011251.00</Point>
+         <Point Name="MOGTA">+531008.00-0023810.00</Point>
+         <Point Name="MOKBU">+511610.00+0012914.00</Point>
+         <Point Name="MOLAK">+543649.00-0093023.00</Point>
+         <Point Name="MOLIX">+524919.00+0030407.00</Point>
+         <Point Name="MONTY">+525334.00-0031026.00</Point>
+         <Point Name="MOPAT">+512955.00-0070537.00</Point>
+         <Point Name="MORAG">+524510.00-0053000.00</Point>
+         <Point Name="MOSIS">+490026.00-0071253.00</Point>
+         <Point Name="MOSUN">+515338.00-0022610.00</Point>
+         <Point Name="MOTOX">+505728.00+0012800.00</Point>
+         <Point Name="MOVEN">+520343.00-0014847.00</Point>
+         <Point Name="MULIT">+510047.00-0032319.00</Point>
+         <Point Name="NAKID">+494254.00-0043723.00</Point>
+         <Point Name="NALAN">+610000.00-0060000.00</Point>
+         <Point Name="NALAX">+532900.00+0002406.00</Point>
+         <Point Name="NANEV">+573429.00-0022714.00</Point>
+         <Point Name="NANTI">+530815.00-0023401.00</Point>
+         <Point Name="NANUM">+520135.00-0013747.00</Point>
+         <Point Name="NAPEX">+531223.00-0005140.00</Point>
+         <Point Name="NATEB">+550218.00-0014154.00</Point>
+         <Point Name="NATKO">+532712.00-0043807.00</Point>
+         <Point Name="NAVEL">+553513.00+0005031.00</Point>
+         <Point Name="NAVOV">+514831.00-0031525.00</Point>
+         <Point Name="NAVPI">+523250.00+0025026.00</Point>
+         <Point Name="NAVSO">+551322.00-0034849.00</Point>
+         <Point Name="NAXAT">+514721.00-0015756.00</Point>
+         <Point Name="NAXIL">+565724.00-0024326.00</Point>
+         <Point Name="NEDEX">+515237.00-0012820.00</Point>
+         <Point Name="NEDUL">+503958.00-0013252.00</Point>
+         <Point Name="NEKAP">+514335.00-0051726.00</Point>
+         <Point Name="NELBO">+542924.00-0051810.00</Point>
+         <Point Name="NELKO">+504214.00-0005718.00</Point>
+         <Point Name="NELSA">+535148.00-0021105.00</Point>
+         <Point Name="NENVO">+524238.00-0025315.00</Point>
+         <Point Name="NEPNA">+512958.00+0002657.00</Point>
+         <Point Name="NERTU">+490000.00-0140000.00</Point>
+         <Point Name="NESDI">+570718.00-0040848.00</Point>
+         <Point Name="NESON">+541346.00-0070724.00</Point>
+         <Point Name="NETKI">+550000.00-0140000.00</Point>
+         <Point Name="NETVU">+502445.00+0002854.00</Point>
+         <Point Name="NEVIL">+500000.00-0002206.00</Point>
+         <Point Name="NEVIS">+564143.00-0043241.00</Point>
+         <Point Name="NEVRI">+540406.00-0061611.00</Point>
+         <Point Name="NEXUS">+561243.00-0015041.00</Point>
+         <Point Name="NEXXU">+513248.00-0044338.00</Point>
+         <Point Name="NEZZA">+512352.00-0031916.00</Point>
+         <Point Name="NIBDA">+510052.00-0005501.00</Point>
+         <Point Name="NIBOG">+550000.00-0100000.00</Point>
+         <Point Name="NIDGO">+505658.00-0004608.00</Point>
+         <Point Name="NIGIT">+511847.00-0011015.00</Point>
+         <Point Name="NILAV">+450000.00-0132500.00</Point>
+         <Point Name="NILGI">+524835.00-0031050.00</Point>
+         <Point Name="NILON">+513546.00+0003804.00</Point>
+         <Point Name="NIMAT">+535754.00-0054432.00</Point>
+         <Point Name="NINEB">+540344.00-0040742.00</Point>
+         <Point Name="NINEX">+585120.00-0093000.00</Point>
+         <Point Name="NIPIT">+542709.00-0082410.00</Point>
+         <Point Name="NISBI">+532129.00-0003921.00</Point>
+         <Point Name="NISKA">+541500.00-0023033.00</Point>
+         <Point Name="NITON">+523312.00-0031201.00</Point>
+         <Point Name="NIVKO">+505606.00+0003228.00</Point>
+         <Point Name="NIVUN">+573412.00+0040813.00</Point>
+         <Point Name="NOBDO">+550453.00+0024748.00</Point>
+         <Point Name="NOCAD">+535837.00-0045913.00</Point>
+         <Point Name="NOKIN">+530436.00-0025258.00</Point>
+         <Point Name="NOMSU">+532806.00-0032604.00</Point>
+         <Point Name="NONVA">+513846.00+0012144.00</Point>
+         <Point Name="NOPKI">+540516.00-0042608.00</Point>
+         <Point Name="NORBO">+553545.00-0044543.00</Point>
+         <Point Name="NORLA">+513709.00-0065211.00</Point>
+         <Point Name="NORRY">+512847.00-0010724.00</Point>
+         <Point Name="NOSLO">+532254.00-0033842.00</Point>
+         <Point Name="NOTGI">+503510.00-0002503.00</Point>
+         <Point Name="NOTRO">+502612.00-0031021.00</Point>
+         <Point Name="NOVBA">+561200.00-0031051.00</Point>
+         <Point Name="NOVMA">+510212.00-0004515.00</Point>
+         <Point Name="NUBRI">+512017.00-0011356.00</Point>
+         <Point Name="NUDNA">+520355.00+0005017.00</Point>
+         <Point Name="NUGBO">+515822.00-0000412.00</Point>
+         <Point Name="NUGRA">+530146.00-0021814.00</Point>
+         <Point Name="NULGU">+505217.00-0015939.00</Point>
+         <Point Name="NUMPI">+540840.00-0053536.00</Point>
+         <Point Name="NUMPO">+513636.00-0031701.00</Point>
+         <Point Name="OBOXA">+541036.00-0015420.00</Point>
+         <Point Name="OBUBA">+574640.00-0073319.00</Point>
+         <Point Name="OBUNI">+535440.00-0024433.00</Point>
+         <Point Name="ODADA">+505456.00-0052634.00</Point>
+         <Point Name="ODIGI">+551144.00-0032539.00</Point>
+         <Point Name="ODMIX">+565812.00+0012803.00</Point>
+         <Point Name="ODMOS">+544526.00+0030252.00</Point>
+         <Point Name="ODNEK">+533437.00-0001813.00</Point>
+         <Point Name="ODPEX">+592436.00-0093000.00</Point>
+         <Point Name="ODREP">+500000.00-0013007.00</Point>
+         <Point Name="ODROB">+513915.00+0015445.00</Point>
+         <Point Name="ODUKU">+513532.00+0001715.00</Point>
+         <Point Name="ODVIK">+510957.00+0002909.00</Point>
+         <Point Name="ODVOD">+520756.00+0000853.00</Point>
+         <Point Name="OGAGI">+492722.00-0050157.00</Point>
+         <Point Name="OGTUG">+534012.00-0050850.00</Point>
+         <Point Name="OKESI">+512636.00-0020342.00</Point>
+         <Point Name="OKNOB">+552145.00-0044942.00</Point>
+         <Point Name="OKPAL">+564921.00-0020435.00</Point>
+         <Point Name="OKTAD">+514904.00-0023246.00</Point>
+         <Point Name="OKTEM">+524310.00-0031115.00</Point>
+         <Point Name="OKVAP">+505749.00+0011956.00</Point>
+         <Point Name="OLGUD">+504356.00-0013122.00</Point>
+         <Point Name="OLNEY">+520740.00-0004403.00</Point>
+         <Point Name="OLPOP">+540532.00-0023208.00</Point>
+         <Point Name="OMOKO">+485020.00-0120000.00</Point>
+         <Point Name="ORIST">+500000.00-0015042.00</Point>
+         <Point Name="ORSUM">+570307.00-0051741.00</Point>
+         <Point Name="ORTAC">+495957.00-0020018.00</Point>
+         <Point Name="ORTAV">+593000.00-0100000.00</Point>
+         <Point Name="ORVIK">+593818.00+0004009.00</Point>
+         <Point Name="ORVUL">+551039.00-0041007.00</Point>
+         <Point Name="ORVUX">+503153.00-0035107.00</Point>
+         <Point Name="OSBON">+610000.00-0050000.00</Point>
+         <Point Name="OSBOX">+564823.00-0124806.00</Point>
+         <Point Name="OSDEB">+505655.00+0002448.00</Point>
+         <Point Name="OSGIL">+513520.00-0050745.00</Point>
+         <Point Name="OSKOT">+522030.00-0020330.00</Point>
+         <Point Name="OSLEL">+572858.00-0013158.00</Point>
+         <Point Name="OSMAP">+495211.00-0054229.00</Point>
+         <Point Name="OSMEG">+550826.00-0040603.00</Point>
+         <Point Name="OSNUG">+505336.00-0020014.00</Point>
+         <Point Name="OSPOL">+500900.00-0001108.00</Point>
+         <Point Name="OTBED">+531717.00+0000155.00</Point>
+         <Point Name="OTBUN">+551650.00-0022600.00</Point>
+         <Point Name="OTMET">+504055.00-0023053.00</Point>
+         <Point Name="OTSID">+511023.00-0001351.00</Point>
+         <Point Name="OVDAN">+575321.00+0001818.00</Point>
+         <Point Name="OXLOW">+510155.00-0020000.00</Point>
+         <Point Name="PAAVO">+515149.00+0005116.00</Point>
+         <Point Name="PAVLO">+505605.00-0055344.00</Point>
+         <Point Name="PEDIG">+524448.00-0014310.00</Point>
+         <Point Name="PELET">+543912.00+0032552.00</Point>
+         <Point Name="PEMAK">+492656.00-0061305.00</Point>
+         <Point Name="PEMOB">+520838.00-0050941.00</Point>
+         <Point Name="PEMOS">+610000.00-0040000.00</Point>
+         <Point Name="PENIL">+533657.00-0033949.00</Point>
+         <Point Name="PENUN">+570636.00+0045011.00</Point>
+         <Point Name="PENUX">+510632.00+0003412.00</Point>
+         <Point Name="PEPEG">+540106.00-0043105.00</Point>
+         <Point Name="PEPIN">+595931.00+0000054.00</Point>
+         <Point Name="PEPIS">+511148.00-0011437.00</Point>
+         <Point Name="PEPOD">+541616.00-0053409.00</Point>
+         <Point Name="PEPUL">+521603.00-0015314.00</Point>
+         <Point Name="PERUP">+514234.00-0025632.00</Point>
+         <Point Name="PETIL">+555620.00+0050000.00</Point>
+         <Point Name="PETOX">+573333.00-0014902.00</Point>
+         <Point Name="PHILI">+492831.00-0070117.00</Point>
+         <Point Name="PIBUX">+513459.00+0014657.00</Point>
+         <Point Name="PIGOT">+522943.00-0010407.00</Point>
+         <Point Name="PIKIL">+560000.00-0150000.00</Point>
+         <Point Name="PIKOD">+492438.00-0051559.00</Point>
+         <Point Name="PILIP">+502003.00-0010026.00</Point>
+         <Point Name="PIPAR">+560700.00-0031206.00</Point>
+         <Point Name="PIPEM">+580923.00-0034419.00</Point>
+         <Point Name="PIPIN">+523636.00-0005630.00</Point>
+         <Point Name="PIXAM">+520447.00+0015650.00</Point>
+         <Point Name="PIXUP">+520151.00-0010640.00</Point>
+         <Point Name="PLYMO">+502045.00-0043737.00</Point>
+         <Point Name="POMAX">+513138.00-0020452.00</Point>
+         <Point Name="POTON">+520504.00-0002538.00</Point>
+         <Point Name="PUFAX">+521852.00-0012042.00</Point>
+         <Point Name="PUPJO">+513059.00-0020000.00</Point>
+         <Point Name="RAMID">+525728.00+0023000.00</Point>
+         <Point Name="RAMOX">+533937.00-0045022.00</Point>
+         <Point Name="RAPIX">+512638.00+0020000.00</Point>
+         <Point Name="RAPUM">+545518.00-0015258.00</Point>
+         <Point Name="RATKA">+493000.00-0080000.00</Point>
+         <Point Name="RATLO">+515929.00+0014055.00</Point>
+         <Point Name="RATPU">+565532.00-0020659.00</Point>
+         <Point Name="RATSU">+610000.00-0100000.00</Point>
+         <Point Name="RAVDI">+592957.00-0012242.00</Point>
+         <Point Name="RAVLO">+525501.00+0030854.00</Point>
+         <Point Name="REDFA">+520653.00+0022917.00</Point>
+         <Point Name="REGSI">+525119.00+0000151.00</Point>
+         <Point Name="REKNA">+561029.00+0033000.00</Point>
+         <Point Name="REMSI">+535737.00-0034932.00</Point>
+         <Point Name="RESNO">+550000.00-0150000.00</Point>
+         <Point Name="RETSI">+523042.00-0025233.00</Point>
+         <Point Name="REXAM">+530400.00-0030937.00</Point>
+         <Point Name="RIBEL">+540058.00-0021723.00</Point>
+         <Point Name="RIGDI">+501615.00-0055929.00</Point>
+         <Point Name="RIGVU">+584736.00+0020918.00</Point>
+         <Point Name="RILES">+515655.00-0025522.00</Point>
+         <Point Name="RIMOL">+573233.00-0040230.00</Point>
+         <Point Name="RIMTO">+534303.00-0012559.00</Point>
+         <Point Name="RIMUP">+505149.00-0004339.00</Point>
+         <Point Name="RIMVU">+534511.00-0050825.00</Point>
+         <Point Name="RINGA">+542354.00-0053416.00</Point>
+         <Point Name="RINIS">+515430.00+0021921.00</Point>
+         <Point Name="RINTI">+510158.00+0013656.00</Point>
+         <Point Name="RIPNO">+545632.00-0034415.00</Point>
+         <Point Name="RISDU">+573631.00-0014824.00</Point>
+         <Point Name="RISIN">+514139.00-0012628.00</Point>
+         <Point Name="RISLA">+530151.00-0025312.00</Point>
+         <Point Name="RITSI">+554209.00-0013926.00</Point>
+         <Point Name="RIVOT">+562429.00+0004637.00</Point>
+         <Point Name="RIXUN">+610000.00-0030000.00</Point>
+         <Point Name="ROBBO">+555323.00-0045437.00</Point>
+         <Point Name="ROBEM">+552733.00-0010114.00</Point>
+         <Point Name="ROBOP">+542709.00-0052005.00</Point>
+         <Point Name="ROBVA">+524804.00-0025334.00</Point>
+         <Point Name="RODEL">+503000.00-0150000.00</Point>
+         <Point Name="RODOL">+531417.00-0015143.00</Point>
+         <Point Name="RODSI">+544756.00+0025335.00</Point>
+         <Point Name="ROGAG">+531406.00-0001745.00</Point>
+         <Point Name="ROGBI">+521747.00-0012006.00</Point>
+         <Point Name="ROKAN">+533948.00+0031120.00</Point>
+         <Point Name="ROKKE">+510412.00+0000242.00</Point>
+         <Point Name="ROKSI">+503013.00-0021251.00</Point>
+         <Point Name="ROKUP">+530102.00-0013057.00</Point>
+         <Point Name="ROLEX">+532542.00-0035804.00</Point>
+         <Point Name="ROLUM">+541820.00+0031831.00</Point>
+         <Point Name="ROPAL">+550817.00+0035643.00</Point>
+         <Point Name="ROPMU">+520614.00+0002917.00</Point>
+         <Point Name="ROSUN">+534008.00-0022057.00</Point>
+         <Point Name="ROTEV">+540144.00-0060358.00</Point>
+         <Point Name="ROTNO">+505126.00+0004641.00</Point>
+         <Point Name="ROVNI">+535313.00+0003901.00</Point>
+         <Point Name="ROXAT">+532449.00+0030000.00</Point>
+         <Point Name="ROXOG">+501558.00-0013344.00</Point>
+         <Point Name="RUBEX">+551912.00-0065607.00</Point>
+         <Point Name="RUBMI">+501646.00-0021943.00</Point>
+         <Point Name="RUDMO">+504640.00-0010127.00</Point>
+         <Point Name="RUGER">+532858.00-0032652.00</Point>
+         <Point Name="RUGID">+572209.00-0045355.00</Point>
+         <Point Name="RULAV">+532614.00-0051001.00</Point>
+         <Point Name="SABER">+514214.00+0005658.00</Point>
+         <Point Name="SALCO">+494414.00-0033146.00</Point>
+         <Point Name="SAMON">+511921.00-0072504.00</Point>
+         <Point Name="SANBA">+530822.00-0022003.00</Point>
+         <Point Name="SANDY">+510351.00+0010403.00</Point>
+         <Point Name="SAPCO">+523225.00-0012125.00</Point>
+         <Point Name="SEMMU">+524641.00-0040222.00</Point>
+         <Point Name="SETEL">+540045.00-0022609.00</Point>
+         <Point Name="SHAPP">+543000.00-0023738.00</Point>
+         <Point Name="SIDDI">+503107.00-0035802.00</Point>
+         <Point Name="SILVA">+515051.00-0010019.00</Point>
+         <Point Name="SIREN">+513415.00-0015229.00</Point>
+         <Point Name="SIRGO">+513746.00+0003847.00</Point>
+         <Point Name="SITET">+500600.00+0000000.00</Point>
+         <Point Name="SITKU">+534436.00-0044954.00</Point>
+         <Point Name="SIVBU">+532755.00-0003444.00</Point>
+         <Point Name="SIVDA">+522122.00+0000147.00</Point>
+         <Point Name="SKERY">+500000.00-0031023.00</Point>
+         <Point Name="SKESO">+494929.00-0030203.00</Point>
+         <Point Name="SKINA">+524817.00-0014623.00</Point>
+         <Point Name="SLANY">+520931.00-0055032.00</Point>
+         <Point Name="SLYDA">+541204.00-0050515.00</Point>
+         <Point Name="SMOKI">+574637.00-0023556.00</Point>
+         <Point Name="SOBDO">+500426.00-0070700.00</Point>
+         <Point Name="SOKDU">+503939.00-0020133.00</Point>
+         <Point Name="SOMAX">+500000.00-0150000.00</Point>
+         <Point Name="SOMVA">+521826.00+0023838.00</Point>
+         <Point Name="SONDO">+520506.00+0014842.00</Point>
+         <Point Name="SONEX">+532953.00-0021021.00</Point>
+         <Point Name="SONOG">+520620.00+0021610.00</Point>
+         <Point Name="SOPAX">+533849.00-0042708.00</Point>
+         <Point Name="SOPEK">+530632.00+0023000.00</Point>
+         <Point Name="SOPIT">+515730.00-0010626.00</Point>
+         <Point Name="SOPTO">+551820.00+0050000.00</Point>
+         <Point Name="SOPTU">+503554.00-0040918.00</Point>
+         <Point Name="SOSAR">+610000.00-0020000.00</Point>
+         <Point Name="SOSIM">+534856.00-0043030.00</Point>
+         <Point Name="SOTUN">+541036.00+0033737.00</Point>
+         <Point Name="SOVAT">+504646.00+0012800.00</Point>
+         <Point Name="SOVED">+560000.00-0140000.00</Point>
+         <Point Name="SOXON">+585806.00-0035222.00</Point>
+         <Point Name="SOXUX">+503546.00+0005545.00</Point>
+         <Point Name="SPEAR">+513434.00+0004201.00</Point>
+         <Point Name="STAFA">+525141.00-0021435.00</Point>
+         <Point Name="STIRA">+560802.00-0035001.00</Point>
+         <Point Name="STOAT">+520133.00-0000115.00</Point>
+         <Point Name="SUBIP">+502644.00+0005306.00</Point>
+         <Point Name="SUBUK">+542248.00-0031711.00</Point>
+         <Point Name="SUDBY">+551745.00-0041606.00</Point>
+         <Point Name="SUMIN">+551946.00-0040318.00</Point>
+         <Point Name="SUMUM">+513814.00+0020628.00</Point>
+         <Point Name="SUNFI">+505802.00-0035202.00</Point>
+         <Point Name="SUNOT">+570000.00-0150000.00</Point>
+         <Point Name="SUNUP">+512731.00+0015227.00</Point>
+         <Point Name="SUPAP">+492602.00-0054922.00</Point>
+         <Point Name="SUPEL">+531340.00+0003528.00</Point>
+         <Point Name="SUPIT">+571957.00-0070506.00</Point>
+         <Point Name="SURAT">+555456.00+0033000.00</Point>
+         <Point Name="SUSIS">+553617.00-0002102.00</Point>
+         <Point Name="SWANY">+513334.00-0040748.00</Point>
+         <Point Name="TABEN">+512149.00-0011022.00</Point>
+         <Point Name="TABIS">+520032.00+0002644.00</Point>
+         <Point Name="TADAL">+533514.00-0030135.00</Point>
+         <Point Name="TADEX">+545124.00-0081401.00</Point>
+         <Point Name="TAKAS">+490000.00-0080000.00</Point>
+         <Point Name="TALGA">+515730.00-0031444.00</Point>
+         <Point Name="TALIG">+493059.00-0054804.00</Point>
+         <Point Name="TAMEL">+484343.00-0102950.00</Point>
+         <Point Name="TANET">+512658.00+0005532.00</Point>
+         <Point Name="TARTN">+554302.00-0030819.00</Point>
+         <Point Name="TEBRA">+512920.00+0013643.00</Point>
+         <Point Name="TEDSA">+520303.00+0010739.00</Point>
+         <Point Name="TELBA">+523952.00-0021907.00</Point>
+         <Point Name="TELTU">+504840.00-0004518.00</Point>
+         <Point Name="TENDO">+540144.00+0001447.00</Point>
+         <Point Name="TENSO">+533602.00-0021227.00</Point>
+         <Point Name="TERKO">+513732.00+0004448.00</Point>
+         <Point Name="TESDO">+500726.00-0070700.00</Point>
+         <Point Name="TEVMO">+511025.00+0012459.00</Point>
+         <Point Name="TEVSI">+512101.00-0010301.00</Point>
+         <Point Name="THRED">+502955.00-0013950.00</Point>
+         <Point Name="TIBGA">+522326.00-0052705.00</Point>
+         <Point Name="TIGER">+510402.00+0002622.00</Point>
+         <Point Name="TIGGY">+503701.00-0005130.00</Point>
+         <Point Name="TILNI">+543251.00-0015118.00</Point>
+         <Point Name="TIMBA">+505644.00+0001542.00</Point>
+         <Point Name="TIMIS">+535701.00-0043556.00</Point>
+         <Point Name="TIMPO">+523332.00-0010950.00</Point>
+         <Point Name="TINAC">+561503.00+0050000.00</Point>
+         <Point Name="TINAN">+504000.00-0032654.00</Point>
+         <Point Name="TINDI">+540214.00+0031529.00</Point>
+         <Point Name="TIPAN">+543554.00+0042356.00</Point>
+         <Point Name="TIPIL">+531000.00-0014423.00</Point>
+         <Point Name="TIPOD">+532608.00-0031705.00</Point>
+         <Point Name="TIPTA">+544813.00-0013641.00</Point>
+         <Point Name="TIVER">+504833.00-0032526.00</Point>
+         <Point Name="TIXEX">+520748.00-0010043.00</Point>
+         <Point Name="TOBID">+521300.00-0012759.00</Point>
+         <Point Name="TOBIX">+513617.00+0011651.00</Point>
+         <Point Name="TOBMO">+564538.00-0062811.00</Point>
+         <Point Name="TOFED">+511736.00-0021549.00</Point>
+         <Point Name="TOLSA">+530737.00+0030629.00</Point>
+         <Point Name="TOPPA">+532409.00+0033341.00</Point>
+         <Point Name="TOPRO">+515442.00-0031457.00</Point>
+         <Point Name="TORGO">+530757.00-0031559.00</Point>
+         <Point Name="TOSVA">+514037.00+0020426.00</Point>
+         <Point Name="TOTRI">+514630.00+0001148.00</Point>
+         <Point Name="TOVGU">+514403.00+0004538.00</Point>
+         <Point Name="TOXTA">+551506.00-0042705.00</Point>
+         <Point Name="TRIPO">+514247.00+0010458.00</Point>
+         <Point Name="TUBSU">+520406.00-0014028.00</Point>
+         <Point Name="TUFOZ">+510101.00-0003024.00</Point>
+         <Point Name="TUGPO">+513710.00+0005452.00</Point>
+         <Point Name="TULTA">+483437.00-0080000.00</Point>
+         <Point Name="TUMTI">+530440.00-0013615.00</Point>
+         <Point Name="TUNBY">+511008.00+0001929.00</Point>
+         <Point Name="TUNSO">+550640.00-0045741.00</Point>
+         <Point Name="TUPEM">+535017.00-0032855.00</Point>
+         <Point Name="TURLU">+500435.00-0080000.00</Point>
+         <Point Name="TUXOS">+555824.00-0073135.00</Point>
+         <Point Name="TUZLA">+522041.00+0010012.00</Point>
+         <Point Name="UGBET">+513701.00-0000705.00</Point>
+         <Point Name="UGBUD">+514714.00-0033910.00</Point>
+         <Point Name="UGNUS">+514232.00-0020823.00</Point>
+         <Point Name="ULLAP">+575400.00-0051009.00</Point>
+         <Point Name="ULSAX">+533554.00-0015700.00</Point>
+         <Point Name="ULTIB">+513936.00-0001644.00</Point>
+         <Point Name="UMBAG">+522052.00+0004657.00</Point>
+         <Point Name="UMBUR">+512733.00+0000708.00</Point>
+         <Point Name="UMKIL">+531106.00-0023723.00</Point>
+         <Point Name="UMLAT">+514020.00-0004139.00</Point>
+         <Point Name="UMLUX">+522237.00-0020019.00</Point>
+         <Point Name="UMOLO">+520803.00-0031357.00</Point>
+         <Point Name="UMTUM">+511227.00+0010103.00</Point>
+         <Point Name="UNBIG">+514427.00-0033502.00</Point>
+         <Point Name="UNDUG">+504724.00+0002530.00</Point>
+         <Point Name="UNDUX">+533830.00-0041839.00</Point>
+         <Point Name="UNGAP">+522129.00-0012339.00</Point>
+         <Point Name="UNIGO">+533340.00-0013339.00</Point>
+         <Point Name="UNPUP">+503224.00-0043430.00</Point>
+         <Point Name="UNSAD">+513340.00+0005746.00</Point>
+         <Point Name="UNTAL">+545435.00-0014423.00</Point>
+         <Point Name="UNURO">+552111.00-0032102.00</Point>
+         <Point Name="UPDUK">+523427.00-0005630.00</Point>
+         <Point Name="UPGAS">+551441.00+0050000.00</Point>
+         <Point Name="UPGET">+563935.00-0020050.00</Point>
+         <Point Name="UPTON">+533513.00-0011803.00</Point>
+         <Point Name="USEKA">+534202.00-0002645.00</Point>
+         <Point Name="UTAVA">+515847.00-0000419.00</Point>
+         <Point Name="UTOGU">+550740.00-0030443.00</Point>
+         <Point Name="UTUXA">+530030.00-0021313.00</Point>
+         <Point Name="UVAVU">+542500.00-0015346.00</Point>
+         <Point Name="UVPOK">+535940.00-0041235.00</Point>
+         <Point Name="VABIK">+511447.00+0020000.00</Point>
+         <Point Name="VABKA">+531808.00-0024410.00</Point>
+         <Point Name="VADNO">+572711.00-0033738.00</Point>
+         <Point Name="VAKPO">+541125.00-0052239.00</Point>
+         <Point Name="VALBO">+550743.00+0050000.00</Point>
+         <Point Name="VAMEB">+540010.00-0024832.00</Point>
+         <Point Name="VAPID">+511514.00-0010242.00</Point>
+         <Point Name="VAPPI">+553139.00-0034543.00</Point>
+         <Point Name="VASUX">+503009.00-0011517.00</Point>
+         <Point Name="VATON">+512604.00-0002056.00</Point>
+         <Point Name="VATRY">+523316.00-0053000.00</Point>
+         <Point Name="VAXIT">+563215.00+0050000.00</Point>
+         <Point Name="VEGAR">+530234.00-0015823.00</Point>
+         <Point Name="VEGUS">+532401.00-0002111.00</Point>
+         <Point Name="VELAG">+522436.00-0010050.00</Point>
+         <Point Name="VENAS">+541820.00+0033908.00</Point>
+         <Point Name="VENER">+543000.00-0150000.00</Point>
+         <Point Name="VEXEN">+500822.00-0014934.00</Point>
+         <Point Name="VEXUB">+511409.00-0003646.00</Point>
+         <Point Name="VIDOK">+522439.00-0020231.00</Point>
+         <Point Name="VOLFI">+532035.00-0032151.00</Point>
+         <Point Name="VOUGA">+510333.00-0005750.00</Point>
+         <Point Name="WAFFU">+503457.00+0002059.00</Point>
+         <Point Name="WEALD">+511951.00+0000205.00</Point>
+         <Point Name="WELIN">+521450.00-0005108.00</Point>
+         <Point Name="WESUL">+514015.00+0002909.00</Point>
+         <Point Name="WILLO">+505906.00-0001130.00</Point>
+         <Point Name="WIZAD">+510700.00+0005711.00</Point>
+         <Point Name="WOBUN">+520110.00-0004400.00</Point>
+         <Point Name="WOTAN">+513726.00-0022006.00</Point>
+         <Point Name="XAMAB">+501216.00+0001553.00</Point>
+         <Point Name="XAMAN">+514705.00+0021327.00</Point>
+         <Point Name="XAPOS">+531729.00-0013751.00</Point>
+         <Point Name="XAVAP">+491402.00-0060835.00</Point>
+         <Point Name="XIDIL">+502106.00+0003829.00</Point>
+         <Point Name="YOHDA">+521203.00-0012736.00</Point>
+         <Point Name="ZEDDO">+513142.00-0043335.00</Point>
+         <Point Name="ZOPHI">+510127.00-0000055.00</Point>
+         <Point Name="ADN">+571838.00-0021602.00</Point>
+         <Point Name="BKY">+515923.00+0000343.00</Point>
+         <Point Name="BEL">+543940.00-0061348.00</Point>
+         <Point Name="BEN">+572841.00-0072155.00</Point>
+         <Point Name="BHD">+502355.00-0032937.00</Point>
+         <Point Name="BIG">+511951.00+0000205.00</Point>
+         <Point Name="BNN">+514334.00-0003259.00</Point>
+         <Point Name="BCN">+514332.00-0031547.00</Point>
+         <Point Name="BPK">+514459.00-0000624.00</Point>
+         <Point Name="CLN">+515055.00+0010851.00</Point>
+         <Point Name="CPT">+512930.00-0011311.00</Point>
+         <Point Name="DTY">+521049.00-0010650.00</Point>
+         <Point Name="DCS">+544319.00-0032026.00</Point>
+         <Point Name="DET">+511814.00+0003550.00</Point>
+         <Point Name="DVR">+510945.00+0012133.00</Point>
+         <Point Name="DUD">+553332.00-0043606.00</Point>
+         <Point Name="GAM">+531653.00-0005650.00</Point>
+         <Point Name="GOW">+555214.00-0042645.00</Point>
+         <Point Name="GWC">+505119.00-0004524.00</Point>
+         <Point Name="GLO">+552324.00-0034412.00</Point>
+         <Point Name="HEN">+514535.00-0004725.00</Point>
+         <Point Name="HON">+522124.00-0013949.00</Point>
+         <Point Name="IOM">+540401.00-0044549.00</Point>
+         <Point Name="JSY">+491316.00-0020246.00</Point>
+         <Point Name="LAM">+513846.00+0000906.00</Point>
+         <Point Name="LND">+500811.00-0053813.00</Point>
+         <Point Name="LON">+512914.00-0002800.00</Point>
+         <Point Name="LYD">+505959.00+0005243.00</Point>
+         <Point Name="MAC">+552548.00-0053901.00</Point>
+         <Point Name="MCT">+532125.00-0021544.00</Point>
+         <Point Name="MAY">+510102.00+0000658.00</Point>
+         <Point Name="MID">+510314.00-0003730.00</Point>
+         <Point Name="NEW">+550218.00-0014154.00</Point>
+         <Point Name="OCK">+511818.00-0002650.00</Point>
+         <Point Name="OTR">+534154.00-0000613.00</Point>
+         <Point Name="PTH">+562633.00-0032207.00</Point>
+         <Point Name="POL">+534438.00-0020612.00</Point>
+         <Point Name="SAB">+555427.00-0021223.00</Point>
+         <Point Name="SFD">+504538.00+0000719.00</Point>
+         <Point Name="SAM">+505719.00-0012042.00</Point>
+         <Point Name="STN">+581225.00-0061059.00</Point>
+         <Point Name="STU">+515941.00-0050225.00</Point>
+         <Point Name="SUM">+595243.00-0011711.00</Point>
+         <Point Name="TLA">+552957.00-0032110.00</Point>
+         <Point Name="TIR">+562936.00-0065232.00</Point>
+         <Point Name="TNT">+530314.00-0014012.00</Point>
+         <Point Name="TRN">+551848.00-0044702.00</Point>
+         <Point Name="WAL">+532331.00-0030804.00</Point>
+         <Point Name="WIK">+582732.00-0030601.00</Point>
+         <Point Name="WOD">+512710.00-0005244.00</Point>
+      </Label>
+   </Map>
+   <Map Type="System" Name="ALL_NAVAIDS" Priority="0" Center="+53.7-1.5">
+      <Symbol Type="Hexagon">
+         <Point>+520610.00-0044812.00</Point>
+         <Point>+520058.00+0003558.00</Point>
+         <Point>+512646.00-0015148.00</Point>
+         <Point>+513834.00-0034801.00</Point>
+         <Point>+521940.00+0015216.00</Point>
+         <Point>+544227.00-0024629.00</Point>
+         <Point>+532539.00-0045140.00</Point>
+         <Point>+540853.00-0015847.00</Point>
+         <Point>+505043.00-0015858.00</Point>
+         <Point>+524658.00-0045933.00</Point>
+         <Point>+503829.00-0011029.00</Point>
+         <Point>+541732.00-0061518.00</Point>
+         <Point>+531445.00+0002536.00</Point>
+         <Point>+512604.00+0012229.00</Point>
+         <Point>+591315.00-0061731.00</Point>
+         <Point>+505436.00-0020000.00</Point>
+         <Point>+532630.00-0013213.00</Point>
+         <Point>+531343.00+0021906.00</Point>
+         <Point>+504749.00-0023245.00</Point>
+         <Point>+501925.00-0004933.00</Point>
+         <Point>+511402.00+0002934.00</Point>
+         <Point>+522139.00-0012745.00</Point>
+         <Point>+515949.00+0001036.00</Point>
+         <Point>+520617.00+0004419.00</Point>
+         <Point>+583000.00-0100000.00</Point>
+         <Point>+491014.00-0062655.00</Point>
+         <Point>+514053.00+0012633.00</Point>
+         <Point>+450000.00-0092811.00</Point>
+         <Point>+533442.00-0032711.00</Point>
+         <Point>+570000.00-0130000.00</Point>
+         <Point>+550719.00-0015657.00</Point>
+         <Point>+595752.00-0093000.00</Point>
+         <Point>+531416.00+0031207.00</Point>
+         <Point>+522912.00-0010528.00</Point>
+         <Point>+552650.00-0013354.00</Point>
+         <Point>+532343.00-0035817.00</Point>
+         <Point>+503432.00+0011332.00</Point>
+         <Point>+575427.00+0033630.00</Point>
+         <Point>+490019.00-0072953.00</Point>
+         <Point>+513945.00-0024042.00</Point>
+         <Point>+504028.00+0004746.00</Point>
+         <Point>+513000.00-0041801.00</Point>
+         <Point>+561552.00-0100000.00</Point>
+         <Point>+531607.00-0015018.00</Point>
+         <Point>+515026.00-0035954.00</Point>
+         <Point>+531139.00-0031133.00</Point>
+         <Point>+493148.00-0060903.00</Point>
+         <Point>+520653.00-0025433.00</Point>
+         <Point>+582225.00-0093000.00</Point>
+         <Point>+503216.00-0012544.00</Point>
+         <Point>+531103.00-0000155.00</Point>
+         <Point>+525350.00-0025933.00</Point>
+         <Point>+493905.00-0040005.00</Point>
+         <Point>+543000.00-0023050.00</Point>
+         <Point>+554923.00-0100000.00</Point>
+         <Point>+503928.00-0080000.00</Point>
+         <Point>+510326.00+0005553.00</Point>
+         <Point>+533534.00-0011428.00</Point>
+         <Point>+513643.00+0015007.00</Point>
+         <Point>+543206.00-0014419.00</Point>
+         <Point>+565341.00+0035738.00</Point>
+         <Point>+534659.00-0021707.00</Point>
+         <Point>+532342.00-0010209.00</Point>
+         <Point>+545747.00+0031350.00</Point>
+         <Point>+520050.00-0000310.00</Point>
+         <Point>+544928.00-0030339.00</Point>
+         <Point>+532646.00-0023911.00</Point>
+         <Point>+532843.00-0025426.00</Point>
+         <Point>+564139.00-0030320.00</Point>
+         <Point>+513117.00-0041643.00</Point>
+         <Point>+550321.00-0032045.00</Point>
+         <Point>+570000.00+0050000.00</Point>
+         <Point>+512716.00+0013017.00</Point>
+         <Point>+600000.00-0100000.00</Point>
+         <Point>+500000.00-0140000.00</Point>
+         <Point>+505051.00-0032502.00</Point>
+         <Point>+504912.00-0005618.00</Point>
+         <Point>+553034.00+0034259.00</Point>
+         <Point>+502511.00-0034817.00</Point>
+         <Point>+541639.00-0051625.00</Point>
+         <Point>+533739.00-0035643.00</Point>
+         <Point>+553749.00+0023658.00</Point>
+         <Point>+513838.00-0023040.00</Point>
+         <Point>+523930.00-0044617.00</Point>
+         <Point>+531345.00-0035918.00</Point>
+         <Point>+534048.00-0053000.00</Point>
+         <Point>+512942.00+0001753.00</Point>
+         <Point>+533143.00-0050933.00</Point>
+         <Point>+521430.00-0054049.00</Point>
+         <Point>+562949.00-0015707.00</Point>
+         <Point>+590000.00-0100000.00</Point>
+         <Point>+535242.00-0021609.00</Point>
+         <Point>+540828.00-0063904.00</Point>
+         <Point>+592600.00-0035710.00</Point>
+         <Point>+515710.00-0061421.00</Point>
+         <Point>+522008.00+0013019.00</Point>
+         <Point>+522128.00-0001357.00</Point>
+         <Point>+503242.00+0004512.00</Point>
+         <Point>+603618.00-0092436.00</Point>
+         <Point>+522842.00+0023414.00</Point>
+         <Point>+532422.00-0032643.00</Point>
+         <Point>+532814.00-0022541.00</Point>
+         <Point>+533845.00-0012137.00</Point>
+         <Point>+541820.00-0010925.00</Point>
+         <Point>+533108.00-0045109.00</Point>
+         <Point>+505025.00-0035345.00</Point>
+         <Point>+545906.00-0033514.00</Point>
+         <Point>+512215.00-0013331.00</Point>
+         <Point>+521330.00-0003348.00</Point>
+         <Point>+490000.00-0150000.00</Point>
+         <Point>+540925.00-0020715.00</Point>
+         <Point>+450000.00-0090000.00</Point>
+         <Point>+563000.00-0140000.00</Point>
+         <Point>+504545.00-0011408.00</Point>
+         <Point>+585313.00-0013120.00</Point>
+         <Point>+525910.00+0023710.00</Point>
+         <Point>+535316.00-0032923.00</Point>
+         <Point>+502705.00+0000037.00</Point>
+         <Point>+513444.00-0005508.00</Point>
+         <Point>+590209.00+0014420.00</Point>
+         <Point>+524016.00-0033113.00</Point>
+         <Point>+450000.00-0110000.00</Point>
+         <Point>+604723.00-0075446.00</Point>
+         <Point>+530033.00-0005403.00</Point>
+         <Point>+514754.00-0004328.00</Point>
+         <Point>+554353.00+0001503.00</Point>
+         <Point>+504800.00-0021420.00</Point>
+         <Point>+504339.00-0005839.00</Point>
+         <Point>+520323.00-0022719.00</Point>
+         <Point>+500000.00-0024930.00</Point>
+         <Point>+600111.00-0083408.00</Point>
+         <Point>+504031.00-0020733.00</Point>
+         <Point>+563000.00-0150000.00</Point>
+         <Point>+534352.00-0031109.00</Point>
+         <Point>+493000.00-0140000.00</Point>
+         <Point>+532406.00+0032029.00</Point>
+         <Point>+543345.00-0015945.00</Point>
+         <Point>+510418.00+0002203.00</Point>
+         <Point>+545300.00-0050932.00</Point>
+         <Point>+513730.00+0015832.00</Point>
+         <Point>+530308.00+0020541.00</Point>
+         <Point>+505953.00-0071217.00</Point>
+         <Point>+504207.00-0001506.00</Point>
+         <Point>+532800.00-0014845.00</Point>
+         <Point>+500000.00-0014129.00</Point>
+         <Point>+515944.00-0002347.00</Point>
+         <Point>+575330.00-0042036.00</Point>
+         <Point>+514334.00-0003259.00</Point>
+         <Point>+534602.00-0053000.00</Point>
+         <Point>+514840.00+0003906.00</Point>
+         <Point>+514107.00+0004100.00</Point>
+         <Point>+504227.00-0024500.00</Point>
+         <Point>+561411.00-0055028.00</Point>
+         <Point>+574207.00-0003343.00</Point>
+         <Point>+515237.00-0013700.00</Point>
+         <Point>+524530.00+0024802.00</Point>
+         <Point>+504816.00-0032058.00</Point>
+         <Point>+534338.00-0023104.00</Point>
+         <Point>+520534.00+0000404.00</Point>
+         <Point>+515632.00-0003308.00</Point>
+         <Point>+534627.00-0023838.00</Point>
+         <Point>+491730.00-0055135.00</Point>
+         <Point>+534952.00-0041057.00</Point>
+         <Point>+520031.00+0003459.00</Point>
+         <Point>+523648.00-0015502.00</Point>
+         <Point>+575751.00-0041117.00</Point>
+         <Point>+520003.00-0010509.00</Point>
+         <Point>+555748.00-0044732.00</Point>
+         <Point>+511324.00-0034834.00</Point>
+         <Point>+513658.00-0010354.00</Point>
+         <Point>+524907.00-0021827.00</Point>
+         <Point>+533737.00-0023220.00</Point>
+         <Point>+555309.00+0022228.00</Point>
+         <Point>+514919.00+0004739.00</Point>
+         <Point>+505138.00-0035328.00</Point>
+         <Point>+534008.00-0022057.00</Point>
+         <Point>+534104.00-0035658.00</Point>
+         <Point>+552508.00-0045247.00</Point>
+         <Point>+572042.00-0040529.00</Point>
+         <Point>+503427.00-0032750.00</Point>
+         <Point>+531419.00-0020145.00</Point>
+         <Point>+541121.00-0065423.00</Point>
+         <Point>+515237.00-0011624.00</Point>
+         <Point>+533113.00-0015740.00</Point>
+         <Point>+572553.00-0014516.00</Point>
+         <Point>+533138.00-0015334.00</Point>
+         <Point>+503700.00-0004700.00</Point>
+         <Point>+505125.00+0012800.00</Point>
+         <Point>+604254.00-0084610.00</Point>
+         <Point>+504318.00-0034519.00</Point>
+         <Point>+531649.00-0053000.00</Point>
+         <Point>+513619.00-0020000.00</Point>
+         <Point>+524750.00+0023000.00</Point>
+         <Point>+505035.00-0035950.00</Point>
+         <Point>+551106.00-0010301.00</Point>
+         <Point>+533900.00-0033724.00</Point>
+         <Point>+520126.00+0003805.00</Point>
+         <Point>+513901.00-0011759.00</Point>
+         <Point>+514637.00-0031533.00</Point>
+         <Point>+511747.00+0001902.00</Point>
+         <Point>+545647.00-0063655.00</Point>
+         <Point>+510000.00-0150000.00</Point>
+         <Point>+530313.00-0012039.00</Point>
+         <Point>+520611.00-0014241.00</Point>
+         <Point>+503931.00-0010257.00</Point>
+         <Point>+521701.00+0014927.00</Point>
+         <Point>+511412.00-0005054.00</Point>
+         <Point>+515211.00-0025545.00</Point>
+         <Point>+540000.00-0150000.00</Point>
+         <Point>+512518.00-0060329.00</Point>
+         <Point>+554055.00+0020656.00</Point>
+         <Point>+525843.00+0010003.00</Point>
+         <Point>+531251.00-0033751.00</Point>
+         <Point>+492904.00-0050326.00</Point>
+         <Point>+501543.00-0014009.00</Point>
+         <Point>+532911.00-0035740.00</Point>
+         <Point>+554309.00-0074144.00</Point>
+         <Point>+514200.00-0004437.00</Point>
+         <Point>+532304.00-0005532.00</Point>
+         <Point>+511633.00-0001552.00</Point>
+         <Point>+600703.00-0062339.00</Point>
+         <Point>+501234.00-0000434.00</Point>
+         <Point>+515824.00-0021852.00</Point>
+         <Point>+543053.00-0055139.00</Point>
+         <Point>+513017.00-0042036.00</Point>
+         <Point>+522133.00-0004140.00</Point>
+         <Point>+561736.00-0033341.00</Point>
+         <Point>+532424.00-0011301.00</Point>
+         <Point>+531514.00-0024929.00</Point>
+         <Point>+512426.00+0003731.00</Point>
+         <Point>+544358.00-0074438.00</Point>
+         <Point>+502918.00+0003930.00</Point>
+         <Point>+503948.00-0012014.00</Point>
+         <Point>+602648.00-0093000.00</Point>
+         <Point>+550656.00-0014024.00</Point>
+         <Point>+532211.00+0011251.00</Point>
+         <Point>+532826.00-0013524.00</Point>
+         <Point>+511028.00-0050621.00</Point>
+         <Point>+503745.00-0025924.00</Point>
+         <Point>+564219.00+0034358.00</Point>
+         <Point>+510000.00-0140000.00</Point>
+         <Point>+524201.00-0011825.00</Point>
+         <Point>+525748.00-0011745.00</Point>
+         <Point>+511450.00+0004234.00</Point>
+         <Point>+515837.00-0012115.00</Point>
+         <Point>+531220.00+0023000.00</Point>
+         <Point>+490000.00-0090000.00</Point>
+         <Point>+531959.00-0002424.00</Point>
+         <Point>+550111.00-0031510.00</Point>
+         <Point>+524805.00+0022803.00</Point>
+         <Point>+561400.00-0033819.00</Point>
+         <Point>+531959.00-0032718.00</Point>
+         <Point>+503000.00-0140000.00</Point>
+         <Point>+580000.00-0100000.00</Point>
+         <Point>+592003.00-0012504.00</Point>
+         <Point>+535235.00-0041008.00</Point>
+         <Point>+502630.00-0035903.00</Point>
+         <Point>+540922.00-0022312.00</Point>
+         <Point>+500725.00-0014450.00</Point>
+         <Point>+513526.00+0013643.00</Point>
+         <Point>+505241.00+0011937.00</Point>
+         <Point>+540149.00-0004949.00</Point>
+         <Point>+551714.00-0003506.00</Point>
+         <Point>+541644.00-0072334.00</Point>
+         <Point>+514130.00-0025644.00</Point>
+         <Point>+562748.00-0041824.00</Point>
+         <Point>+551756.00-0031215.00</Point>
+         <Point>+533952.00-0031542.00</Point>
+         <Point>+553000.00-0150000.00</Point>
+         <Point>+540239.00-0044727.00</Point>
+         <Point>+573000.00-0100000.00</Point>
+         <Point>+575331.00-0093000.00</Point>
+         <Point>+505807.00+0003556.00</Point>
+         <Point>+510821.00-0004558.00</Point>
+         <Point>+574710.00-0074041.00</Point>
+         <Point>+504116.00-0003441.00</Point>
+         <Point>+531547.00-0002637.00</Point>
+         <Point>+514741.00+0011218.00</Point>
+         <Point>+572431.00-0093000.00</Point>
+         <Point>+514004.00+0002638.00</Point>
+         <Point>+514656.00-0063348.00</Point>
+         <Point>+514350.00-0012745.00</Point>
+         <Point>+532127.00-0013949.00</Point>
+         <Point>+510455.00-0011257.00</Point>
+         <Point>+510003.00-0012250.00</Point>
+         <Point>+505319.00-0030532.00</Point>
+         <Point>+511043.00-0032135.00</Point>
+         <Point>+522103.00-0021713.00</Point>
+         <Point>+554255.00-0041731.00</Point>
+         <Point>+513759.00+0003221.00</Point>
+         <Point>+515735.00-0023614.00</Point>
+         <Point>+562209.00-0032749.00</Point>
+         <Point>+515947.00-0010313.00</Point>
+         <Point>+521309.00-0022413.00</Point>
+         <Point>+504922.00-0035359.00</Point>
+         <Point>+575700.00+0003545.00</Point>
+         <Point>+520157.00-0041237.00</Point>
+         <Point>+560834.00-0042256.00</Point>
+         <Point>+512306.00+0003739.00</Point>
+         <Point>+560256.00-0050655.00</Point>
+         <Point>+512040.00-0020000.00</Point>
+         <Point>+504137.00-0035542.00</Point>
+         <Point>+564548.00-0025808.00</Point>
+         <Point>+500000.00-0080000.00</Point>
+         <Point>+500000.00-0012250.00</Point>
+         <Point>+574118.00-0042941.00</Point>
+         <Point>+515010.00+0004853.00</Point>
+         <Point>+511224.00-0005736.00</Point>
+         <Point>+541329.00-0015721.00</Point>
+         <Point>+511752.00-0063755.00</Point>
+         <Point>+592300.00-0012422.00</Point>
+         <Point>+513350.00-0014236.00</Point>
+         <Point>+483839.00-0093009.00</Point>
+         <Point>+535548.00-0032947.00</Point>
+         <Point>+504459.00-0023107.00</Point>
+         <Point>+564547.00+0031610.00</Point>
+         <Point>+533801.00-0040551.00</Point>
+         <Point>+543626.00+0031010.00</Point>
+         <Point>+513606.00+0003501.00</Point>
+         <Point>+513413.00+0020318.00</Point>
+         <Point>+565530.00-0093000.00</Point>
+         <Point>+532739.00-0045129.00</Point>
+         <Point>+510000.00-0120000.00</Point>
+         <Point>+533131.00-0004723.00</Point>
+         <Point>+544241.00-0014811.00</Point>
+         <Point>+551108.00-0045347.00</Point>
+         <Point>+513009.00-0050728.00</Point>
+         <Point>+502000.00-0054200.00</Point>
+         <Point>+552754.00+0001453.00</Point>
+         <Point>+531710.00+0025209.00</Point>
+         <Point>+504358.00-0004803.00</Point>
+         <Point>+565400.00-0024745.00</Point>
+         <Point>+512053.00-0010625.00</Point>
+         <Point>+510958.00+0011704.00</Point>
+         <Point>+531457.00+0032547.00</Point>
+         <Point>+525900.00-0031001.00</Point>
+         <Point>+515330.00-0031502.00</Point>
+         <Point>+511727.00-0010002.00</Point>
+         <Point>+501505.00-0012245.00</Point>
+         <Point>+533629.00-0010500.00</Point>
+         <Point>+542441.00+0033508.00</Point>
+         <Point>+555510.00-0003239.00</Point>
+         <Point>+570000.00-0100000.00</Point>
+         <Point>+450000.00-0140000.00</Point>
+         <Point>+560312.00+0050000.00</Point>
+         <Point>+554719.00-0041202.00</Point>
+         <Point>+543541.00-0053553.00</Point>
+         <Point>+512132.00-0001033.00</Point>
+         <Point>+561148.00-0034108.00</Point>
+         <Point>+522338.00-0015544.00</Point>
+         <Point>+610000.00+0000000.00</Point>
+         <Point>+490310.00-0114606.00</Point>
+         <Point>+533537.00-0030954.00</Point>
+         <Point>+571247.00-0040727.00</Point>
+         <Point>+534406.00-0013450.00</Point>
+         <Point>+510646.00-0010751.00</Point>
+         <Point>+502816.00+0002928.00</Point>
+         <Point>+504342.00+0003200.00</Point>
+         <Point>+552740.00-0025947.00</Point>
+         <Point>+502227.00+0000525.00</Point>
+         <Point>+510019.00-0005904.00</Point>
+         <Point>+514820.00-0002510.00</Point>
+         <Point>+552035.00-0050000.00</Point>
+         <Point>+510516.00-0035024.00</Point>
+         <Point>+512006.00+0001437.00</Point>
+         <Point>+512605.00-0020000.00</Point>
+         <Point>+505312.00-0000542.00</Point>
+         <Point>+504749.00-0035419.00</Point>
+         <Point>+510047.00-0004758.00</Point>
+         <Point>+503144.00-0014708.00</Point>
+         <Point>+562310.00-0030803.00</Point>
+         <Point>+533154.00-0034111.00</Point>
+         <Point>+563000.00-0100000.00</Point>
+         <Point>+542625.00-0050315.00</Point>
+         <Point>+515352.00+0015308.00</Point>
+         <Point>+532814.00-0050951.00</Point>
+         <Point>+541423.00-0043329.00</Point>
+         <Point>+513225.00+0005837.00</Point>
+         <Point>+540543.00-0015945.00</Point>
+         <Point>+495137.00-0061139.00</Point>
+         <Point>+521326.00-0033304.00</Point>
+         <Point>+513543.00-0051135.00</Point>
+         <Point>+511029.00-0003156.00</Point>
+         <Point>+564200.00-0041459.00</Point>
+         <Point>+553625.00+0050000.00</Point>
+         <Point>+511840.00-0010114.00</Point>
+         <Point>+514242.00-0025137.00</Point>
+         <Point>+503853.00-0003209.00</Point>
+         <Point>+535216.00-0042414.00</Point>
+         <Point>+512841.00-0013127.00</Point>
+         <Point>+515423.00+0011913.00</Point>
+         <Point>+545236.00-0025346.00</Point>
+         <Point>+551818.00+0043905.00</Point>
+         <Point>+550857.00-0030539.00</Point>
+         <Point>+514910.00-0035141.00</Point>
+         <Point>+502343.00-0061924.00</Point>
+         <Point>+552239.00-0031545.00</Point>
+         <Point>+513152.00+0002319.00</Point>
+         <Point>+541340.00-0024222.00</Point>
+         <Point>+514029.00-0001335.00</Point>
+         <Point>+552145.00-0024114.00</Point>
+         <Point>+543106.00-0052709.00</Point>
+         <Point>+540454.00-0015657.00</Point>
+         <Point>+505427.00-0031340.00</Point>
+         <Point>+525948.00-0052239.00</Point>
+         <Point>+505516.00+0012800.00</Point>
+         <Point>+512832.00-0025908.00</Point>
+         <Point>+560300.00+0033000.00</Point>
+         <Point>+511714.00+0010312.00</Point>
+         <Point>+530746.00-0030919.00</Point>
+         <Point>+520405.00-0012540.00</Point>
+         <Point>+514409.00+0012536.00</Point>
+         <Point>+503738.00-0035635.00</Point>
+         <Point>+504030.00-0015100.00</Point>
+         <Point>+525340.00-0025354.00</Point>
+         <Point>+503114.00-0012000.00</Point>
+         <Point>+531133.00-0030901.00</Point>
+         <Point>+535419.00-0042151.00</Point>
+         <Point>+520739.00+0003846.00</Point>
+         <Point>+513114.00-0012718.00</Point>
+         <Point>+524835.00-0022844.00</Point>
+         <Point>+600058.00-0060056.00</Point>
+         <Point>+565700.00-0140000.00</Point>
+         <Point>+511932.00-0033917.00</Point>
+         <Point>+514617.00-0012141.00</Point>
+         <Point>+514209.00-0015759.00</Point>
+         <Point>+582324.00+0024944.00</Point>
+         <Point>+514114.00-0000918.00</Point>
+         <Point>+502831.00-0035836.00</Point>
+         <Point>+493000.00-0150000.00</Point>
+         <Point>+585735.00-0025338.00</Point>
+         <Point>+543000.00-0140000.00</Point>
+         <Point>+530237.00+0031518.00</Point>
+         <Point>+533426.00-0024520.00</Point>
+         <Point>+510751.00+0020000.00</Point>
+         <Point>+513232.00+0010814.00</Point>
+         <Point>+500000.00-0010314.00</Point>
+         <Point>+504229.00-0031958.00</Point>
+         <Point>+525634.00+0025713.00</Point>
+         <Point>+553000.00-0100000.00</Point>
+         <Point>+514156.00-0030437.00</Point>
+         <Point>+503431.00-0013639.00</Point>
+         <Point>+503054.00+0010356.00</Point>
+         <Point>+580459.00-0073624.00</Point>
+         <Point>+531511.00-0024047.00</Point>
+         <Point>+565335.00-0041210.00</Point>
+         <Point>+541420.00-0025852.00</Point>
+         <Point>+511807.00-0030103.00</Point>
+         <Point>+531829.00-0004056.00</Point>
+         <Point>+555130.00-0024603.00</Point>
+         <Point>+570151.00+0033309.00</Point>
+         <Point>+524358.00+0025940.00</Point>
+         <Point>+554201.00-0035619.00</Point>
+         <Point>+522552.00-0042221.00</Point>
+         <Point>+521115.00-0052330.00</Point>
+         <Point>+534348.00-0042638.00</Point>
+         <Point>+520707.00+0011236.00</Point>
+         <Point>+505442.00+0002648.00</Point>
+         <Point>+533616.00+0033057.00</Point>
+         <Point>+545150.00+0040912.00</Point>
+         <Point>+492241.00-0070715.00</Point>
+         <Point>+483554.00-0090000.00</Point>
+         <Point>+531525.00+0020522.00</Point>
+         <Point>+511549.00+0003449.00</Point>
+         <Point>+514216.00-0045200.00</Point>
+         <Point>+523235.00+0020608.00</Point>
+         <Point>+511424.00-0073405.00</Point>
+         <Point>+531935.00+0013046.00</Point>
+         <Point>+534300.00-0040507.00</Point>
+         <Point>+495857.00-0020623.00</Point>
+         <Point>+522422.00-0052236.00</Point>
+         <Point>+510000.00-0080000.00</Point>
+         <Point>+573233.00-0011622.00</Point>
+         <Point>+552308.00+0050000.00</Point>
+         <Point>+524427.00-0010419.00</Point>
+         <Point>+554326.00-0034443.00</Point>
+         <Point>+533129.00+0000536.00</Point>
+         <Point>+532848.00-0053000.00</Point>
+         <Point>+543026.00-0051311.00</Point>
+         <Point>+512814.00-0010257.00</Point>
+         <Point>+530350.00-0053000.00</Point>
+         <Point>+543130.00-0060524.00</Point>
+         <Point>+530836.00-0021157.00</Point>
+         <Point>+514149.00+0005058.00</Point>
+         <Point>+493525.00-0041949.00</Point>
+         <Point>+515012.00+0003556.00</Point>
+         <Point>+514451.00+0013643.00</Point>
+         <Point>+560346.00-0043448.00</Point>
+         <Point>+531616.00-0051046.00</Point>
+         <Point>+535022.00+0035633.00</Point>
+         <Point>+520050.00-0000310.00</Point>
+         <Point>+495618.00-0022216.00</Point>
+         <Point>+531506.00-0021628.00</Point>
+         <Point>+552049.00-0043341.00</Point>
+         <Point>+515139.00-0035501.00</Point>
+         <Point>+500000.00-0005220.00</Point>
+         <Point>+502200.00-0080000.00</Point>
+         <Point>+603000.00-0100000.00</Point>
+         <Point>+554002.00-0041441.00</Point>
+         <Point>+535623.00-0041926.00</Point>
+         <Point>+531522.00-0044416.00</Point>
+         <Point>+551422.00-0100000.00</Point>
+         <Point>+510511.00-0004657.00</Point>
+         <Point>+520831.00-0020338.00</Point>
+         <Point>+532633.00-0042000.00</Point>
+         <Point>+494705.00-0055612.00</Point>
+         <Point>+555447.00-0014402.00</Point>
+         <Point>+544730.00-0053630.00</Point>
+         <Point>+535830.00-0045228.00</Point>
+         <Point>+513533.00-0020342.00</Point>
+         <Point>+532448.00-0033630.00</Point>
+         <Point>+532505.00-0011648.00</Point>
+         <Point>+514134.00+0004726.00</Point>
+         <Point>+494707.00-0031534.00</Point>
+         <Point>+501447.00-0020420.00</Point>
+         <Point>+540921.00-0042115.00</Point>
+         <Point>+514645.00+0001500.00</Point>
+         <Point>+610000.00-0080400.00</Point>
+         <Point>+541017.00-0043822.00</Point>
+         <Point>+540257.00-0033104.00</Point>
+         <Point>+511459.00-0003343.00</Point>
+         <Point>+513741.00+0004312.00</Point>
+         <Point>+515701.00-0033258.00</Point>
+         <Point>+522058.00+0020425.00</Point>
+         <Point>+512000.00-0050000.00</Point>
+         <Point>+513257.00-0014136.00</Point>
+         <Point>+560000.00-0100000.00</Point>
+         <Point>+530603.00+0031813.00</Point>
+         <Point>+521329.00+0013609.00</Point>
+         <Point>+533217.00-0024242.00</Point>
+         <Point>+533907.00-0005338.00</Point>
+         <Point>+504630.00-0011558.00</Point>
+         <Point>+593256.00-0012159.00</Point>
+         <Point>+602643.00-0073955.00</Point>
+         <Point>+511401.00-0002910.00</Point>
+         <Point>+521830.00-0001609.00</Point>
+         <Point>+553000.00-0140000.00</Point>
+         <Point>+532443.00-0011251.00</Point>
+         <Point>+531008.00-0023810.00</Point>
+         <Point>+511610.00+0012914.00</Point>
+         <Point>+543649.00-0093023.00</Point>
+         <Point>+524919.00+0030407.00</Point>
+         <Point>+525334.00-0031026.00</Point>
+         <Point>+512955.00-0070537.00</Point>
+         <Point>+524510.00-0053000.00</Point>
+         <Point>+490026.00-0071253.00</Point>
+         <Point>+515338.00-0022610.00</Point>
+         <Point>+505728.00+0012800.00</Point>
+         <Point>+520343.00-0014847.00</Point>
+         <Point>+510047.00-0032319.00</Point>
+         <Point>+494254.00-0043723.00</Point>
+         <Point>+610000.00-0060000.00</Point>
+         <Point>+532900.00+0002406.00</Point>
+         <Point>+573429.00-0022714.00</Point>
+         <Point>+530815.00-0023401.00</Point>
+         <Point>+520135.00-0013747.00</Point>
+         <Point>+531223.00-0005140.00</Point>
+         <Point>+550218.00-0014154.00</Point>
+         <Point>+532712.00-0043807.00</Point>
+         <Point>+553513.00+0005031.00</Point>
+         <Point>+514831.00-0031525.00</Point>
+         <Point>+523250.00+0025026.00</Point>
+         <Point>+551322.00-0034849.00</Point>
+         <Point>+514721.00-0015756.00</Point>
+         <Point>+565724.00-0024326.00</Point>
+         <Point>+515237.00-0012820.00</Point>
+         <Point>+503958.00-0013252.00</Point>
+         <Point>+514335.00-0051726.00</Point>
+         <Point>+542924.00-0051810.00</Point>
+         <Point>+504214.00-0005718.00</Point>
+         <Point>+535148.00-0021105.00</Point>
+         <Point>+524238.00-0025315.00</Point>
+         <Point>+512958.00+0002657.00</Point>
+         <Point>+490000.00-0140000.00</Point>
+         <Point>+570718.00-0040848.00</Point>
+         <Point>+541346.00-0070724.00</Point>
+         <Point>+550000.00-0140000.00</Point>
+         <Point>+502445.00+0002854.00</Point>
+         <Point>+500000.00-0002206.00</Point>
+         <Point>+564143.00-0043241.00</Point>
+         <Point>+540406.00-0061611.00</Point>
+         <Point>+561243.00-0015041.00</Point>
+         <Point>+513248.00-0044338.00</Point>
+         <Point>+512352.00-0031916.00</Point>
+         <Point>+510052.00-0005501.00</Point>
+         <Point>+550000.00-0100000.00</Point>
+         <Point>+505658.00-0004608.00</Point>
+         <Point>+511847.00-0011015.00</Point>
+         <Point>+450000.00-0132500.00</Point>
+         <Point>+524835.00-0031050.00</Point>
+         <Point>+513546.00+0003804.00</Point>
+         <Point>+535754.00-0054432.00</Point>
+         <Point>+540344.00-0040742.00</Point>
+         <Point>+585120.00-0093000.00</Point>
+         <Point>+542709.00-0082410.00</Point>
+         <Point>+532129.00-0003921.00</Point>
+         <Point>+541500.00-0023033.00</Point>
+         <Point>+523312.00-0031201.00</Point>
+         <Point>+505606.00+0003228.00</Point>
+         <Point>+573412.00+0040813.00</Point>
+         <Point>+550453.00+0024748.00</Point>
+         <Point>+535837.00-0045913.00</Point>
+         <Point>+530436.00-0025258.00</Point>
+         <Point>+532806.00-0032604.00</Point>
+         <Point>+513846.00+0012144.00</Point>
+         <Point>+540516.00-0042608.00</Point>
+         <Point>+553545.00-0044543.00</Point>
+         <Point>+513709.00-0065211.00</Point>
+         <Point>+512847.00-0010724.00</Point>
+         <Point>+532254.00-0033842.00</Point>
+         <Point>+503510.00-0002503.00</Point>
+         <Point>+502612.00-0031021.00</Point>
+         <Point>+561200.00-0031051.00</Point>
+         <Point>+510212.00-0004515.00</Point>
+         <Point>+512017.00-0011356.00</Point>
+         <Point>+520355.00+0005017.00</Point>
+         <Point>+515822.00-0000412.00</Point>
+         <Point>+530146.00-0021814.00</Point>
+         <Point>+505217.00-0015939.00</Point>
+         <Point>+540840.00-0053536.00</Point>
+         <Point>+513636.00-0031701.00</Point>
+         <Point>+541036.00-0015420.00</Point>
+         <Point>+574640.00-0073319.00</Point>
+         <Point>+535440.00-0024433.00</Point>
+         <Point>+505456.00-0052634.00</Point>
+         <Point>+551144.00-0032539.00</Point>
+         <Point>+565812.00+0012803.00</Point>
+         <Point>+544526.00+0030252.00</Point>
+         <Point>+533437.00-0001813.00</Point>
+         <Point>+592436.00-0093000.00</Point>
+         <Point>+500000.00-0013007.00</Point>
+         <Point>+513915.00+0015445.00</Point>
+         <Point>+513532.00+0001715.00</Point>
+         <Point>+510957.00+0002909.00</Point>
+         <Point>+520756.00+0000853.00</Point>
+         <Point>+492722.00-0050157.00</Point>
+         <Point>+534012.00-0050850.00</Point>
+         <Point>+512636.00-0020342.00</Point>
+         <Point>+552145.00-0044942.00</Point>
+         <Point>+564921.00-0020435.00</Point>
+         <Point>+514904.00-0023246.00</Point>
+         <Point>+524310.00-0031115.00</Point>
+         <Point>+505749.00+0011956.00</Point>
+         <Point>+504356.00-0013122.00</Point>
+         <Point>+520740.00-0004403.00</Point>
+         <Point>+540532.00-0023208.00</Point>
+         <Point>+485020.00-0120000.00</Point>
+         <Point>+500000.00-0015042.00</Point>
+         <Point>+570307.00-0051741.00</Point>
+         <Point>+495957.00-0020018.00</Point>
+         <Point>+593000.00-0100000.00</Point>
+         <Point>+593818.00+0004009.00</Point>
+         <Point>+551039.00-0041007.00</Point>
+         <Point>+503153.00-0035107.00</Point>
+         <Point>+610000.00-0050000.00</Point>
+         <Point>+564823.00-0124806.00</Point>
+         <Point>+505655.00+0002448.00</Point>
+         <Point>+513520.00-0050745.00</Point>
+         <Point>+522030.00-0020330.00</Point>
+         <Point>+572858.00-0013158.00</Point>
+         <Point>+495211.00-0054229.00</Point>
+         <Point>+550826.00-0040603.00</Point>
+         <Point>+505336.00-0020014.00</Point>
+         <Point>+500900.00-0001108.00</Point>
+         <Point>+531717.00+0000155.00</Point>
+         <Point>+551650.00-0022600.00</Point>
+         <Point>+504055.00-0023053.00</Point>
+         <Point>+511023.00-0001351.00</Point>
+         <Point>+575321.00+0001818.00</Point>
+         <Point>+510155.00-0020000.00</Point>
+         <Point>+515149.00+0005116.00</Point>
+         <Point>+505605.00-0055344.00</Point>
+         <Point>+524448.00-0014310.00</Point>
+         <Point>+543912.00+0032552.00</Point>
+         <Point>+492656.00-0061305.00</Point>
+         <Point>+520838.00-0050941.00</Point>
+         <Point>+610000.00-0040000.00</Point>
+         <Point>+533657.00-0033949.00</Point>
+         <Point>+570636.00+0045011.00</Point>
+         <Point>+510632.00+0003412.00</Point>
+         <Point>+540106.00-0043105.00</Point>
+         <Point>+595931.00+0000054.00</Point>
+         <Point>+511148.00-0011437.00</Point>
+         <Point>+541616.00-0053409.00</Point>
+         <Point>+521603.00-0015314.00</Point>
+         <Point>+514234.00-0025632.00</Point>
+         <Point>+555620.00+0050000.00</Point>
+         <Point>+573333.00-0014902.00</Point>
+         <Point>+492831.00-0070117.00</Point>
+         <Point>+513459.00+0014657.00</Point>
+         <Point>+522943.00-0010407.00</Point>
+         <Point>+560000.00-0150000.00</Point>
+         <Point>+492438.00-0051559.00</Point>
+         <Point>+502003.00-0010026.00</Point>
+         <Point>+560700.00-0031206.00</Point>
+         <Point>+580923.00-0034419.00</Point>
+         <Point>+523636.00-0005630.00</Point>
+         <Point>+520447.00+0015650.00</Point>
+         <Point>+520151.00-0010640.00</Point>
+         <Point>+502045.00-0043737.00</Point>
+         <Point>+513138.00-0020452.00</Point>
+         <Point>+520504.00-0002538.00</Point>
+         <Point>+521852.00-0012042.00</Point>
+         <Point>+513059.00-0020000.00</Point>
+         <Point>+525728.00+0023000.00</Point>
+         <Point>+533937.00-0045022.00</Point>
+         <Point>+512638.00+0020000.00</Point>
+         <Point>+545518.00-0015258.00</Point>
+         <Point>+493000.00-0080000.00</Point>
+         <Point>+515929.00+0014055.00</Point>
+         <Point>+565532.00-0020659.00</Point>
+         <Point>+610000.00-0100000.00</Point>
+         <Point>+592957.00-0012242.00</Point>
+         <Point>+525501.00+0030854.00</Point>
+         <Point>+520653.00+0022917.00</Point>
+         <Point>+525119.00+0000151.00</Point>
+         <Point>+561029.00+0033000.00</Point>
+         <Point>+535737.00-0034932.00</Point>
+         <Point>+550000.00-0150000.00</Point>
+         <Point>+523042.00-0025233.00</Point>
+         <Point>+530400.00-0030937.00</Point>
+         <Point>+540058.00-0021723.00</Point>
+         <Point>+501615.00-0055929.00</Point>
+         <Point>+584736.00+0020918.00</Point>
+         <Point>+515655.00-0025522.00</Point>
+         <Point>+573233.00-0040230.00</Point>
+         <Point>+534303.00-0012559.00</Point>
+         <Point>+505149.00-0004339.00</Point>
+         <Point>+534511.00-0050825.00</Point>
+         <Point>+542354.00-0053416.00</Point>
+         <Point>+515430.00+0021921.00</Point>
+         <Point>+510158.00+0013656.00</Point>
+         <Point>+545632.00-0034415.00</Point>
+         <Point>+573631.00-0014824.00</Point>
+         <Point>+514139.00-0012628.00</Point>
+         <Point>+530151.00-0025312.00</Point>
+         <Point>+554209.00-0013926.00</Point>
+         <Point>+562429.00+0004637.00</Point>
+         <Point>+610000.00-0030000.00</Point>
+         <Point>+555323.00-0045437.00</Point>
+         <Point>+552733.00-0010114.00</Point>
+         <Point>+542709.00-0052005.00</Point>
+         <Point>+524804.00-0025334.00</Point>
+         <Point>+503000.00-0150000.00</Point>
+         <Point>+531417.00-0015143.00</Point>
+         <Point>+544756.00+0025335.00</Point>
+         <Point>+531406.00-0001745.00</Point>
+         <Point>+521747.00-0012006.00</Point>
+         <Point>+533948.00+0031120.00</Point>
+         <Point>+510412.00+0000242.00</Point>
+         <Point>+503013.00-0021251.00</Point>
+         <Point>+530102.00-0013057.00</Point>
+         <Point>+532542.00-0035804.00</Point>
+         <Point>+541820.00+0031831.00</Point>
+         <Point>+550817.00+0035643.00</Point>
+         <Point>+520614.00+0002917.00</Point>
+         <Point>+534008.00-0022057.00</Point>
+         <Point>+540144.00-0060358.00</Point>
+         <Point>+505126.00+0004641.00</Point>
+         <Point>+535313.00+0003901.00</Point>
+         <Point>+532449.00+0030000.00</Point>
+         <Point>+501558.00-0013344.00</Point>
+         <Point>+551912.00-0065607.00</Point>
+         <Point>+501646.00-0021943.00</Point>
+         <Point>+504640.00-0010127.00</Point>
+         <Point>+532858.00-0032652.00</Point>
+         <Point>+572209.00-0045355.00</Point>
+         <Point>+532614.00-0051001.00</Point>
+         <Point>+514214.00+0005658.00</Point>
+         <Point>+494414.00-0033146.00</Point>
+         <Point>+511921.00-0072504.00</Point>
+         <Point>+530822.00-0022003.00</Point>
+         <Point>+510351.00+0010403.00</Point>
+         <Point>+523225.00-0012125.00</Point>
+         <Point>+524641.00-0040222.00</Point>
+         <Point>+540045.00-0022609.00</Point>
+         <Point>+543000.00-0023738.00</Point>
+         <Point>+503107.00-0035802.00</Point>
+         <Point>+515051.00-0010019.00</Point>
+         <Point>+513415.00-0015229.00</Point>
+         <Point>+513746.00+0003847.00</Point>
+         <Point>+500600.00+0000000.00</Point>
+         <Point>+534436.00-0044954.00</Point>
+         <Point>+532755.00-0003444.00</Point>
+         <Point>+522122.00+0000147.00</Point>
+         <Point>+500000.00-0031023.00</Point>
+         <Point>+494929.00-0030203.00</Point>
+         <Point>+524817.00-0014623.00</Point>
+         <Point>+520931.00-0055032.00</Point>
+         <Point>+541204.00-0050515.00</Point>
+         <Point>+574637.00-0023556.00</Point>
+         <Point>+500426.00-0070700.00</Point>
+         <Point>+503939.00-0020133.00</Point>
+         <Point>+500000.00-0150000.00</Point>
+         <Point>+521826.00+0023838.00</Point>
+         <Point>+520506.00+0014842.00</Point>
+         <Point>+532953.00-0021021.00</Point>
+         <Point>+520620.00+0021610.00</Point>
+         <Point>+533849.00-0042708.00</Point>
+         <Point>+530632.00+0023000.00</Point>
+         <Point>+515730.00-0010626.00</Point>
+         <Point>+551820.00+0050000.00</Point>
+         <Point>+503554.00-0040918.00</Point>
+         <Point>+610000.00-0020000.00</Point>
+         <Point>+534856.00-0043030.00</Point>
+         <Point>+541036.00+0033737.00</Point>
+         <Point>+504646.00+0012800.00</Point>
+         <Point>+560000.00-0140000.00</Point>
+         <Point>+585806.00-0035222.00</Point>
+         <Point>+503546.00+0005545.00</Point>
+         <Point>+513434.00+0004201.00</Point>
+         <Point>+525141.00-0021435.00</Point>
+         <Point>+560802.00-0035001.00</Point>
+         <Point>+520133.00-0000115.00</Point>
+         <Point>+502644.00+0005306.00</Point>
+         <Point>+542248.00-0031711.00</Point>
+         <Point>+551745.00-0041606.00</Point>
+         <Point>+551946.00-0040318.00</Point>
+         <Point>+513814.00+0020628.00</Point>
+         <Point>+505802.00-0035202.00</Point>
+         <Point>+570000.00-0150000.00</Point>
+         <Point>+512731.00+0015227.00</Point>
+         <Point>+492602.00-0054922.00</Point>
+         <Point>+531340.00+0003528.00</Point>
+         <Point>+571957.00-0070506.00</Point>
+         <Point>+555456.00+0033000.00</Point>
+         <Point>+553617.00-0002102.00</Point>
+         <Point>+513334.00-0040748.00</Point>
+         <Point>+512149.00-0011022.00</Point>
+         <Point>+520032.00+0002644.00</Point>
+         <Point>+533514.00-0030135.00</Point>
+         <Point>+545124.00-0081401.00</Point>
+         <Point>+490000.00-0080000.00</Point>
+         <Point>+515730.00-0031444.00</Point>
+         <Point>+493059.00-0054804.00</Point>
+         <Point>+484343.00-0102950.00</Point>
+         <Point>+512658.00+0005532.00</Point>
+         <Point>+554302.00-0030819.00</Point>
+         <Point>+512920.00+0013643.00</Point>
+         <Point>+520303.00+0010739.00</Point>
+         <Point>+523952.00-0021907.00</Point>
+         <Point>+504840.00-0004518.00</Point>
+         <Point>+540144.00+0001447.00</Point>
+         <Point>+533602.00-0021227.00</Point>
+         <Point>+513732.00+0004448.00</Point>
+         <Point>+500726.00-0070700.00</Point>
+         <Point>+511025.00+0012459.00</Point>
+         <Point>+512101.00-0010301.00</Point>
+         <Point>+502955.00-0013950.00</Point>
+         <Point>+522326.00-0052705.00</Point>
+         <Point>+510402.00+0002622.00</Point>
+         <Point>+503701.00-0005130.00</Point>
+         <Point>+543251.00-0015118.00</Point>
+         <Point>+505644.00+0001542.00</Point>
+         <Point>+535701.00-0043556.00</Point>
+         <Point>+523332.00-0010950.00</Point>
+         <Point>+561503.00+0050000.00</Point>
+         <Point>+504000.00-0032654.00</Point>
+         <Point>+540214.00+0031529.00</Point>
+         <Point>+543554.00+0042356.00</Point>
+         <Point>+531000.00-0014423.00</Point>
+         <Point>+532608.00-0031705.00</Point>
+         <Point>+544813.00-0013641.00</Point>
+         <Point>+504833.00-0032526.00</Point>
+         <Point>+520748.00-0010043.00</Point>
+         <Point>+521300.00-0012759.00</Point>
+         <Point>+513617.00+0011651.00</Point>
+         <Point>+564538.00-0062811.00</Point>
+         <Point>+511736.00-0021549.00</Point>
+         <Point>+530737.00+0030629.00</Point>
+         <Point>+532409.00+0033341.00</Point>
+         <Point>+515442.00-0031457.00</Point>
+         <Point>+530757.00-0031559.00</Point>
+         <Point>+514037.00+0020426.00</Point>
+         <Point>+514630.00+0001148.00</Point>
+         <Point>+514403.00+0004538.00</Point>
+         <Point>+551506.00-0042705.00</Point>
+         <Point>+514247.00+0010458.00</Point>
+         <Point>+520406.00-0014028.00</Point>
+         <Point>+510101.00-0003024.00</Point>
+         <Point>+513710.00+0005452.00</Point>
+         <Point>+483437.00-0080000.00</Point>
+         <Point>+530440.00-0013615.00</Point>
+         <Point>+511008.00+0001929.00</Point>
+         <Point>+550640.00-0045741.00</Point>
+         <Point>+535017.00-0032855.00</Point>
+         <Point>+500435.00-0080000.00</Point>
+         <Point>+555824.00-0073135.00</Point>
+         <Point>+522041.00+0010012.00</Point>
+         <Point>+513701.00-0000705.00</Point>
+         <Point>+514714.00-0033910.00</Point>
+         <Point>+514232.00-0020823.00</Point>
+         <Point>+575400.00-0051009.00</Point>
+         <Point>+533554.00-0015700.00</Point>
+         <Point>+513936.00-0001644.00</Point>
+         <Point>+522052.00+0004657.00</Point>
+         <Point>+512733.00+0000708.00</Point>
+         <Point>+531106.00-0023723.00</Point>
+         <Point>+514020.00-0004139.00</Point>
+         <Point>+522237.00-0020019.00</Point>
+         <Point>+520803.00-0031357.00</Point>
+         <Point>+511227.00+0010103.00</Point>
+         <Point>+514427.00-0033502.00</Point>
+         <Point>+504724.00+0002530.00</Point>
+         <Point>+533830.00-0041839.00</Point>
+         <Point>+522129.00-0012339.00</Point>
+         <Point>+533340.00-0013339.00</Point>
+         <Point>+503224.00-0043430.00</Point>
+         <Point>+513340.00+0005746.00</Point>
+         <Point>+545435.00-0014423.00</Point>
+         <Point>+552111.00-0032102.00</Point>
+         <Point>+523427.00-0005630.00</Point>
+         <Point>+551441.00+0050000.00</Point>
+         <Point>+563935.00-0020050.00</Point>
+         <Point>+533513.00-0011803.00</Point>
+         <Point>+534202.00-0002645.00</Point>
+         <Point>+515847.00-0000419.00</Point>
+         <Point>+550740.00-0030443.00</Point>
+         <Point>+530030.00-0021313.00</Point>
+         <Point>+542500.00-0015346.00</Point>
+         <Point>+535940.00-0041235.00</Point>
+         <Point>+511447.00+0020000.00</Point>
+         <Point>+531808.00-0024410.00</Point>
+         <Point>+572711.00-0033738.00</Point>
+         <Point>+541125.00-0052239.00</Point>
+         <Point>+550743.00+0050000.00</Point>
+         <Point>+540010.00-0024832.00</Point>
+         <Point>+511514.00-0010242.00</Point>
+         <Point>+553139.00-0034543.00</Point>
+         <Point>+503009.00-0011517.00</Point>
+         <Point>+512604.00-0002056.00</Point>
+         <Point>+523316.00-0053000.00</Point>
+         <Point>+563215.00+0050000.00</Point>
+         <Point>+530234.00-0015823.00</Point>
+         <Point>+532401.00-0002111.00</Point>
+         <Point>+522436.00-0010050.00</Point>
+         <Point>+541820.00+0033908.00</Point>
+         <Point>+543000.00-0150000.00</Point>
+         <Point>+500822.00-0014934.00</Point>
+         <Point>+511409.00-0003646.00</Point>
+         <Point>+522439.00-0020231.00</Point>
+         <Point>+532035.00-0032151.00</Point>
+         <Point>+510333.00-0005750.00</Point>
+         <Point>+503457.00+0002059.00</Point>
+         <Point>+511951.00+0000205.00</Point>
+         <Point>+521450.00-0005108.00</Point>
+         <Point>+514015.00+0002909.00</Point>
+         <Point>+505906.00-0001130.00</Point>
+         <Point>+510700.00+0005711.00</Point>
+         <Point>+520110.00-0004400.00</Point>
+         <Point>+513726.00-0022006.00</Point>
+         <Point>+501216.00+0001553.00</Point>
+         <Point>+514705.00+0021327.00</Point>
+         <Point>+531729.00-0013751.00</Point>
+         <Point>+491402.00-0060835.00</Point>
+         <Point>+502106.00+0003829.00</Point>
+         <Point>+521203.00-0012736.00</Point>
+         <Point>+513142.00-0043335.00</Point>
+         <Point>+510127.00-0000055.00</Point>
+      </Symbol>
+      <Symbol Type="DotFillCircle">
+         <Point>+571838.00-0021602.00</Point>
+         <Point>+515923.00+0000343.00</Point>
+         <Point>+543940.00-0061348.00</Point>
+         <Point>+572841.00-0072155.00</Point>
+         <Point>+502355.00-0032937.00</Point>
+         <Point>+511951.00+0000205.00</Point>
+         <Point>+514334.00-0003259.00</Point>
+         <Point>+514332.00-0031547.00</Point>
+         <Point>+514459.00-0000624.00</Point>
+         <Point>+515055.00+0010851.00</Point>
+         <Point>+512930.00-0011311.00</Point>
+         <Point>+521049.00-0010650.00</Point>
+         <Point>+544319.00-0032026.00</Point>
+         <Point>+511814.00+0003550.00</Point>
+         <Point>+510945.00+0012133.00</Point>
+         <Point>+553332.00-0043606.00</Point>
+         <Point>+531653.00-0005650.00</Point>
+         <Point>+555214.00-0042645.00</Point>
+         <Point>+505119.00-0004524.00</Point>
+         <Point>+552324.00-0034412.00</Point>
+         <Point>+514535.00-0004725.00</Point>
+         <Point>+522124.00-0013949.00</Point>
+         <Point>+540401.00-0044549.00</Point>
+         <Point>+491316.00-0020246.00</Point>
+         <Point>+513846.00+0000906.00</Point>
+         <Point>+500811.00-0053813.00</Point>
+         <Point>+512914.00-0002800.00</Point>
+         <Point>+505959.00+0005243.00</Point>
+         <Point>+552548.00-0053901.00</Point>
+         <Point>+532125.00-0021544.00</Point>
+         <Point>+510102.00+0000658.00</Point>
+         <Point>+510314.00-0003730.00</Point>
+         <Point>+550218.00-0014154.00</Point>
+         <Point>+511818.00-0002650.00</Point>
+         <Point>+534154.00-0000613.00</Point>
+         <Point>+562633.00-0032207.00</Point>
+         <Point>+534438.00-0020612.00</Point>
+         <Point>+555427.00-0021223.00</Point>
+         <Point>+504538.00+0000719.00</Point>
+         <Point>+505719.00-0012042.00</Point>
+         <Point>+581225.00-0061059.00</Point>
+         <Point>+515941.00-0050225.00</Point>
+         <Point>+595243.00-0011711.00</Point>
+         <Point>+552957.00-0032110.00</Point>
+         <Point>+562936.00-0065232.00</Point>
+         <Point>+530314.00-0014012.00</Point>
+         <Point>+551848.00-0044702.00</Point>
+         <Point>+532331.00-0030804.00</Point>
+         <Point>+582732.00-0030601.00</Point>
+         <Point>+512710.00-0005244.00</Point>
+      </Symbol>
+   </Map>
+</Maps>

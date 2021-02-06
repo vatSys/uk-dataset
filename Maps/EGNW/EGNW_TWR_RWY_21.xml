@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:50 2021">
+   <Map Type="System" Name="EGNW_TWR_RWY_21" Priority="1" Center="+531908.69-0002049.59">
+      <Runway Name="21">
+         <Threshold Name="21" Position="+531908.69-0002049.59" ExtendedCentrelineTrack="25.25" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="03" Position="+531853.24-0002101.76"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGNW_TWR_RWY_21_SID" Priority="1" Center="+531908.69-0002049.59"/>
+   <Map Type="System" Name="EGNW_TWR_RWY_21_STAR" Priority="1" Center="+531908.69-0002049.59"/>
+   <Map Type="System" Name="EGNW_TWR_RWY_21_NAMES" Priority="2" Center="+531908.69-0002049.59">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

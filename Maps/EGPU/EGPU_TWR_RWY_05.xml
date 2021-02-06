@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:49 2021">
+   <Map Type="System" Name="EGPU_TWR_RWY_05" Priority="1" Center="+562940.96-0065240.33">
+      <Runway Name="05">
+         <Threshold Name="05" Position="+562940.96-0065240.33" ExtendedCentrelineTrack="227.1" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="23" Position="+563010.89-0065142.10"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGPU_TWR_RWY_05_SID" Priority="1" Center="+562940.96-0065240.33"/>
+   <Map Type="System" Name="EGPU_TWR_RWY_05_STAR" Priority="1" Center="+562940.96-0065240.33"/>
+   <Map Type="System" Name="EGPU_TWR_RWY_05_NAMES" Priority="2" Center="+562940.96-0065240.33">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

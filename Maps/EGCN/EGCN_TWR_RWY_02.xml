@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:30 2021">
+   <Map Type="System" Name="EGCN_TWR_RWY_02" Priority="1" Center="+532751.11-0010036.17">
+      <Runway Name="02">
+         <Threshold Name="02" Position="+532751.11-0010036.17" ExtendedCentrelineTrack="197.65" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="20" Position="+532910.93-0005953.58"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGCN_TWR_RWY_02_SID" Priority="1" Center="+532751.11-0010036.17">
+      <Line>DME01/D017E/ROGAG</Line>
+      <Line>CNN04/CNE01/CNE02/CNS06/LEDLA/ROGAG</Line>
+      <Line>CNN01/CNN02/CNN05/UPTON</Line>
+   </Map>
+   <Map Type="System" Name="EGCN_TWR_RWY_02_STAR" Priority="1" Center="+532751.11-0010036.17">
+      <Line Pattern="Dotted">CALDA/DENBY/UNIGO/UPTON/FNY</Line>
+      <Line Pattern="Dotted">EMBOR/EVSON/ADELU/MAMUL/FNY</Line>
+      <Line Pattern="Dotted">GASKO/CNW02/BATLI/UPTON/FNY</Line>
+      <Line Pattern="Dotted">REXAM/CNW03/BARTN/UNIGO/UPTON/FNY</Line>
+      <Line Pattern="Dotted">SETEL/POL/DENBY/UNIGO/UPTON/FNY</Line>
+      <Line Pattern="Dotted">TNT/TIPIL/EVSON/ADELU/MAMUL/FNY</Line>
+      <Line Pattern="Dotted">WAL/CNW04/BARTN/UNIGO/UPTON/FNY</Line>
+   </Map>
+   <Map Type="System" Name="EGCN_TWR_RWY_02_NAMES" Priority="2" Center="+532751.11-0010036.17">
+      <Label>
+         <Point>CNN05</Point>
+         <Point>CNW04</Point>
+         <Point>CNW02</Point>
+         <Point>LEDLA</Point>
+         <Point>TNT</Point>
+         <Point>GASKO</Point>
+         <Point>REXAM</Point>
+         <Point>UPTON</Point>
+         <Point>UNIGO</Point>
+         <Point>TIPIL</Point>
+         <Point>EMBOR</Point>
+         <Point>ROGAG</Point>
+         <Point>DENBY</Point>
+         <Point>CNE02</Point>
+         <Point>D017E</Point>
+         <Point>SETEL</Point>
+         <Point>BATLI</Point>
+         <Point>CALDA</Point>
+         <Point>DME01</Point>
+         <Point>CNE01</Point>
+         <Point>FNY</Point>
+         <Point>POL</Point>
+         <Point>MAMUL</Point>
+         <Point>WAL</Point>
+         <Point>CNN04</Point>
+         <Point>CNW03</Point>
+         <Point>CNN02</Point>
+         <Point>CNS06</Point>
+         <Point>BARTN</Point>
+         <Point>EVSON</Point>
+         <Point>ADELU</Point>
+         <Point>CNN01</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>CNN05</Point>
+         <Point>CNW04</Point>
+         <Point>CNW02</Point>
+         <Point>LEDLA</Point>
+         <Point>TNT</Point>
+         <Point>GASKO</Point>
+         <Point>REXAM</Point>
+         <Point>UPTON</Point>
+         <Point>UNIGO</Point>
+         <Point>TIPIL</Point>
+         <Point>EMBOR</Point>
+         <Point>ROGAG</Point>
+         <Point>DENBY</Point>
+         <Point>CNE02</Point>
+         <Point>D017E</Point>
+         <Point>SETEL</Point>
+         <Point>BATLI</Point>
+         <Point>CALDA</Point>
+         <Point>DME01</Point>
+         <Point>CNE01</Point>
+         <Point>FNY</Point>
+         <Point>POL</Point>
+         <Point>MAMUL</Point>
+         <Point>WAL</Point>
+         <Point>CNN04</Point>
+         <Point>CNW03</Point>
+         <Point>CNN02</Point>
+         <Point>CNS06</Point>
+         <Point>BARTN</Point>
+         <Point>EVSON</Point>
+         <Point>ADELU</Point>
+         <Point>CNN01</Point>
+      </Symbol>
+   </Map>
+</Maps>

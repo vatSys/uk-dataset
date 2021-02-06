@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:25 2021">
+   <Map Type="System" Name="EGBB_TWR_RWY_15" Priority="1" Center="+522748.52-0014531.43">
+      <Runway Name="15">
+         <Threshold Name="15" Position="+522748.52-0014531.43" ExtendedCentrelineTrack="325.81" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="33" Position="+522646.58-0014422.56"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGBB_TWR_RWY_15_SID" Priority="1" Center="+522748.52-0014531.43">
+      <Line>BBS02/BBS04/BBS06/BBE13/BBE17/COWLY</Line>
+      <Line>BBS02/BBS04/BBS06/BBS13/BBS17/CPT</Line>
+      <Line>BBS02/BBS04/BBS06/BBE09/BBE12/BBE16/BBE19/DTY</Line>
+      <Line>BBE23/BBE24/BBE25/BBN11/BBN12/LUVUM</Line>
+      <Line>D147B/D165D/LUXTO</Line>
+      <Line>D147B/D165D/MOSUN</Line>
+      <Line>BBE05/BBE07/BBN11/BBN14/BBN26/TNT</Line>
+      <Line>D144B/TNT33/TNT30/D177R/TNT</Line>
+      <Line>BBS02/BBS04/BBS06/BBN13/BBN17/BBE22/WCO</Line>
+   </Map>
+   <Map Type="System" Name="EGBB_TWR_RWY_15_STAR" Priority="1" Center="+522748.52-0014531.43">
+      <Line Pattern="Dotted">AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">BEGAM/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">POL/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">DESIG/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">CROFT/MCT/VEGAR/D158Y/CHASE</Line>
+      <Line Pattern="Dotted">DOLOP/AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">FIGZI/BIFIN/GROVE</Line>
+      <Line Pattern="Dotted">HEMEL/BUZAD/WELIN/PUFAX/HON/OSKOT/GROVE</Line>
+      <Line Pattern="Dotted">MAKUX/AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">MALUD/AMPIT/NOKIN/CREWE/CHASE</Line>
+      <Line Pattern="Dotted">SILVA/YOHDA/HON/OSKOT/GROVE</Line>
+      <Line Pattern="Dotted">WAL/CREWE/CHASE</Line>
+   </Map>
+   <Map Type="System" Name="EGBB_TWR_RWY_15_NAMES" Priority="2" Center="+522748.52-0014531.43">
+      <Label>
+         <Point>D158Y</Point>
+         <Point>DESIG</Point>
+         <Point>WELIN</Point>
+         <Point>BBE13</Point>
+         <Point>CHASE</Point>
+         <Point>BBN26</Point>
+         <Point>BBE17</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>BBE07</Point>
+         <Point>TNT</Point>
+         <Point>BBE24</Point>
+         <Point>MALUD</Point>
+         <Point>BBN12</Point>
+         <Point>BBE19</Point>
+         <Point>MAKUX</Point>
+         <Point>BBS17</Point>
+         <Point>PUFAX</Point>
+         <Point>BBE09</Point>
+         <Point>GROVE</Point>
+         <Point>BBS04</Point>
+         <Point>CROFT</Point>
+         <Point>BBE25</Point>
+         <Point>AMPIT</Point>
+         <Point>BBE05</Point>
+         <Point>D144B</Point>
+         <Point>MOSUN</Point>
+         <Point>DOLOP</Point>
+         <Point>HEMEL</Point>
+         <Point>BBE16</Point>
+         <Point>CPT</Point>
+         <Point>NOKIN</Point>
+         <Point>LUXTO</Point>
+         <Point>MCT</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>BBE12</Point>
+         <Point>COWLY</Point>
+         <Point>YOHDA</Point>
+         <Point>DTY</Point>
+         <Point>BBS06</Point>
+         <Point>D177R</Point>
+         <Point>BBS13</Point>
+         <Point>BBN13</Point>
+         <Point>BBE22</Point>
+         <Point>WCO</Point>
+         <Point>BBN14</Point>
+         <Point>CREWE</Point>
+         <Point>LUVUM</Point>
+         <Point>FIGZI</Point>
+         <Point>D165D</Point>
+         <Point>OSKOT</Point>
+         <Point>BBE23</Point>
+         <Point>BBN11</Point>
+         <Point>TNT30</Point>
+         <Point>BBN17</Point>
+         <Point>BIFIN</Point>
+         <Point>HON</Point>
+         <Point>TNT33</Point>
+         <Point>BUZAD</Point>
+         <Point>SILVA</Point>
+         <Point>D147B</Point>
+         <Point>BBS02</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D158Y</Point>
+         <Point>DESIG</Point>
+         <Point>WELIN</Point>
+         <Point>BBE13</Point>
+         <Point>CHASE</Point>
+         <Point>BBN26</Point>
+         <Point>BBE17</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>BBE07</Point>
+         <Point>TNT</Point>
+         <Point>BBE24</Point>
+         <Point>MALUD</Point>
+         <Point>BBN12</Point>
+         <Point>BBE19</Point>
+         <Point>MAKUX</Point>
+         <Point>BBS17</Point>
+         <Point>PUFAX</Point>
+         <Point>BBE09</Point>
+         <Point>GROVE</Point>
+         <Point>BBS04</Point>
+         <Point>CROFT</Point>
+         <Point>BBE25</Point>
+         <Point>AMPIT</Point>
+         <Point>BBE05</Point>
+         <Point>D144B</Point>
+         <Point>MOSUN</Point>
+         <Point>DOLOP</Point>
+         <Point>HEMEL</Point>
+         <Point>BBE16</Point>
+         <Point>CPT</Point>
+         <Point>NOKIN</Point>
+         <Point>LUXTO</Point>
+         <Point>MCT</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>BBE12</Point>
+         <Point>COWLY</Point>
+         <Point>YOHDA</Point>
+         <Point>DTY</Point>
+         <Point>BBS06</Point>
+         <Point>D177R</Point>
+         <Point>BBS13</Point>
+         <Point>BBN13</Point>
+         <Point>BBE22</Point>
+         <Point>WCO</Point>
+         <Point>BBN14</Point>
+         <Point>CREWE</Point>
+         <Point>LUVUM</Point>
+         <Point>FIGZI</Point>
+         <Point>D165D</Point>
+         <Point>OSKOT</Point>
+         <Point>BBE23</Point>
+         <Point>BBN11</Point>
+         <Point>TNT30</Point>
+         <Point>BBN17</Point>
+         <Point>BIFIN</Point>
+         <Point>HON</Point>
+         <Point>TNT33</Point>
+         <Point>BUZAD</Point>
+         <Point>SILVA</Point>
+         <Point>D147B</Point>
+         <Point>BBS02</Point>
+      </Symbol>
+   </Map>
+</Maps>

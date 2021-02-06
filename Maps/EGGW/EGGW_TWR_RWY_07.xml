@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:40 2021">
+   <Map Type="System" Name="EGGW_TWR_RWY_07" Priority="1" Center="+515219.25-0002300.91">
+      <Runway Name="07">
+         <Threshold Name="07" Position="+515219.25-0002300.91" ExtendedCentrelineTrack="254.38" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="25" Position="+515237.36-0002116.15"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGGW_TWR_RWY_07_SID" Priority="1" Center="+515219.25-0002300.91">
+      <Line>D076D/D038F/D008D/HEN/RODNI/CPT</Line>
+      <Line>LUT/D336F/D336C/BPK/D098G/D098O/NEPNA/DET</Line>
+      <Line>LUT/D336F/D336C/BPK/D083G/MATCH</Line>
+      <Line>D075C/D315O/D315U/OLNEY</Line>
+      <Line>D075D/D057G/BKY/BUSTA/LOREL</Line>
+   </Map>
+   <Map Type="System" Name="EGGW_TWR_RWY_07_STAR" Priority="1" Center="+515219.25-0002300.91">
+      <Line Pattern="Dotted">ABBOT/TABIS/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">HON/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">AVANT/OCK/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">BANVA/UNDUG/MAY/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">BARMI/MEGEL/DITOB/LAPRA/ABBOT</Line>
+      <Line Pattern="Dotted">BARMI/MEGEL/DITOB/LAPRA/CASEY</Line>
+      <Line Pattern="Dotted">BEDEK/NIGIT/OCK/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">DET/LOFFO/ABBOT</Line>
+      <Line Pattern="Dotted">FINMA/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">IDESI/LAPRA/ABBOT</Line>
+      <Line Pattern="Dotted">IDESI/LAPRA/CASEY</Line>
+      <Line Pattern="Dotted">LOGAN/CLN/ABBOT</Line>
+      <Line Pattern="Dotted">HON/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">SILVA/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">TELTU/VATON/BPK/BKY/BUSTA/LOREL</Line>
+   </Map>
+   <Map Type="System" Name="EGGW_TWR_RWY_07_NAMES" Priority="2" Center="+515219.25-0002300.91">
+      <Label>
+         <Point>D315O</Point>
+         <Point>UNDUG</Point>
+         <Point>NIGIT</Point>
+         <Point>D098G</Point>
+         <Point>MEGEL</Point>
+         <Point>D075D</Point>
+         <Point>BKY</Point>
+         <Point>LOREL</Point>
+         <Point>BOMBO</Point>
+         <Point>D057G</Point>
+         <Point>HEN</Point>
+         <Point>LAPRA</Point>
+         <Point>TELTU</Point>
+         <Point>D336F</Point>
+         <Point>BEDEK</Point>
+         <Point>ABBOT</Point>
+         <Point>MAY</Point>
+         <Point>D008D</Point>
+         <Point>LUT</Point>
+         <Point>OLNEY</Point>
+         <Point>NEPNA</Point>
+         <Point>AVANT</Point>
+         <Point>FINMA</Point>
+         <Point>IDESI</Point>
+         <Point>LOGAN</Point>
+         <Point>MATCH</Point>
+         <Point>ASKEY</Point>
+         <Point>D075C</Point>
+         <Point>CASEY</Point>
+         <Point>D098O</Point>
+         <Point>BUSTA</Point>
+         <Point>D336C</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>TABIS</Point>
+         <Point>BANVA</Point>
+         <Point>MCT</Point>
+         <Point>DITOB</Point>
+         <Point>BPK</Point>
+         <Point>RODNI</Point>
+         <Point>D315U</Point>
+         <Point>ROGBI</Point>
+         <Point>VATON</Point>
+         <Point>LOFFO</Point>
+         <Point>D038F</Point>
+         <Point>D076D</Point>
+         <Point>D083G</Point>
+         <Point>PEDIG</Point>
+         <Point>DET</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>BARMI</Point>
+         <Point>SILVA</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D315O</Point>
+         <Point>UNDUG</Point>
+         <Point>NIGIT</Point>
+         <Point>D098G</Point>
+         <Point>MEGEL</Point>
+         <Point>D075D</Point>
+         <Point>BKY</Point>
+         <Point>LOREL</Point>
+         <Point>BOMBO</Point>
+         <Point>D057G</Point>
+         <Point>HEN</Point>
+         <Point>LAPRA</Point>
+         <Point>TELTU</Point>
+         <Point>D336F</Point>
+         <Point>BEDEK</Point>
+         <Point>ABBOT</Point>
+         <Point>MAY</Point>
+         <Point>D008D</Point>
+         <Point>LUT</Point>
+         <Point>OLNEY</Point>
+         <Point>NEPNA</Point>
+         <Point>AVANT</Point>
+         <Point>FINMA</Point>
+         <Point>IDESI</Point>
+         <Point>LOGAN</Point>
+         <Point>MATCH</Point>
+         <Point>ASKEY</Point>
+         <Point>D075C</Point>
+         <Point>CASEY</Point>
+         <Point>D098O</Point>
+         <Point>BUSTA</Point>
+         <Point>D336C</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>TABIS</Point>
+         <Point>BANVA</Point>
+         <Point>MCT</Point>
+         <Point>DITOB</Point>
+         <Point>BPK</Point>
+         <Point>RODNI</Point>
+         <Point>D315U</Point>
+         <Point>ROGBI</Point>
+         <Point>VATON</Point>
+         <Point>LOFFO</Point>
+         <Point>D038F</Point>
+         <Point>D076D</Point>
+         <Point>D083G</Point>
+         <Point>PEDIG</Point>
+         <Point>DET</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>BARMI</Point>
+         <Point>SILVA</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Symbol>
+   </Map>
+</Maps>

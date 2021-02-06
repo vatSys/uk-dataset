@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:35 2021">
+   <Map Type="System" Name="EGJJ_TWR_RWY_26" Priority="1" Center="+491231.80-0021105.66">
+      <Runway Name="26">
+         <Threshold Name="26" Position="+491231.80-0021105.66" ExtendedCentrelineTrack="82.76" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="08" Position="+491225.44-0021221.94"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGJJ_TWR_RWY_26_SID" Priority="1" Center="+491231.80-0021105.66">
+      <Line>PERCH/LUSIT/BENIX</Line>
+      <Line>PERCH/LUSIT/CAN</Line>
+      <Line>DIN27/DIN</Line>
+      <Line>LERAK</Line>
+      <Line>JJW01/JJW02/ALD/ORIST</Line>
+      <Line>D045W/ORTAC</Line>
+      <Line>PERCH/ORVAL</Line>
+      <Line>GUR/SKERY</Line>
+      <Line>TUNIT/LIZAD</Line>
+   </Map>
+   <Map Type="System" Name="EGJJ_TWR_RWY_26_STAR" Priority="1" Center="+491231.80-0021105.66">
+      <Line Pattern="Dotted">ORTAC/ANGLA/JSY</Line>
+      <Line Pattern="Dotted">DIN/MINQI/JSY</Line>
+      <Line Pattern="Dotted">TUNIT/OYSTA/PERCH/JSY</Line>
+      <Line Pattern="Dotted">SKERY/CHUBB/OYSTA/PERCH/JSY</Line>
+      <Line Pattern="Dotted">SKERY/JSY</Line>
+      <Line Pattern="Dotted">LERAK/JSY</Line>
+      <Line Pattern="Dotted">LELNA/ANGLA/JSY</Line>
+      <Line Pattern="Dotted">BEVAV/JSY</Line>
+      <Line Pattern="Dotted">ANGLO/DIKRO/BEVAV/JSY</Line>
+      <Line Pattern="Dotted">BIGNO/CHUBB/OYSTA/PERCH/JSY</Line>
+      <Line Pattern="Dotted">BIGNO/JSY</Line>
+      <Line Pattern="Dotted">CAN/SENLO/BEVAV/JSY</Line>
+   </Map>
+   <Map Type="System" Name="EGJJ_TWR_RWY_26_NAMES" Priority="2" Center="+491231.80-0021105.66">
+      <Label>
+         <Point>GUR</Point>
+         <Point>TUNIT</Point>
+         <Point>LERAK</Point>
+         <Point>MINQI</Point>
+         <Point>LUSIT</Point>
+         <Point>ANGLA</Point>
+         <Point>DIKRO</Point>
+         <Point>SENLO</Point>
+         <Point>BEVAV</Point>
+         <Point>CHUBB</Point>
+         <Point>D045W</Point>
+         <Point>DIN</Point>
+         <Point>OYSTA</Point>
+         <Point>SKERY</Point>
+         <Point>JJW01</Point>
+         <Point>JJW02</Point>
+         <Point>LIZAD</Point>
+         <Point>DIN27</Point>
+         <Point>LELNA</Point>
+         <Point>BIGNO</Point>
+         <Point>ORIST</Point>
+         <Point>ANGLO</Point>
+         <Point>PERCH</Point>
+         <Point>JSY</Point>
+         <Point>ALD</Point>
+         <Point>ORTAC</Point>
+         <Point>BENIX</Point>
+         <Point>ORVAL</Point>
+         <Point>CAN</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>GUR</Point>
+         <Point>TUNIT</Point>
+         <Point>LERAK</Point>
+         <Point>MINQI</Point>
+         <Point>LUSIT</Point>
+         <Point>ANGLA</Point>
+         <Point>DIKRO</Point>
+         <Point>SENLO</Point>
+         <Point>BEVAV</Point>
+         <Point>CHUBB</Point>
+         <Point>D045W</Point>
+         <Point>DIN</Point>
+         <Point>OYSTA</Point>
+         <Point>SKERY</Point>
+         <Point>JJW01</Point>
+         <Point>JJW02</Point>
+         <Point>LIZAD</Point>
+         <Point>DIN27</Point>
+         <Point>LELNA</Point>
+         <Point>BIGNO</Point>
+         <Point>ORIST</Point>
+         <Point>ANGLO</Point>
+         <Point>PERCH</Point>
+         <Point>JSY</Point>
+         <Point>ALD</Point>
+         <Point>ORTAC</Point>
+         <Point>BENIX</Point>
+         <Point>ORVAL</Point>
+         <Point>CAN</Point>
+      </Symbol>
+   </Map>
+</Maps>

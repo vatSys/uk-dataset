@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:41 2021">
+   <Map Type="System" Name="EGCC_TWR_RWY_05R" Priority="1" Center="+531955.10-0021838.38">
+      <Runway Name="05R">
+         <Threshold Name="05R" Position="+531955.10-0021838.38" ExtendedCentrelineTrack="231.04" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="23L" Position="+532053.35-0021637.95"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGCC_TWR_RWY_05R_SID" Priority="1" Center="+531955.10-0021838.38">
+      <Line>MC02B/D337F/XOBRO/ASMIM</Line>
+      <Line>D052L/MCT/DESIG</Line>
+      <Line>D058A/D186X/POL28/POL33/LISTO</Line>
+      <Line>MC02B/D337F/XOBRO/WAL16/D081B/MONTY</Line>
+      <Line>D052G/D181L/D181H/POL</Line>
+   </Map>
+   <Map Type="System" Name="EGCC_TWR_RWY_05R_STAR" Priority="1" Center="+531955.10-0021838.38">
+      <Line Pattern="Dotted">OTBED/GOLES/POL/ARTHA/DALEY</Line>
+      <Line Pattern="Dotted">LIBSO/GOLES/POL/ARTHA/DALEY</Line>
+      <Line Pattern="Dotted">LAKEY/TNT56/DALEY</Line>
+      <Line Pattern="Dotted">SETEL/DALEY</Line>
+      <Line Pattern="Dotted">GOLES/UPTON/DESIG/POL/ARTHA/DALEY</Line>
+      <Line Pattern="Dotted">TILNI/GASKO/BEGAM/SETEL/DALEY</Line>
+      <Line Pattern="Dotted">LESTA/D132Y/TNT/D312E/DAYNE</Line>
+      <Line Pattern="Dotted">TNT/D312E/DAYNE</Line>
+      <Line Pattern="Dotted">MONTY/REXAM/WAL/MIRSI</Line>
+      <Line Pattern="Dotted">MALUD/WAL/MIRSI</Line>
+      <Line Pattern="Dotted">PENIL/WAL/MIRSI</Line>
+      <Line Pattern="Dotted">GIGTO/IBRAR/WAL/MIRSI</Line>
+      <Line Pattern="Dotted">OTBED/GOLES/POL/BURNI/ROSUN</Line>
+      <Line Pattern="Dotted">LIBSO/GOLES/POL/BURNI/ROSUN</Line>
+      <Line Pattern="Dotted">LAKEY/TNT56/ROSUN</Line>
+      <Line Pattern="Dotted">SETEL/ROSUN</Line>
+      <Line Pattern="Dotted">GOLES/UPTON/DESIG/POL/BURNI/ROSUN</Line>
+      <Line Pattern="Dotted">TILNI/GASKO/BEGAM/SETEL/ROSUN</Line>
+   </Map>
+   <Map Type="System" Name="EGCC_TWR_RWY_05R_NAMES" Priority="2" Center="+531955.10-0021838.38">
+      <Label>
+         <Point>DESIG</Point>
+         <Point>POL33</Point>
+         <Point>D181H</Point>
+         <Point>D052L</Point>
+         <Point>BEGAM</Point>
+         <Point>TNT</Point>
+         <Point>LESTA</Point>
+         <Point>MALUD</Point>
+         <Point>MC02B</Point>
+         <Point>GASKO</Point>
+         <Point>REXAM</Point>
+         <Point>UPTON</Point>
+         <Point>PENIL</Point>
+         <Point>OTBED</Point>
+         <Point>GIGTO</Point>
+         <Point>ROSUN</Point>
+         <Point>WAL16</Point>
+         <Point>SETEL</Point>
+         <Point>ARTHA</Point>
+         <Point>TNT56</Point>
+         <Point>D312E</Point>
+         <Point>D052G</Point>
+         <Point>DAYNE</Point>
+         <Point>XOBRO</Point>
+         <Point>D337F</Point>
+         <Point>MONTY</Point>
+         <Point>MCT</Point>
+         <Point>D181L</Point>
+         <Point>DALEY</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>D058A</Point>
+         <Point>D186X</Point>
+         <Point>POL28</Point>
+         <Point>LAKEY</Point>
+         <Point>D132Y</Point>
+         <Point>TILNI</Point>
+         <Point>IBRAR</Point>
+         <Point>BURNI</Point>
+         <Point>D081B</Point>
+         <Point>MIRSI</Point>
+         <Point>GOLES</Point>
+         <Point>ASMIM</Point>
+         <Point>LIBSO</Point>
+         <Point>LISTO</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>DESIG</Point>
+         <Point>POL33</Point>
+         <Point>D181H</Point>
+         <Point>D052L</Point>
+         <Point>BEGAM</Point>
+         <Point>TNT</Point>
+         <Point>LESTA</Point>
+         <Point>MALUD</Point>
+         <Point>MC02B</Point>
+         <Point>GASKO</Point>
+         <Point>REXAM</Point>
+         <Point>UPTON</Point>
+         <Point>PENIL</Point>
+         <Point>OTBED</Point>
+         <Point>GIGTO</Point>
+         <Point>ROSUN</Point>
+         <Point>WAL16</Point>
+         <Point>SETEL</Point>
+         <Point>ARTHA</Point>
+         <Point>TNT56</Point>
+         <Point>D312E</Point>
+         <Point>D052G</Point>
+         <Point>DAYNE</Point>
+         <Point>XOBRO</Point>
+         <Point>D337F</Point>
+         <Point>MONTY</Point>
+         <Point>MCT</Point>
+         <Point>D181L</Point>
+         <Point>DALEY</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>D058A</Point>
+         <Point>D186X</Point>
+         <Point>POL28</Point>
+         <Point>LAKEY</Point>
+         <Point>D132Y</Point>
+         <Point>TILNI</Point>
+         <Point>IBRAR</Point>
+         <Point>BURNI</Point>
+         <Point>D081B</Point>
+         <Point>MIRSI</Point>
+         <Point>GOLES</Point>
+         <Point>ASMIM</Point>
+         <Point>LIBSO</Point>
+         <Point>LISTO</Point>
+      </Symbol>
+   </Map>
+</Maps>

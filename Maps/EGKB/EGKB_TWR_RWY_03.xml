@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:25 2021">
+   <Map Type="System" Name="EGKB_TWR_RWY_03" Priority="1" Center="+511932.44+0000142.18">
+      <Runway Name="03">
+         <Threshold Name="03" Position="+511932.44+0000142.18" ExtendedCentrelineTrack="205.7" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="21" Position="+512017.72+0000216.98"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGKB_TWR_RWY_03_SID" Priority="1" Center="+511932.44+0000142.18">
+      <Line>BIG/DER21/BIG/D275I/D275D/DET/FRANE/D013G/SPEAR/TOVGU/DAGGA</Line>
+   </Map>
+   <Map Type="System" Name="EGKB_TWR_RWY_03_STAR" Priority="1" Center="+511932.44+0000142.18">
+      <Line Pattern="Dotted">AVANT/BIG/UMTUM/GODLU</Line>
+      <Line Pattern="Dotted">BEDEK/BIG/UMTUM/GODLU</Line>
+      <Line Pattern="Dotted">HON/ROGBI/TIXEX/ODVOD/ROPMU/NUDNA/INLIM/JACKO</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/TIXEX/ODVOD/ROPMU/NUDNA/INLIM/JACKO</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/TIXEX/ODVOD/ROPMU/NUDNA/INLIM/JACKO</Line>
+      <Line Pattern="Dotted">KATHY/BIDVA/EVEXU/SOXUX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">KONAN/GODLU</Line>
+      <Line Pattern="Dotted">NEVIL/OSPOL/NETVU/SOXUX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">SAM/BIDVA/EVEXU/SOXUX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">SILVA/BOMBO/BKY/BRAIN/CLN/JACKO</Line>
+      <Line Pattern="Dotted">SOVAT/ERKEX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">SUMUM/LOGAN/JACKO</Line>
+      <Line Pattern="Dotted">SUMUM/TEVMO/GODLU</Line>
+      <Line Pattern="Dotted">XAMAN/LOGAN/JACKO</Line>
+      <Line Pattern="Dotted">XAMAN/TEVMO/GODLU</Line>
+   </Map>
+   <Map Type="System" Name="EGKB_TWR_RWY_03_NAMES" Priority="2" Center="+511932.44+0000142.18">
+      <Label>
+         <Point>JACKO</Point>
+         <Point>ROPMU</Point>
+         <Point>TEVMO</Point>
+         <Point>SPEAR</Point>
+         <Point>XAMAN</Point>
+         <Point>BOMBO</Point>
+         <Point>BKY</Point>
+         <Point>GODLU</Point>
+         <Point>NETVU</Point>
+         <Point>SUMUM</Point>
+         <Point>FRANE</Point>
+         <Point>BEDEK</Point>
+         <Point>KONAN</Point>
+         <Point>D275D</Point>
+         <Point>DAGGA</Point>
+         <Point>AVANT</Point>
+         <Point>OSPOL</Point>
+         <Point>INLIM</Point>
+         <Point>SOXUX</Point>
+         <Point>ODVOD</Point>
+         <Point>DER21</Point>
+         <Point>UMTUM</Point>
+         <Point>LOGAN</Point>
+         <Point>OKVAP</Point>
+         <Point>SAM</Point>
+         <Point>BRAIN</Point>
+         <Point>BIG</Point>
+         <Point>TOVGU</Point>
+         <Point>EVEXU</Point>
+         <Point>MCT</Point>
+         <Point>BIDVA</Point>
+         <Point>KATHY</Point>
+         <Point>SOVAT</Point>
+         <Point>ROGBI</Point>
+         <Point>NEVIL</Point>
+         <Point>NUDNA</Point>
+         <Point>D275I</Point>
+         <Point>D013G</Point>
+         <Point>ERKEX</Point>
+         <Point>PEDIG</Point>
+         <Point>DET</Point>
+         <Point>HON</Point>
+         <Point>SILVA</Point>
+         <Point>TIXEX</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>JACKO</Point>
+         <Point>ROPMU</Point>
+         <Point>TEVMO</Point>
+         <Point>SPEAR</Point>
+         <Point>XAMAN</Point>
+         <Point>BOMBO</Point>
+         <Point>BKY</Point>
+         <Point>GODLU</Point>
+         <Point>NETVU</Point>
+         <Point>SUMUM</Point>
+         <Point>FRANE</Point>
+         <Point>BEDEK</Point>
+         <Point>KONAN</Point>
+         <Point>D275D</Point>
+         <Point>DAGGA</Point>
+         <Point>AVANT</Point>
+         <Point>OSPOL</Point>
+         <Point>INLIM</Point>
+         <Point>SOXUX</Point>
+         <Point>ODVOD</Point>
+         <Point>DER21</Point>
+         <Point>UMTUM</Point>
+         <Point>LOGAN</Point>
+         <Point>OKVAP</Point>
+         <Point>SAM</Point>
+         <Point>BRAIN</Point>
+         <Point>BIG</Point>
+         <Point>TOVGU</Point>
+         <Point>EVEXU</Point>
+         <Point>MCT</Point>
+         <Point>BIDVA</Point>
+         <Point>KATHY</Point>
+         <Point>SOVAT</Point>
+         <Point>ROGBI</Point>
+         <Point>NEVIL</Point>
+         <Point>NUDNA</Point>
+         <Point>D275I</Point>
+         <Point>D013G</Point>
+         <Point>ERKEX</Point>
+         <Point>PEDIG</Point>
+         <Point>DET</Point>
+         <Point>HON</Point>
+         <Point>SILVA</Point>
+         <Point>TIXEX</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Symbol>
+   </Map>
+</Maps>

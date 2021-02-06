@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:46 2021">
+   <Map Type="System" Name="EGHE_TWR_RWY_14" Priority="1" Center="+495455.21-0061740.14">
+      <Runway Name="14">
+         <Threshold Name="14" Position="+495455.21-0061740.14" ExtendedCentrelineTrack="319.39" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="32" Position="+495440.45-0061720.54"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGHE_TWR_RWY_14_SID" Priority="1" Center="+495455.21-0061740.14"/>
+   <Map Type="System" Name="EGHE_TWR_RWY_14_STAR" Priority="1" Center="+495455.21-0061740.14"/>
+   <Map Type="System" Name="EGHE_TWR_RWY_14_NAMES" Priority="2" Center="+495455.21-0061740.14">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

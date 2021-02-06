@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:46 2021">
+   <Map Type="System" Name="EGPK_TWR_RWY_30" Priority="1" Center="+553008.68-0043427.83">
+      <Runway Name="30">
+         <Threshold Name="30" Position="+553008.68-0043427.83" ExtendedCentrelineTrack="121.36" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="12" Position="+553054.82-0043641.31"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGPK_TWR_RWY_30_SID" Priority="1" Center="+553008.68-0043427.83">
+      <Line>PKW01/PKW04/DAUNT</Line>
+      <Line>PKW01/PKW02/PKW03/LUCCO</Line>
+      <Line>PKW01/PKW02/TRN</Line>
+   </Map>
+   <Map Type="System" Name="EGPK_TWR_RWY_30_STAR" Priority="1" Center="+553008.68-0043427.83">
+      <Line Pattern="Dotted">APPLE/ASLIB/ENIPI/TOXTA/TRN</Line>
+      <Line Pattern="Dotted">BLACA/GIRVA/TRN</Line>
+      <Line Pattern="Dotted">RIBEL/NISKA/ASLIB/ENIPI/TOXTA/TRN</Line>
+      <Line Pattern="Dotted">SUMIN/PKE01/SKARV</Line>
+      <Line Pattern="Dotted">TRN/ECCHO</Line>
+   </Map>
+   <Map Type="System" Name="EGPK_TWR_RWY_30_NAMES" Priority="2" Center="+553008.68-0043427.83">
+      <Label>
+         <Point>ENIPI</Point>
+         <Point>GIRVA</Point>
+         <Point>RIBEL</Point>
+         <Point>BLACA</Point>
+         <Point>APPLE</Point>
+         <Point>SKARV</Point>
+         <Point>ECCHO</Point>
+         <Point>TOXTA</Point>
+         <Point>PKW01</Point>
+         <Point>SUMIN</Point>
+         <Point>PKE01</Point>
+         <Point>DAUNT</Point>
+         <Point>TRN</Point>
+         <Point>PKW03</Point>
+         <Point>PKW02</Point>
+         <Point>PKW04</Point>
+         <Point>ASLIB</Point>
+         <Point>LUCCO</Point>
+         <Point>NISKA</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>ENIPI</Point>
+         <Point>GIRVA</Point>
+         <Point>RIBEL</Point>
+         <Point>BLACA</Point>
+         <Point>APPLE</Point>
+         <Point>SKARV</Point>
+         <Point>ECCHO</Point>
+         <Point>TOXTA</Point>
+         <Point>PKW01</Point>
+         <Point>SUMIN</Point>
+         <Point>PKE01</Point>
+         <Point>DAUNT</Point>
+         <Point>TRN</Point>
+         <Point>PKW03</Point>
+         <Point>PKW02</Point>
+         <Point>PKW04</Point>
+         <Point>ASLIB</Point>
+         <Point>LUCCO</Point>
+         <Point>NISKA</Point>
+      </Symbol>
+   </Map>
+</Maps>

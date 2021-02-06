@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:41 2021">
+   <Map Type="System" Name="EGAE_TWR_RWY_08" Priority="1" Center="+550225.20-0071031.54">
+      <Runway Name="08">
+         <Threshold Name="08" Position="+550225.20-0071031.54" ExtendedCentrelineTrack="253.1" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="26" Position="+550243.7-0070845.44"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGAE_TWR_RWY_08_SID" Priority="1" Center="+550225.20-0071031.54"/>
+   <Map Type="System" Name="EGAE_TWR_RWY_08_STAR" Priority="1" Center="+550225.20-0071031.54"/>
+   <Map Type="System" Name="EGAE_TWR_RWY_08_NAMES" Priority="2" Center="+550225.20-0071031.54">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>
