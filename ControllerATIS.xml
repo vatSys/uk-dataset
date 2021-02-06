@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ControllerATIS>
+  <ControllerInfo>
+    <Line>Melbourne Centre</Line>
+    <Line>Control service for YMMM FIR FL245 and ABV when local sector is offline</Line>
+    <Line>ATC feedback - feedback.vatpac.org</Line>
+  </ControllerInfo>
+</ControllerATIS>
