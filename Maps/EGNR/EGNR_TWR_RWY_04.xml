@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:33 2021">
+   <Map Type="System" Name="EGNR_TWR_RWY_04" Priority="1" Center="+531023.68-0025904.93">
+      <Runway Name="04">
+         <Threshold Name="04" Position="+531023.68-0025904.93" ExtendedCentrelineTrack="220.99" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="22" Position="+531058.84-0025814.06"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGNR_TWR_RWY_04_SID" Priority="1" Center="+531023.68-0025904.93">
+      <Line>REXAM/RW04/REXAM</Line>
+   </Map>
+   <Map Type="System" Name="EGNR_TWR_RWY_04_STAR" Priority="1" Center="+531023.68-0025904.93">
+      <Line Pattern="Dotted">MONTY/D184X/KEGUN/TORGO/KEGUN</Line>
+      <Line Pattern="Dotted">LESTA/TNT/NANTI/TNT42/KEGUN/TORGO/KEGUN</Line>
+      <Line Pattern="Dotted">TNT/NANTI/TNT42/KEGUN/TORGO/KEGUN</Line>
+      <Line Pattern="Dotted">PEDIG/NANTI/TNT42/KEGUN/TORGO/KEGUN</Line>
+   </Map>
+   <Map Type="System" Name="EGNR_TWR_RWY_04_NAMES" Priority="2" Center="+531023.68-0025904.93">
+      <Label>
+         <Point>REXAM</Point>
+         <Point>KEGUN</Point>
+         <Point>TNT42</Point>
+         <Point>RW04</Point>
+         <Point>PEDIG</Point>
+         <Point>MONTY</Point>
+         <Point>TORGO</Point>
+         <Point>NANTI</Point>
+         <Point>D184X</Point>
+         <Point>TNT</Point>
+         <Point>LESTA</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>REXAM</Point>
+         <Point>KEGUN</Point>
+         <Point>TNT42</Point>
+         <Point>RW04</Point>
+         <Point>PEDIG</Point>
+         <Point>MONTY</Point>
+         <Point>TORGO</Point>
+         <Point>NANTI</Point>
+         <Point>D184X</Point>
+         <Point>TNT</Point>
+         <Point>LESTA</Point>
+      </Symbol>
+   </Map>
+</Maps>

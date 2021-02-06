@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:28 2021">
+   <Map Type="System" Name="EGFF_TWR_RWY_30" Priority="1" Center="+512332.83-0031948.64">
+      <Runway Name="30">
+         <Threshold Name="30" Position="+512332.83-0031948.64" ExtendedCentrelineTrack="116.78" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="12" Position="+512401.72-0032120.17"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGFF_TWR_RWY_30_SID" Priority="1" Center="+512332.83-0031948.64">
+      <Line>D298D/D211O/D211K/D211F/BCN</Line>
+      <Line>D298D/BHD57/BHD52/EXMOR</Line>
+   </Map>
+   <Map Type="System" Name="EGFF_TWR_RWY_30_STAR" Priority="1" Center="+512332.83-0031948.64">
+      <Line Pattern="Dotted">RETSI/AMRAL/RILES/DOBEM/KUKIS/CDF</Line>
+      <Line Pattern="Dotted">STU/STU30/AMMAN/BCN/CDF</Line>
+      <Line Pattern="Dotted">CPT/ABDAL/BRI/CDF</Line>
+      <Line Pattern="Dotted">TALGA/BCN/CDF</Line>
+      <Line Pattern="Dotted">BHD/TINAN/TIVER/BCN40/EXMOR/CDF</Line>
+   </Map>
+   <Map Type="System" Name="EGFF_TWR_RWY_30_NAMES" Priority="2" Center="+512332.83-0031948.64">
+      <Label>
+         <Point>RILES</Point>
+         <Point>BCN40</Point>
+         <Point>TINAN</Point>
+         <Point>STU</Point>
+         <Point>DOBEM</Point>
+         <Point>D211K</Point>
+         <Point>D211F</Point>
+         <Point>EXMOR</Point>
+         <Point>BHD57</Point>
+         <Point>BHD52</Point>
+         <Point>ABDAL</Point>
+         <Point>CPT</Point>
+         <Point>STU30</Point>
+         <Point>BHD</Point>
+         <Point>CDF</Point>
+         <Point>BCN</Point>
+         <Point>AMMAN</Point>
+         <Point>BRI</Point>
+         <Point>TALGA</Point>
+         <Point>RETSI</Point>
+         <Point>AMRAL</Point>
+         <Point>D298D</Point>
+         <Point>TIVER</Point>
+         <Point>D211O</Point>
+         <Point>KUKIS</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>RILES</Point>
+         <Point>BCN40</Point>
+         <Point>TINAN</Point>
+         <Point>STU</Point>
+         <Point>DOBEM</Point>
+         <Point>D211K</Point>
+         <Point>D211F</Point>
+         <Point>EXMOR</Point>
+         <Point>BHD57</Point>
+         <Point>BHD52</Point>
+         <Point>ABDAL</Point>
+         <Point>CPT</Point>
+         <Point>STU30</Point>
+         <Point>BHD</Point>
+         <Point>CDF</Point>
+         <Point>BCN</Point>
+         <Point>AMMAN</Point>
+         <Point>BRI</Point>
+         <Point>TALGA</Point>
+         <Point>RETSI</Point>
+         <Point>AMRAL</Point>
+         <Point>D298D</Point>
+         <Point>TIVER</Point>
+         <Point>D211O</Point>
+         <Point>KUKIS</Point>
+      </Symbol>
+   </Map>
+</Maps>

@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:31 2021">
+   <Map Type="System" Name="EGNX_TWR_RWY_09" Priority="1" Center="+524950.36-0012048.86">
+      <Runway Name="09">
+         <Threshold Name="09" Position="+524950.36-0012048.86" ExtendedCentrelineTrack="268.26" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="27" Position="+524952.88-0011830.94"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGNX_TWR_RWY_09_SID" Priority="1" Center="+524950.36-0012048.86">
+      <Line>RW09/D096B/D121G/TNT/NUTBA/BPK</Line>
+      <Line>RW09/D096B/D131W/HON30/D039Y/D039S/D339W/DTY</Line>
+      <Line>RW09/D096A/D040E/ODPIX/POL50/POL</Line>
+      <Line>RW09/D096A/D127O/TNT</Line>
+   </Map>
+   <Map Type="System" Name="EGNX_TWR_RWY_09_STAR" Priority="1" Center="+524950.36-0012048.86">
+      <Line Pattern="Dotted">AMPIT/NOKIN/NUGRA/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">DTY/VELAG/UPDUK/PIGOT</Line>
+      <Line Pattern="Dotted">HEMEL/WELIN/VELAG/UPDUK/PIGOT</Line>
+      <Line Pattern="Dotted">CROFT/MCT/D152J/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">POL/MCT/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">DESIG/MCT/D152J/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">BEGAM/MCT/D152J/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">WAL/NUGRA/VEGAR/TNT/DIPSO/ROKUP</Line>
+   </Map>
+   <Map Type="System" Name="EGNX_TWR_RWY_09_NAMES" Priority="2" Center="+524950.36-0012048.86">
+      <Label>
+         <Point>PIGOT</Point>
+         <Point>DESIG</Point>
+         <Point>WELIN</Point>
+         <Point>NUTBA</Point>
+         <Point>D096B</Point>
+         <Point>POL50</Point>
+         <Point>D040E</Point>
+         <Point>RW09</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>TNT</Point>
+         <Point>UPDUK</Point>
+         <Point>D339W</Point>
+         <Point>ROKUP</Point>
+         <Point>D131W</Point>
+         <Point>D039S</Point>
+         <Point>NUGRA</Point>
+         <Point>DIPSO</Point>
+         <Point>CROFT</Point>
+         <Point>D127O</Point>
+         <Point>AMPIT</Point>
+         <Point>D096A</Point>
+         <Point>VELAG</Point>
+         <Point>HEMEL</Point>
+         <Point>NOKIN</Point>
+         <Point>D152J</Point>
+         <Point>MCT</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>BPK</Point>
+         <Point>DTY</Point>
+         <Point>ODPIX</Point>
+         <Point>HON30</Point>
+         <Point>D039Y</Point>
+         <Point>D121G</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>PIGOT</Point>
+         <Point>DESIG</Point>
+         <Point>WELIN</Point>
+         <Point>NUTBA</Point>
+         <Point>D096B</Point>
+         <Point>POL50</Point>
+         <Point>D040E</Point>
+         <Point>RW09</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>TNT</Point>
+         <Point>UPDUK</Point>
+         <Point>D339W</Point>
+         <Point>ROKUP</Point>
+         <Point>D131W</Point>
+         <Point>D039S</Point>
+         <Point>NUGRA</Point>
+         <Point>DIPSO</Point>
+         <Point>CROFT</Point>
+         <Point>D127O</Point>
+         <Point>AMPIT</Point>
+         <Point>D096A</Point>
+         <Point>VELAG</Point>
+         <Point>HEMEL</Point>
+         <Point>NOKIN</Point>
+         <Point>D152J</Point>
+         <Point>MCT</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>BPK</Point>
+         <Point>DTY</Point>
+         <Point>ODPIX</Point>
+         <Point>HON30</Point>
+         <Point>D039Y</Point>
+         <Point>D121G</Point>
+      </Symbol>
+   </Map>
+</Maps>

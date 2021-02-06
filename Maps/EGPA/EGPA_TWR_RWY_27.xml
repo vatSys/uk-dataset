@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:35 2021">
+   <Map Type="System" Name="EGPA_TWR_RWY_27" Priority="1" Center="+585729.83-0025319.51">
+      <Runway Name="27">
+         <Threshold Name="27" Position="+585729.83-0025319.51" ExtendedCentrelineTrack="87.42" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="09" Position="+585728.03-0025436.44"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGPA_TWR_RWY_27_SID" Priority="1" Center="+585729.83-0025319.51"/>
+   <Map Type="System" Name="EGPA_TWR_RWY_27_STAR" Priority="1" Center="+585729.83-0025319.51"/>
+   <Map Type="System" Name="EGPA_TWR_RWY_27_NAMES" Priority="2" Center="+585729.83-0025319.51">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Ground xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:48:29 2021">
+   <Maps>
+      <Map Type="Ground_RWY" Name="EGAE_SMR_RWY" Priority="1" Center="+550234.00-0070943.00"/>
+      <Map Type="Ground_TWY" Name="EGAE_SMR_TWY" Priority="2" Center="+550234.00-0070943.00"/>
+      <Map Type="Ground_BLD" Name="EGAE_SMR_BLD" Priority="1" Center="+550234.00-0070943.00"/>
+      <Map Type="Ground_APR" Name="EGAE_SMR_APR" Priority="3" Center="+550234.00-0070943.00"/>
+      <Map Type="Ground_BAK" Name="EGAE_SMR_BAK" Priority="4" Center="+550234.00-0070943.00"/>
+      <Map Type="Ground_INF" Name="EGAE_SMR_INF" Priority="0" Center="+550234.00-0070943.00">
+         <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle"/>
+      </Map>
+      <Map Type="Ground_INF" Name="EGAE_SMR_HLD" Priority="0" Center="+550234.00-0070943.00"/>
+   </Maps>
+</Ground>

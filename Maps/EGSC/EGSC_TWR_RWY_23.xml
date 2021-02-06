@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:27 2021">
+   <Map Type="System" Name="EGSC_TWR_RWY_23" Priority="1" Center="+521235.55+0001103.83">
+      <Runway Name="23">
+         <Threshold Name="23" Position="+521235.55+0001103.83" ExtendedCentrelineTrack="49.89" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="05" Position="+521202.12+0000959.26"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGSC_TWR_RWY_23_SID" Priority="1" Center="+521235.55+0001103.83"/>
+   <Map Type="System" Name="EGSC_TWR_RWY_23_STAR" Priority="1" Center="+521235.55+0001103.83">
+      <Line Pattern="Dotted">BKY/ADNAM/ABBOT</Line>
+      <Line Pattern="Dotted">BPK/ADNAM/ABBOT</Line>
+      <Line Pattern="Dotted">ABBOT/TABIS/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">HON/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">AVANT/OCK/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">BANVA/UNDUG/MAY/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">BARMI/MEGEL/DITOB/LAPRA/ABBOT</Line>
+      <Line Pattern="Dotted">BARMI/MEGEL/DITOB/LAPRA/CASEY</Line>
+      <Line Pattern="Dotted">BEDEK/NIGIT/OCK/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">BPK/KEMPY/CASEY</Line>
+      <Line Pattern="Dotted">DET/LOFFO/ABBOT</Line>
+      <Line Pattern="Dotted">FINMA/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">IDESI/LAPRA/ABBOT</Line>
+      <Line Pattern="Dotted">IDESI/LAPRA/CASEY</Line>
+      <Line Pattern="Dotted">LOGAN/CLN/ABBOT</Line>
+      <Line Pattern="Dotted">HON/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">SILVA/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">TELTU/VATON/BPK/BKY/BUSTA/LOREL</Line>
+   </Map>
+   <Map Type="System" Name="EGSC_TWR_RWY_23_NAMES" Priority="2" Center="+521235.55+0001103.83">
+      <Label>
+         <Point>UNDUG</Point>
+         <Point>NIGIT</Point>
+         <Point>MEGEL</Point>
+         <Point>BKY</Point>
+         <Point>LOREL</Point>
+         <Point>BOMBO</Point>
+         <Point>LAPRA</Point>
+         <Point>TELTU</Point>
+         <Point>BEDEK</Point>
+         <Point>ABBOT</Point>
+         <Point>MAY</Point>
+         <Point>AVANT</Point>
+         <Point>FINMA</Point>
+         <Point>IDESI</Point>
+         <Point>LOGAN</Point>
+         <Point>ASKEY</Point>
+         <Point>KEMPY</Point>
+         <Point>ADNAM</Point>
+         <Point>CASEY</Point>
+         <Point>BUSTA</Point>
+         <Point>OCK</Point>
+         <Point>TABIS</Point>
+         <Point>BANVA</Point>
+         <Point>MCT</Point>
+         <Point>DITOB</Point>
+         <Point>BPK</Point>
+         <Point>ROGBI</Point>
+         <Point>VATON</Point>
+         <Point>LOFFO</Point>
+         <Point>PEDIG</Point>
+         <Point>BARMI</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>DET</Point>
+         <Point>SILVA</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>UNDUG</Point>
+         <Point>NIGIT</Point>
+         <Point>MEGEL</Point>
+         <Point>BKY</Point>
+         <Point>LOREL</Point>
+         <Point>BOMBO</Point>
+         <Point>LAPRA</Point>
+         <Point>TELTU</Point>
+         <Point>BEDEK</Point>
+         <Point>ABBOT</Point>
+         <Point>MAY</Point>
+         <Point>AVANT</Point>
+         <Point>FINMA</Point>
+         <Point>IDESI</Point>
+         <Point>LOGAN</Point>
+         <Point>ASKEY</Point>
+         <Point>KEMPY</Point>
+         <Point>ADNAM</Point>
+         <Point>CASEY</Point>
+         <Point>BUSTA</Point>
+         <Point>OCK</Point>
+         <Point>TABIS</Point>
+         <Point>BANVA</Point>
+         <Point>MCT</Point>
+         <Point>DITOB</Point>
+         <Point>BPK</Point>
+         <Point>ROGBI</Point>
+         <Point>VATON</Point>
+         <Point>LOFFO</Point>
+         <Point>PEDIG</Point>
+         <Point>BARMI</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>DET</Point>
+         <Point>SILVA</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Symbol>
+   </Map>
+</Maps>

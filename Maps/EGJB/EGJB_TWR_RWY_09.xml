@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:33 2021">
+   <Map Type="System" Name="EGJB_TWR_RWY_09" Priority="1" Center="+492604.66-0023649.33">
+      <Runway Name="09">
+         <Threshold Name="09" Position="+492604.66-0023649.33" ExtendedCentrelineTrack="267.56" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="27" Position="+492606.67-0023536.78"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGJB_TWR_RWY_09_SID" Priority="1" Center="+492604.66-0023649.33">
+      <Line>PIKEY/LUSIT/CAN</Line>
+      <Line>OYSTA/DIN</Line>
+      <Line>PIKEY/GULDA</Line>
+      <Line>JBE03/JBE04/JBS01/LERAK</Line>
+      <Line>JBE01/JBE02/BRILL/ORIST</Line>
+      <Line>BRILL/ORTAC</Line>
+      <Line>OYSTA/PERCH/ORVAL</Line>
+      <Line>ORMER/SKERY</Line>
+   </Map>
+   <Map Type="System" Name="EGJB_TWR_RWY_09_STAR" Priority="1" Center="+492604.66-0023649.33">
+      <Line Pattern="Dotted">DIN/GUR</Line>
+      <Line Pattern="Dotted">ALD/GUR</Line>
+      <Line Pattern="Dotted">SKERY/GUR</Line>
+      <Line Pattern="Dotted">ORTAC/EVKEX/GUR</Line>
+      <Line Pattern="Dotted">BEVAV/OYSTA/GUR</Line>
+      <Line Pattern="Dotted">LELNA/EVKEX/GUR</Line>
+      <Line Pattern="Dotted">BIGNO/GUR</Line>
+      <Line Pattern="Dotted">ANGLO/DIKRO/BEVAV/OYSTA/GUR</Line>
+      <Line Pattern="Dotted">CAN/SENLO/BEVAV/OYSTA/GUR</Line>
+   </Map>
+   <Map Type="System" Name="EGJB_TWR_RWY_09_NAMES" Priority="2" Center="+492604.66-0023649.33">
+      <Label>
+         <Point>GUR</Point>
+         <Point>LERAK</Point>
+         <Point>LUSIT</Point>
+         <Point>DIKRO</Point>
+         <Point>EVKEX</Point>
+         <Point>BEVAV</Point>
+         <Point>SENLO</Point>
+         <Point>JBE04</Point>
+         <Point>JBE01</Point>
+         <Point>DIN</Point>
+         <Point>OYSTA</Point>
+         <Point>JBE03</Point>
+         <Point>SKERY</Point>
+         <Point>JBS01</Point>
+         <Point>LELNA</Point>
+         <Point>BIGNO</Point>
+         <Point>GULDA</Point>
+         <Point>ORMER</Point>
+         <Point>ORIST</Point>
+         <Point>ANGLO</Point>
+         <Point>BRILL</Point>
+         <Point>PERCH</Point>
+         <Point>JBE02</Point>
+         <Point>ALD</Point>
+         <Point>ORTAC</Point>
+         <Point>PIKEY</Point>
+         <Point>ORVAL</Point>
+         <Point>CAN</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>GUR</Point>
+         <Point>LERAK</Point>
+         <Point>LUSIT</Point>
+         <Point>DIKRO</Point>
+         <Point>EVKEX</Point>
+         <Point>BEVAV</Point>
+         <Point>SENLO</Point>
+         <Point>JBE04</Point>
+         <Point>JBE01</Point>
+         <Point>DIN</Point>
+         <Point>OYSTA</Point>
+         <Point>JBE03</Point>
+         <Point>SKERY</Point>
+         <Point>JBS01</Point>
+         <Point>LELNA</Point>
+         <Point>BIGNO</Point>
+         <Point>GULDA</Point>
+         <Point>ORMER</Point>
+         <Point>ORIST</Point>
+         <Point>ANGLO</Point>
+         <Point>BRILL</Point>
+         <Point>PERCH</Point>
+         <Point>JBE02</Point>
+         <Point>ALD</Point>
+         <Point>ORTAC</Point>
+         <Point>PIKEY</Point>
+         <Point>ORVAL</Point>
+         <Point>CAN</Point>
+      </Symbol>
+   </Map>
+</Maps>

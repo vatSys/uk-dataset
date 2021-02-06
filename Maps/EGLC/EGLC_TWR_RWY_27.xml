@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:37 2021">
+   <Map Type="System" Name="EGLC_TWR_RWY_27" Priority="1" Center="+513017.73+0000353.84">
+      <Runway Name="27">
+         <Threshold Name="27" Position="+513017.73+0000353.84" ExtendedCentrelineTrack="92.89" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="09" Position="+513019.90+0000244.73"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGLC_TWR_RWY_27_SID" Priority="1" Center="+513017.73+0000353.84">
+      <Line>LCW01/LCN01/LCN04/LCN05/BPK</Line>
+      <Line>D274B/D231G/BPK</Line>
+      <Line>LCW01/LCN02/LCE04/LCE05/CLN</Line>
+      <Line>D274B/D074R/D074Z/BNN32/CLN34/CLN27/D245Q/CLN</Line>
+      <Line>LCW01/LCN01/LCN04/LCN05/BPK/HEN/CPT</Line>
+      <Line>D274B/D231G/BPK/HEN/RODNI/D045K/CPT</Line>
+      <Line>D274B/D074R/D074Z/GINTI/DET/DVR</Line>
+      <Line>LCW01/LCN02/LCN06/LCE06/SODVU/EKNIV</Line>
+      <Line>D274B/D074R/D074Z/GINTI/DET/LYD</Line>
+   </Map>
+   <Map Type="System" Name="EGLC_TWR_RWY_27_STAR" Priority="1" Center="+513017.73+0000353.84">
+      <Line Pattern="Dotted">AVANT/BIG/UMTUM/GODLU</Line>
+      <Line Pattern="Dotted">BEDEK/BIG/UMTUM/GODLU</Line>
+      <Line Pattern="Dotted">HON/ROGBI/TIXEX/ODVOD/ROPMU/NUDNA/INLIM/JACKO</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/TIXEX/ODVOD/ROPMU/NUDNA/INLIM/JACKO</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/TIXEX/ODVOD/ROPMU/NUDNA/INLIM/JACKO</Line>
+      <Line Pattern="Dotted">KATHY/BIDVA/EVEXU/SOXUX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">KONAN/GODLU</Line>
+      <Line Pattern="Dotted">NEVIL/OSPOL/NETVU/SOXUX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">SAM/BIDVA/EVEXU/SOXUX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">SILVA/BOMBO/BKY/BRAIN/CLN/JACKO</Line>
+      <Line Pattern="Dotted">SOVAT/ERKEX/OKVAP/GODLU</Line>
+      <Line Pattern="Dotted">SUMUM/LOGAN/JACKO</Line>
+      <Line Pattern="Dotted">SUMUM/TEVMO/GODLU</Line>
+      <Line Pattern="Dotted">XAMAN/LOGAN/JACKO</Line>
+      <Line Pattern="Dotted">XAMAN/TEVMO/GODLU</Line>
+   </Map>
+   <Map Type="System" Name="EGLC_TWR_RWY_27_NAMES" Priority="2" Center="+513017.73+0000353.84">
+      <Label>
+         <Point>JACKO</Point>
+         <Point>ROPMU</Point>
+         <Point>LYD</Point>
+         <Point>TEVMO</Point>
+         <Point>D074R</Point>
+         <Point>XAMAN</Point>
+         <Point>LCE06</Point>
+         <Point>BOMBO</Point>
+         <Point>BKY</Point>
+         <Point>HEN</Point>
+         <Point>LCN05</Point>
+         <Point>D045K</Point>
+         <Point>GODLU</Point>
+         <Point>NETVU</Point>
+         <Point>BEDEK</Point>
+         <Point>LCN04</Point>
+         <Point>KONAN</Point>
+         <Point>SUMUM</Point>
+         <Point>BNN32</Point>
+         <Point>AVANT</Point>
+         <Point>INLIM</Point>
+         <Point>SOXUX</Point>
+         <Point>OSPOL</Point>
+         <Point>ODVOD</Point>
+         <Point>CLN27</Point>
+         <Point>EKNIV</Point>
+         <Point>UMTUM</Point>
+         <Point>OKVAP</Point>
+         <Point>LOGAN</Point>
+         <Point>LCN06</Point>
+         <Point>SAM</Point>
+         <Point>BRAIN</Point>
+         <Point>BIG</Point>
+         <Point>LCE04</Point>
+         <Point>DVR</Point>
+         <Point>EVEXU</Point>
+         <Point>LCE05</Point>
+         <Point>D245Q</Point>
+         <Point>CLN34</Point>
+         <Point>GINTI</Point>
+         <Point>CPT</Point>
+         <Point>LCN02</Point>
+         <Point>SODVU</Point>
+         <Point>MCT</Point>
+         <Point>BIDVA</Point>
+         <Point>D074Z</Point>
+         <Point>BPK</Point>
+         <Point>RODNI</Point>
+         <Point>KATHY</Point>
+         <Point>ROGBI</Point>
+         <Point>LCN01</Point>
+         <Point>LCW01</Point>
+         <Point>NEVIL</Point>
+         <Point>SOVAT</Point>
+         <Point>NUDNA</Point>
+         <Point>ERKEX</Point>
+         <Point>D274B</Point>
+         <Point>PEDIG</Point>
+         <Point>D231G</Point>
+         <Point>DET</Point>
+         <Point>HON</Point>
+         <Point>SILVA</Point>
+         <Point>TIXEX</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>JACKO</Point>
+         <Point>ROPMU</Point>
+         <Point>LYD</Point>
+         <Point>TEVMO</Point>
+         <Point>D074R</Point>
+         <Point>XAMAN</Point>
+         <Point>LCE06</Point>
+         <Point>BOMBO</Point>
+         <Point>BKY</Point>
+         <Point>HEN</Point>
+         <Point>LCN05</Point>
+         <Point>D045K</Point>
+         <Point>GODLU</Point>
+         <Point>NETVU</Point>
+         <Point>BEDEK</Point>
+         <Point>LCN04</Point>
+         <Point>KONAN</Point>
+         <Point>SUMUM</Point>
+         <Point>BNN32</Point>
+         <Point>AVANT</Point>
+         <Point>INLIM</Point>
+         <Point>SOXUX</Point>
+         <Point>OSPOL</Point>
+         <Point>ODVOD</Point>
+         <Point>CLN27</Point>
+         <Point>EKNIV</Point>
+         <Point>UMTUM</Point>
+         <Point>OKVAP</Point>
+         <Point>LOGAN</Point>
+         <Point>LCN06</Point>
+         <Point>SAM</Point>
+         <Point>BRAIN</Point>
+         <Point>BIG</Point>
+         <Point>LCE04</Point>
+         <Point>DVR</Point>
+         <Point>EVEXU</Point>
+         <Point>LCE05</Point>
+         <Point>D245Q</Point>
+         <Point>CLN34</Point>
+         <Point>GINTI</Point>
+         <Point>CPT</Point>
+         <Point>LCN02</Point>
+         <Point>SODVU</Point>
+         <Point>MCT</Point>
+         <Point>BIDVA</Point>
+         <Point>D074Z</Point>
+         <Point>BPK</Point>
+         <Point>RODNI</Point>
+         <Point>KATHY</Point>
+         <Point>ROGBI</Point>
+         <Point>LCN01</Point>
+         <Point>LCW01</Point>
+         <Point>NEVIL</Point>
+         <Point>SOVAT</Point>
+         <Point>NUDNA</Point>
+         <Point>ERKEX</Point>
+         <Point>D274B</Point>
+         <Point>PEDIG</Point>
+         <Point>D231G</Point>
+         <Point>DET</Point>
+         <Point>HON</Point>
+         <Point>SILVA</Point>
+         <Point>TIXEX</Point>
+         <Point>CLN</Point>
+         <Point>LISTO</Point>
+      </Symbol>
+   </Map>
+</Maps>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:32 2021">
+   <Map Type="System" Name="EGLF_TWR_RWY_24" Priority="1" Center="+511641.36-0004609.22">
+      <Runway Name="24">
+         <Threshold Name="24" Position="+511641.36-0004609.22" ExtendedCentrelineTrack="62.03" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="06" Position="+511622.19-0004706.76"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGLF_TWR_RWY_24_SID" Priority="1" Center="+511641.36-0004609.22">
+      <Line>LFW01/LFW02/ASLAP/ESULU/HAZEL/LFS04/LFS05/GWC</Line>
+      <Line>LFW01/LFW02/ASLAP/ESULU/HAZEL</Line>
+   </Map>
+   <Map Type="System" Name="EGLF_TWR_RWY_24_STAR" Priority="1" Center="+511641.36-0004609.22">
+      <Line Pattern="Dotted">ABSAV/RUDMO/PEPIS</Line>
+      <Line Pattern="Dotted">CPT/HANKY/PEPIS</Line>
+      <Line Pattern="Dotted">CPT/GOBNU/INDOX/DIXIB/LFS02/VEXUB</Line>
+      <Line Pattern="Dotted">ELDAX/NOTGI/EVEXU/RIMUP/NIDGO/IBGON/LUXIV/EVATA/LFS03/VEXUB</Line>
+      <Line Pattern="Dotted">KATHY/ABSAV/RUDMO/RIMUP/NIDGO/IBGON/LUXIV/EVATA/LFS03/VEXUB</Line>
+      <Line Pattern="Dotted">NOTGI/EVEXU/RUDMO/PEPIS</Line>
+      <Line Pattern="Dotted">SOKDU/ABSAV/RUDMO/RIMUP/NIDGO/IBGON/LUXIV/EVATA/LFS03/VEXUB</Line>
+   </Map>
+   <Map Type="System" Name="EGLF_TWR_RWY_24_NAMES" Priority="2" Center="+511641.36-0004609.22">
+      <Label>
+         <Point>HANKY</Point>
+         <Point>ELDAX</Point>
+         <Point>EVATA</Point>
+         <Point>GOBNU</Point>
+         <Point>VEXUB</Point>
+         <Point>ESULU</Point>
+         <Point>GWC</Point>
+         <Point>NOTGI</Point>
+         <Point>SOKDU</Point>
+         <Point>LFW02</Point>
+         <Point>HAZEL</Point>
+         <Point>LFS05</Point>
+         <Point>RUDMO</Point>
+         <Point>EVEXU</Point>
+         <Point>LUXIV</Point>
+         <Point>LFW01</Point>
+         <Point>CPT</Point>
+         <Point>PEPIS</Point>
+         <Point>LFS02</Point>
+         <Point>LFS04</Point>
+         <Point>LFS03</Point>
+         <Point>KATHY</Point>
+         <Point>NIDGO</Point>
+         <Point>ABSAV</Point>
+         <Point>DIXIB</Point>
+         <Point>RIMUP</Point>
+         <Point>IBGON</Point>
+         <Point>INDOX</Point>
+         <Point>ASLAP</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>HANKY</Point>
+         <Point>ELDAX</Point>
+         <Point>EVATA</Point>
+         <Point>GOBNU</Point>
+         <Point>VEXUB</Point>
+         <Point>ESULU</Point>
+         <Point>GWC</Point>
+         <Point>NOTGI</Point>
+         <Point>SOKDU</Point>
+         <Point>LFW02</Point>
+         <Point>HAZEL</Point>
+         <Point>LFS05</Point>
+         <Point>RUDMO</Point>
+         <Point>EVEXU</Point>
+         <Point>LUXIV</Point>
+         <Point>LFW01</Point>
+         <Point>CPT</Point>
+         <Point>PEPIS</Point>
+         <Point>LFS02</Point>
+         <Point>LFS04</Point>
+         <Point>LFS03</Point>
+         <Point>KATHY</Point>
+         <Point>NIDGO</Point>
+         <Point>ABSAV</Point>
+         <Point>DIXIB</Point>
+         <Point>RIMUP</Point>
+         <Point>IBGON</Point>
+         <Point>INDOX</Point>
+         <Point>ASLAP</Point>
+      </Symbol>
+   </Map>
+</Maps>

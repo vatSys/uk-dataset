@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:29 2021">
+   <Map Type="System" Name="EGHR_TWR_RWY_10" Priority="1" Center="+505146.62-0004548.15">
+      <Runway Name="10">
+         <Threshold Name="10" Position="+505146.62-0004548.15" ExtendedCentrelineTrack="283.03" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="28" Position="+505141.51-0004513.28"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGHR_TWR_RWY_10_SID" Priority="1" Center="+505146.62-0004548.15"/>
+   <Map Type="System" Name="EGHR_TWR_RWY_10_STAR" Priority="1" Center="+505146.62-0004548.15"/>
+   <Map Type="System" Name="EGHR_TWR_RWY_10_NAMES" Priority="2" Center="+505146.62-0004548.15">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

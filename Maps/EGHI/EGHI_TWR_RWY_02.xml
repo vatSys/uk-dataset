@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:47 2021">
+   <Map Type="System" Name="EGHI_TWR_RWY_02" Priority="1" Center="+505636.86-0012137.90">
+      <Runway Name="02">
+         <Threshold Name="02" Position="+505636.86-0012137.90" ExtendedCentrelineTrack="199.38" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="20" Position="+505725.87-0012110.60"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGHI_TWR_RWY_02_SID" Priority="1" Center="+505636.86-0012137.90"/>
+   <Map Type="System" Name="EGHI_TWR_RWY_02_STAR" Priority="1" Center="+505636.86-0012137.90">
+      <Line Pattern="Dotted">BUGUP/RISIN/NUBRI/PEPIS/SAM</Line>
+      <Line Pattern="Dotted">COWLY/PEPIS/SAM</Line>
+      <Line Pattern="Dotted">CPT/PEPIS/SAM</Line>
+      <Line Pattern="Dotted">ELDAX/NOTGI/EVEXU/GIVUN/RUDMO/MIVLA/SAM</Line>
+      <Line Pattern="Dotted">THRED/NEDUL</Line>
+      <Line Pattern="Dotted">UMBUR/OCK/PEPIS/SAM</Line>
+   </Map>
+   <Map Type="System" Name="EGHI_TWR_RWY_02_NAMES" Priority="2" Center="+505636.86-0012137.90">
+      <Label>
+         <Point>GIVUN</Point>
+         <Point>ELDAX</Point>
+         <Point>THRED</Point>
+         <Point>NOTGI</Point>
+         <Point>EVEXU</Point>
+         <Point>NEDUL</Point>
+         <Point>UMBUR</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>NUBRI</Point>
+         <Point>PEPIS</Point>
+         <Point>MIVLA</Point>
+         <Point>COWLY</Point>
+         <Point>RISIN</Point>
+         <Point>BUGUP</Point>
+         <Point>RUDMO</Point>
+         <Point>SAM</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>GIVUN</Point>
+         <Point>ELDAX</Point>
+         <Point>THRED</Point>
+         <Point>NOTGI</Point>
+         <Point>EVEXU</Point>
+         <Point>NEDUL</Point>
+         <Point>UMBUR</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>NUBRI</Point>
+         <Point>PEPIS</Point>
+         <Point>MIVLA</Point>
+         <Point>COWLY</Point>
+         <Point>RISIN</Point>
+         <Point>BUGUP</Point>
+         <Point>RUDMO</Point>
+         <Point>SAM</Point>
+      </Symbol>
+   </Map>
+</Maps>

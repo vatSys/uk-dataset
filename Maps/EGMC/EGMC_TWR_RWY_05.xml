@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:47 2021">
+   <Map Type="System" Name="EGMC_TWR_RWY_05" Priority="1" Center="+513357.33+0004059.96">
+      <Runway Name="05">
+         <Threshold Name="05" Position="+513357.33+0004059.96" ExtendedCentrelineTrack="234.16" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="23" Position="+513427.71+0004207.48"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGMC_TWR_RWY_05_SID" Priority="1" Center="+513357.33+0004059.96"/>
+   <Map Type="System" Name="EGMC_TWR_RWY_05_STAR" Priority="1" Center="+513357.33+0004059.96">
+      <Line Pattern="Dotted">KATHY/BIDVA/EVEXU/SOXUX/OKVAP/ATSAP/ADVAS/GEGMU</Line>
+      <Line Pattern="Dotted">NEVIL/OSPOL/NETVU/SOXUX/OKVAP/ATSAP/ADVAS/GEGMU</Line>
+      <Line Pattern="Dotted">SAM/BIDVA/EVEXU/SOXUX/OKVAP/ATSAP/ADVAS/GEGMU</Line>
+      <Line Pattern="Dotted">SILVA/BOMBO/BKY/BRAIN/MAYLA/SPEAR</Line>
+      <Line Pattern="Dotted">SOVAT/ERKEX/OKVAP/ATSAP/ADVAS/GEGMU</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/CLIPY/BOMBO/BKY/D116V/BRAIN/MAYLA/SPEAR</Line>
+      <Line Pattern="Dotted">HON/CLIPY/BOMBO/BKY/D116V/BRAIN/MAYLA/SPEAR</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/CLIPY/BOMBO/BKY/D116V/BRAIN/MAYLA/SPEAR</Line>
+      <Line Pattern="Dotted">SUMUM/LOGAN/JACKO/GEGMU</Line>
+      <Line Pattern="Dotted">XAMAN/LOGAN/JACKO/GEGMU</Line>
+   </Map>
+   <Map Type="System" Name="EGMC_TWR_RWY_05_NAMES" Priority="2" Center="+513357.33+0004059.96">
+      <Label>
+         <Point>JACKO</Point>
+         <Point>ATSAP</Point>
+         <Point>SPEAR</Point>
+         <Point>XAMAN</Point>
+         <Point>BOMBO</Point>
+         <Point>BKY</Point>
+         <Point>GEGMU</Point>
+         <Point>NETVU</Point>
+         <Point>OSPOL</Point>
+         <Point>SOXUX</Point>
+         <Point>LOGAN</Point>
+         <Point>OKVAP</Point>
+         <Point>ADVAS</Point>
+         <Point>BRAIN</Point>
+         <Point>EVEXU</Point>
+         <Point>MCT</Point>
+         <Point>BIDVA</Point>
+         <Point>SOVAT</Point>
+         <Point>KATHY</Point>
+         <Point>ROGBI</Point>
+         <Point>D116V</Point>
+         <Point>NEVIL</Point>
+         <Point>ERKEX</Point>
+         <Point>MAYLA</Point>
+         <Point>PEDIG</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>LISTO</Point>
+         <Point>SILVA</Point>
+         <Point>SUMUM</Point>
+         <Point>SAM</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>JACKO</Point>
+         <Point>ATSAP</Point>
+         <Point>SPEAR</Point>
+         <Point>XAMAN</Point>
+         <Point>BOMBO</Point>
+         <Point>BKY</Point>
+         <Point>GEGMU</Point>
+         <Point>NETVU</Point>
+         <Point>OSPOL</Point>
+         <Point>SOXUX</Point>
+         <Point>LOGAN</Point>
+         <Point>OKVAP</Point>
+         <Point>ADVAS</Point>
+         <Point>BRAIN</Point>
+         <Point>EVEXU</Point>
+         <Point>MCT</Point>
+         <Point>BIDVA</Point>
+         <Point>SOVAT</Point>
+         <Point>KATHY</Point>
+         <Point>ROGBI</Point>
+         <Point>D116V</Point>
+         <Point>NEVIL</Point>
+         <Point>ERKEX</Point>
+         <Point>MAYLA</Point>
+         <Point>PEDIG</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>LISTO</Point>
+         <Point>SILVA</Point>
+         <Point>SUMUM</Point>
+         <Point>SAM</Point>
+      </Symbol>
+   </Map>
+</Maps>

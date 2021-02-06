@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:35 2021">
+   <Map Type="System" Name="EGBP_TWR_RWY_26" Priority="1" Center="+514009.33-0020243.97">
+      <Runway Name="26">
+         <Threshold Name="26" Position="+514009.33-0020243.97" ExtendedCentrelineTrack="80.43" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="08" Position="+514000.60-0020407.12"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGBP_TWR_RWY_26_SID" Priority="1" Center="+514009.33-0020243.97"/>
+   <Map Type="System" Name="EGBP_TWR_RWY_26_STAR" Priority="1" Center="+514009.33-0020243.97"/>
+   <Map Type="System" Name="EGBP_TWR_RWY_26_NAMES" Priority="2" Center="+514009.33-0020243.97">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

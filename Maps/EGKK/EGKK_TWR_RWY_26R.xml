@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:38 2021">
+   <Map Type="System" Name="EGKK_TWR_RWY_26R" Priority="1" Center="+510903.69-0001057.40">
+      <Runway Name="26R">
+         <Threshold Name="26R" Position="+510903.69-0001057.40" ExtendedCentrelineTrack="77.65" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="08L" Position="+510851.04-0001229.17"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGKK_TWR_RWY_26R_SID" Priority="1" Center="+510903.69-0001057.40">
+      <Line>D260C/D176M/D176R/D176W/OCK28/BOGNA</Line>
+      <Line>D260C/DET31/DET29/ACORN/DVR32/DET/D013E/DAGGA/CLN</Line>
+      <Line>D260C/D283M/D283I/MAY/TIGER/DET/DAGGA/CLN</Line>
+      <Line>D260C/DET31/DET29/ACORN/D223F/DVR</Line>
+      <Line>D260C/D176M/D176R/D176W/OCK28/BOGNA/HARDY</Line>
+      <Line>D260C/DET31/DET29/ACORN/D259K/D157O/D157J/LAM</Line>
+      <Line>D260C/MID/NOVMA</Line>
+      <Line>D260C/D257G/D312Y/D312R/D312P/SFD</Line>
+      <Line>D260C/D283M/D283I/MAY/TIGER/LAM</Line>
+      <Line>D260C/D283M/D283I/MAY/DVR35/WIZAD</Line>
+   </Map>
+   <Map Type="System" Name="EGKK_TWR_RWY_26R_STAR" Priority="1" Center="+510903.69-0001057.40">
+      <Line Pattern="Dotted">ABSAV/AVANT/GWC/HOLLY/WILLO</Line>
+      <Line Pattern="Dotted">AMDUT/SFD/WILLO</Line>
+      <Line Pattern="Dotted">ARNUN/HASTY/SFD/WILLO</Line>
+      <Line Pattern="Dotted">BARMI/SONOG/ODROB/TEBRA/ABTUM/ARNUN/KKE63/LARCK/TIMBA</Line>
+      <Line Pattern="Dotted">BEDEK/NIGIT/MID/TUFOZ/HOLLY/WILLO</Line>
+      <Line Pattern="Dotted">DISIT/KIDLI/MID/TUFOZ/HOLLY/WILLO</Line>
+      <Line Pattern="Dotted">GWC/HOLLY/WILLO</Line>
+      <Line Pattern="Dotted">KIDLI/MID/TUFOZ/HOLLY/WILLO</Line>
+      <Line Pattern="Dotted">KONAN/ARNUN/KKE63/LARCK/TIMBA</Line>
+      <Line Pattern="Dotted">KUNAV/AMDUT/KKE64/TIMBA</Line>
+      <Line Pattern="Dotted">MID/D274E/MAY/D110L/LUMBA</Line>
+      <Line Pattern="Dotted">MID/ZOPHI/MAY/OSDEB/TIMBA</Line>
+      <Line Pattern="Dotted">NEVIL/OSPOL/NETVU/ELDAX/AMDUT/KKE64/TIMBA</Line>
+      <Line Pattern="Dotted">OTMET/SOKDU/NEDUL/ELDER/TELTU/HOLLY/WILLO</Line>
+      <Line Pattern="Dotted">TEBRA/ABTUM/ARNUN/KKE63/LARCK/TIMBA</Line>
+      <Line Pattern="Dotted">TELTU/SFD/TIMBA</Line>
+      <Line Pattern="Dotted">VASUX/DISVO/TELTU/HOLLY/WILLO</Line>
+   </Map>
+   <Map Type="System" Name="EGKK_TWR_RWY_26R_NAMES" Priority="2" Center="+510903.69-0001057.40">
+      <Label>
+         <Point>DISIT</Point>
+         <Point>ELDAX</Point>
+         <Point>DVR32</Point>
+         <Point>DET29</Point>
+         <Point>TIGER</Point>
+         <Point>D176R</Point>
+         <Point>LAM</Point>
+         <Point>D312P</Point>
+         <Point>NIGIT</Point>
+         <Point>KUNAV</Point>
+         <Point>MID</Point>
+         <Point>D274E</Point>
+         <Point>LUMBA</Point>
+         <Point>D260C</Point>
+         <Point>TEBRA</Point>
+         <Point>TELTU</Point>
+         <Point>ABTUM</Point>
+         <Point>D223F</Point>
+         <Point>BOGNA</Point>
+         <Point>D157O</Point>
+         <Point>BEDEK</Point>
+         <Point>KONAN</Point>
+         <Point>D283I</Point>
+         <Point>GWC</Point>
+         <Point>D259K</Point>
+         <Point>NETVU</Point>
+         <Point>OTMET</Point>
+         <Point>DAGGA</Point>
+         <Point>MAY</Point>
+         <Point>AVANT</Point>
+         <Point>OSPOL</Point>
+         <Point>SOKDU</Point>
+         <Point>D176W</Point>
+         <Point>DET31</Point>
+         <Point>HARDY</Point>
+         <Point>NEDUL</Point>
+         <Point>WILLO</Point>
+         <Point>VASUX</Point>
+         <Point>D157J</Point>
+         <Point>D312Y</Point>
+         <Point>DVR35</Point>
+         <Point>KKE63</Point>
+         <Point>NOVMA</Point>
+         <Point>ZOPHI</Point>
+         <Point>DISVO</Point>
+         <Point>DVR</Point>
+         <Point>OSDEB</Point>
+         <Point>KIDLI</Point>
+         <Point>KKE64</Point>
+         <Point>HASTY</Point>
+         <Point>TUFOZ</Point>
+         <Point>D176M</Point>
+         <Point>NEVIL</Point>
+         <Point>LARCK</Point>
+         <Point>D283M</Point>
+         <Point>D312R</Point>
+         <Point>ELDER</Point>
+         <Point>SFD</Point>
+         <Point>D013E</Point>
+         <Point>D257G</Point>
+         <Point>WIZAD</Point>
+         <Point>ABSAV</Point>
+         <Point>HOLLY</Point>
+         <Point>AMDUT</Point>
+         <Point>SONOG</Point>
+         <Point>ODROB</Point>
+         <Point>DET</Point>
+         <Point>ARNUN</Point>
+         <Point>BARMI</Point>
+         <Point>ACORN</Point>
+         <Point>OCK28</Point>
+         <Point>D110L</Point>
+         <Point>CLN</Point>
+         <Point>TIMBA</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>DISIT</Point>
+         <Point>ELDAX</Point>
+         <Point>DVR32</Point>
+         <Point>DET29</Point>
+         <Point>TIGER</Point>
+         <Point>D176R</Point>
+         <Point>LAM</Point>
+         <Point>D312P</Point>
+         <Point>NIGIT</Point>
+         <Point>KUNAV</Point>
+         <Point>MID</Point>
+         <Point>D274E</Point>
+         <Point>LUMBA</Point>
+         <Point>D260C</Point>
+         <Point>TEBRA</Point>
+         <Point>TELTU</Point>
+         <Point>ABTUM</Point>
+         <Point>D223F</Point>
+         <Point>BOGNA</Point>
+         <Point>D157O</Point>
+         <Point>BEDEK</Point>
+         <Point>KONAN</Point>
+         <Point>D283I</Point>
+         <Point>GWC</Point>
+         <Point>D259K</Point>
+         <Point>NETVU</Point>
+         <Point>OTMET</Point>
+         <Point>DAGGA</Point>
+         <Point>MAY</Point>
+         <Point>AVANT</Point>
+         <Point>OSPOL</Point>
+         <Point>SOKDU</Point>
+         <Point>D176W</Point>
+         <Point>DET31</Point>
+         <Point>HARDY</Point>
+         <Point>NEDUL</Point>
+         <Point>WILLO</Point>
+         <Point>VASUX</Point>
+         <Point>D157J</Point>
+         <Point>D312Y</Point>
+         <Point>DVR35</Point>
+         <Point>KKE63</Point>
+         <Point>NOVMA</Point>
+         <Point>ZOPHI</Point>
+         <Point>DISVO</Point>
+         <Point>DVR</Point>
+         <Point>OSDEB</Point>
+         <Point>KIDLI</Point>
+         <Point>KKE64</Point>
+         <Point>HASTY</Point>
+         <Point>TUFOZ</Point>
+         <Point>D176M</Point>
+         <Point>NEVIL</Point>
+         <Point>LARCK</Point>
+         <Point>D283M</Point>
+         <Point>D312R</Point>
+         <Point>ELDER</Point>
+         <Point>SFD</Point>
+         <Point>D013E</Point>
+         <Point>D257G</Point>
+         <Point>WIZAD</Point>
+         <Point>ABSAV</Point>
+         <Point>HOLLY</Point>
+         <Point>AMDUT</Point>
+         <Point>SONOG</Point>
+         <Point>ODROB</Point>
+         <Point>DET</Point>
+         <Point>ARNUN</Point>
+         <Point>BARMI</Point>
+         <Point>ACORN</Point>
+         <Point>OCK28</Point>
+         <Point>D110L</Point>
+         <Point>CLN</Point>
+         <Point>TIMBA</Point>
+      </Symbol>
+   </Map>
+</Maps>

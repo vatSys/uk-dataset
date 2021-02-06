@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:37 2021">
+   <Map Type="System" Name="EGGP_TWR_RWY_09" Priority="1" Center="+531958.39-0025157.61">
+      <Runway Name="09">
+         <Threshold Name="09" Position="+531958.39-0025157.61" ExtendedCentrelineTrack="265.59" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="27" Position="+532003.90-0024957.76"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGGP_TWR_RWY_09_SID" Priority="1" Center="+531958.39-0025157.61">
+      <Line>D084A/D081P/D081T/BARTN</Line>
+      <Line>D084A/WHI/NANTI</Line>
+      <Line>D084A/D242Z/POL</Line>
+      <Line>D084A/POL44/POL50/REXAM</Line>
+      <Line>D084A/WAL</Line>
+   </Map>
+   <Map Type="System" Name="EGGP_TWR_RWY_09_STAR" Priority="1" Center="+531958.39-0025157.61">
+      <Line Pattern="Dotted">MONTY/D184X/KEGUN/TORGO/KEGUN</Line>
+      <Line Pattern="Dotted">LESTA/TNT/NANTI/TNT42/KEGUN/TORGO/KEGUN</Line>
+      <Line Pattern="Dotted">TNT/NANTI/TNT42/KEGUN/TORGO/KEGUN</Line>
+      <Line Pattern="Dotted">PEDIG/NANTI/TNT42/KEGUN/TORGO/KEGUN</Line>
+      <Line Pattern="Dotted">CROFT/D058F/WAL/BAROS/TIPOD</Line>
+      <Line Pattern="Dotted">POL/D061F/WAL/BAROS/TIPOD</Line>
+      <Line Pattern="Dotted">DESIG/D081F/WAL/BAROS/TIPOD</Line>
+      <Line Pattern="Dotted">MONTY/KEGUN/D184J/WAL/BAROS/TIPOD</Line>
+      <Line Pattern="Dotted">PENIL/D304R/RUGER/TIPOD</Line>
+      <Line Pattern="Dotted">LESTA/TNT/NANTI/KEGUN/D184J/WAL/BAROS/TIPOD</Line>
+      <Line Pattern="Dotted">TNT/NANTI/KEGUN/D184J/WAL/BAROS/TIPOD</Line>
+      <Line Pattern="Dotted">PEDIG/NANTI/KEGUN/D184J/WAL/BAROS/TIPOD</Line>
+      <Line Pattern="Dotted">MALUD/TIPOD</Line>
+   </Map>
+   <Map Type="System" Name="EGGP_TWR_RWY_09_NAMES" Priority="2" Center="+531958.39-0025157.61">
+      <Label>
+         <Point>D184J</Point>
+         <Point>DESIG</Point>
+         <Point>D081T</Point>
+         <Point>D242Z</Point>
+         <Point>D084A</Point>
+         <Point>POL50</Point>
+         <Point>TNT</Point>
+         <Point>LESTA</Point>
+         <Point>MALUD</Point>
+         <Point>D061F</Point>
+         <Point>D304R</Point>
+         <Point>REXAM</Point>
+         <Point>TNT42</Point>
+         <Point>PENIL</Point>
+         <Point>D081P</Point>
+         <Point>RUGER</Point>
+         <Point>NANTI</Point>
+         <Point>TORGO</Point>
+         <Point>D184X</Point>
+         <Point>CROFT</Point>
+         <Point>WHI</Point>
+         <Point>D081F</Point>
+         <Point>KEGUN</Point>
+         <Point>TIPOD</Point>
+         <Point>BAROS</Point>
+         <Point>MONTY</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>POL44</Point>
+         <Point>D058F</Point>
+         <Point>PEDIG</Point>
+         <Point>BARTN</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D184J</Point>
+         <Point>DESIG</Point>
+         <Point>D081T</Point>
+         <Point>D242Z</Point>
+         <Point>D084A</Point>
+         <Point>POL50</Point>
+         <Point>TNT</Point>
+         <Point>LESTA</Point>
+         <Point>MALUD</Point>
+         <Point>D061F</Point>
+         <Point>D304R</Point>
+         <Point>REXAM</Point>
+         <Point>TNT42</Point>
+         <Point>PENIL</Point>
+         <Point>D081P</Point>
+         <Point>RUGER</Point>
+         <Point>NANTI</Point>
+         <Point>TORGO</Point>
+         <Point>D184X</Point>
+         <Point>CROFT</Point>
+         <Point>WHI</Point>
+         <Point>D081F</Point>
+         <Point>KEGUN</Point>
+         <Point>TIPOD</Point>
+         <Point>BAROS</Point>
+         <Point>MONTY</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>POL44</Point>
+         <Point>D058F</Point>
+         <Point>PEDIG</Point>
+         <Point>BARTN</Point>
+      </Symbol>
+   </Map>
+</Maps>

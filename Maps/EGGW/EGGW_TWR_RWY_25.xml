@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:40 2021">
+   <Map Type="System" Name="EGGW_TWR_RWY_25" Priority="1" Center="+515237.36-0002116.15">
+      <Runway Name="25">
+         <Threshold Name="25" Position="+515237.36-0002116.15" ExtendedCentrelineTrack="74.41" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="07" Position="+515219.25-0002300.91"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGGW_TWR_RWY_25_SID" Priority="1" Center="+515237.36-0002116.15">
+      <Line>D032G/D343D/HEN/RODNI/CPT</Line>
+      <Line>GWS01/GWS06/GWS12/GWE16/GWE19/BPK/GWE37/NEPNA/DET</Line>
+      <Line>D032G/D285J/D285F/D285C/BPK/D098G/D098O/NEPNA/DET</Line>
+      <Line>D032G/D004E/D345F/D345I/BKY/BUSTA/LOREL</Line>
+      <Line>D032G/D285J/D285F/D285C/BPK/D083G/MATCH</Line>
+      <Line>GWS01/GWS06/GWS12/GWE16/GWE19/BPK/MATCH</Line>
+      <Line>D032G/D004E/D345F/D345I/D345O/OLNEY</Line>
+   </Map>
+   <Map Type="System" Name="EGGW_TWR_RWY_25_STAR" Priority="1" Center="+515237.36-0002116.15">
+      <Line Pattern="Dotted">ABBOT/TABIS/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">HON/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/ASKEY</Line>
+      <Line Pattern="Dotted">AVANT/OCK/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">BANVA/UNDUG/MAY/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">BARMI/MEGEL/DITOB/LAPRA/ABBOT</Line>
+      <Line Pattern="Dotted">BARMI/MEGEL/DITOB/LAPRA/CASEY</Line>
+      <Line Pattern="Dotted">BEDEK/NIGIT/OCK/VATON/BPK/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">DET/LOFFO/ABBOT</Line>
+      <Line Pattern="Dotted">FINMA/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">IDESI/LAPRA/ABBOT</Line>
+      <Line Pattern="Dotted">IDESI/LAPRA/CASEY</Line>
+      <Line Pattern="Dotted">LOGAN/CLN/ABBOT</Line>
+      <Line Pattern="Dotted">HON/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">MCT/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">LISTO/PEDIG/ROGBI/CLIPY/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">SILVA/BOMBO/BKY/BUSTA/LOREL</Line>
+      <Line Pattern="Dotted">TELTU/VATON/BPK/BKY/BUSTA/LOREL</Line>
+   </Map>
+   <Map Type="System" Name="EGGW_TWR_RWY_25_NAMES" Priority="2" Center="+515237.36-0002116.15">
+      <Label>
+         <Point>D345I</Point>
+         <Point>D285J</Point>
+         <Point>UNDUG</Point>
+         <Point>GWS01</Point>
+         <Point>D032G</Point>
+         <Point>D098G</Point>
+         <Point>MEGEL</Point>
+         <Point>NIGIT</Point>
+         <Point>BKY</Point>
+         <Point>LOREL</Point>
+         <Point>BOMBO</Point>
+         <Point>HEN</Point>
+         <Point>LAPRA</Point>
+         <Point>D343D</Point>
+         <Point>TELTU</Point>
+         <Point>BEDEK</Point>
+         <Point>ABBOT</Point>
+         <Point>MAY</Point>
+         <Point>OLNEY</Point>
+         <Point>AVANT</Point>
+         <Point>NEPNA</Point>
+         <Point>FINMA</Point>
+         <Point>IDESI</Point>
+         <Point>LOGAN</Point>
+         <Point>GWS06</Point>
+         <Point>MATCH</Point>
+         <Point>ASKEY</Point>
+         <Point>GWS12</Point>
+         <Point>D285C</Point>
+         <Point>GWE19</Point>
+         <Point>D004E</Point>
+         <Point>CASEY</Point>
+         <Point>D098O</Point>
+         <Point>BUSTA</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>CLN</Point>
+         <Point>D345O</Point>
+         <Point>TABIS</Point>
+         <Point>BANVA</Point>
+         <Point>MCT</Point>
+         <Point>DITOB</Point>
+         <Point>BPK</Point>
+         <Point>RODNI</Point>
+         <Point>ROGBI</Point>
+         <Point>VATON</Point>
+         <Point>LOFFO</Point>
+         <Point>GWE37</Point>
+         <Point>GWE16</Point>
+         <Point>D345F</Point>
+         <Point>D083G</Point>
+         <Point>PEDIG</Point>
+         <Point>DET</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>BARMI</Point>
+         <Point>SILVA</Point>
+         <Point>D285F</Point>
+         <Point>LISTO</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>D345I</Point>
+         <Point>D285J</Point>
+         <Point>UNDUG</Point>
+         <Point>GWS01</Point>
+         <Point>D032G</Point>
+         <Point>D098G</Point>
+         <Point>MEGEL</Point>
+         <Point>NIGIT</Point>
+         <Point>BKY</Point>
+         <Point>LOREL</Point>
+         <Point>BOMBO</Point>
+         <Point>HEN</Point>
+         <Point>LAPRA</Point>
+         <Point>D343D</Point>
+         <Point>TELTU</Point>
+         <Point>BEDEK</Point>
+         <Point>ABBOT</Point>
+         <Point>MAY</Point>
+         <Point>OLNEY</Point>
+         <Point>AVANT</Point>
+         <Point>NEPNA</Point>
+         <Point>FINMA</Point>
+         <Point>IDESI</Point>
+         <Point>LOGAN</Point>
+         <Point>GWS06</Point>
+         <Point>MATCH</Point>
+         <Point>ASKEY</Point>
+         <Point>GWS12</Point>
+         <Point>D285C</Point>
+         <Point>GWE19</Point>
+         <Point>D004E</Point>
+         <Point>CASEY</Point>
+         <Point>D098O</Point>
+         <Point>BUSTA</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>CLN</Point>
+         <Point>D345O</Point>
+         <Point>TABIS</Point>
+         <Point>BANVA</Point>
+         <Point>MCT</Point>
+         <Point>DITOB</Point>
+         <Point>BPK</Point>
+         <Point>RODNI</Point>
+         <Point>ROGBI</Point>
+         <Point>VATON</Point>
+         <Point>LOFFO</Point>
+         <Point>GWE37</Point>
+         <Point>GWE16</Point>
+         <Point>D345F</Point>
+         <Point>D083G</Point>
+         <Point>PEDIG</Point>
+         <Point>DET</Point>
+         <Point>CLIPY</Point>
+         <Point>HON</Point>
+         <Point>BARMI</Point>
+         <Point>SILVA</Point>
+         <Point>D285F</Point>
+         <Point>LISTO</Point>
+      </Symbol>
+   </Map>
+</Maps>

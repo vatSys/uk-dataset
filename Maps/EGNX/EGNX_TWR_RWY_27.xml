@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:31 2021">
+   <Map Type="System" Name="EGNX_TWR_RWY_27" Priority="1" Center="+524952.88-0011830.94">
+      <Runway Name="27">
+         <Threshold Name="27" Position="+524952.88-0011830.94" ExtendedCentrelineTrack="88.29" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="09" Position="+524950.36-0012048.86"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGNX_TWR_RWY_27_SID" Priority="1" Center="+524952.88-0011830.94">
+      <Line>D270A/D236G/DTY31/D339W/DTY</Line>
+      <Line>D270A/D162G/D162D/TNT</Line>
+   </Map>
+   <Map Type="System" Name="EGNX_TWR_RWY_27_STAR" Priority="1" Center="+524952.88-0011830.94">
+      <Line Pattern="Dotted">AMPIT/NOKIN/NUGRA/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">DTY/VELAG/UPDUK/PIGOT</Line>
+      <Line Pattern="Dotted">HEMEL/WELIN/VELAG/UPDUK/PIGOT</Line>
+      <Line Pattern="Dotted">CROFT/MCT/D152J/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">POL/MCT/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">DESIG/MCT/D152J/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">BEGAM/MCT/D152J/VEGAR/TNT/DIPSO/ROKUP</Line>
+      <Line Pattern="Dotted">WAL/NUGRA/VEGAR/TNT/DIPSO/ROKUP</Line>
+   </Map>
+   <Map Type="System" Name="EGNX_TWR_RWY_27_NAMES" Priority="2" Center="+524952.88-0011830.94">
+      <Label>
+         <Point>PIGOT</Point>
+         <Point>DESIG</Point>
+         <Point>WELIN</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>TNT</Point>
+         <Point>UPDUK</Point>
+         <Point>D339W</Point>
+         <Point>ROKUP</Point>
+         <Point>DTY31</Point>
+         <Point>NUGRA</Point>
+         <Point>DIPSO</Point>
+         <Point>D270A</Point>
+         <Point>CROFT</Point>
+         <Point>AMPIT</Point>
+         <Point>VELAG</Point>
+         <Point>HEMEL</Point>
+         <Point>NOKIN</Point>
+         <Point>D162G</Point>
+         <Point>D162D</Point>
+         <Point>MCT</Point>
+         <Point>D152J</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>DTY</Point>
+         <Point>D236G</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>PIGOT</Point>
+         <Point>DESIG</Point>
+         <Point>WELIN</Point>
+         <Point>VEGAR</Point>
+         <Point>BEGAM</Point>
+         <Point>TNT</Point>
+         <Point>UPDUK</Point>
+         <Point>D339W</Point>
+         <Point>ROKUP</Point>
+         <Point>DTY31</Point>
+         <Point>NUGRA</Point>
+         <Point>DIPSO</Point>
+         <Point>D270A</Point>
+         <Point>CROFT</Point>
+         <Point>AMPIT</Point>
+         <Point>VELAG</Point>
+         <Point>HEMEL</Point>
+         <Point>NOKIN</Point>
+         <Point>D162G</Point>
+         <Point>D162D</Point>
+         <Point>MCT</Point>
+         <Point>D152J</Point>
+         <Point>POL</Point>
+         <Point>WAL</Point>
+         <Point>DTY</Point>
+         <Point>D236G</Point>
+      </Symbol>
+   </Map>
+</Maps>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:49 2021">
+   <Map Type="System" Name="EGHO_TWR_RWY_07" Priority="1" Center="+511235.60-0013606.89">
+      <Runway Name="07">
+         <Threshold Name="07" Position="+511235.60-0013606.89" ExtendedCentrelineTrack="247.0" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="25" Position="+511245.23-0013530.89"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGHO_TWR_RWY_07_SID" Priority="1" Center="+511235.60-0013606.89"/>
+   <Map Type="System" Name="EGHO_TWR_RWY_07_STAR" Priority="1" Center="+511235.60-0013606.89"/>
+   <Map Type="System" Name="EGHO_TWR_RWY_07_NAMES" Priority="2" Center="+511235.60-0013606.89">
+      <Label/>
+      <Symbol Type="HollowStar"/>
+   </Map>
+</Maps>

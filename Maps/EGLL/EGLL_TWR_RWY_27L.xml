@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:40 2021">
+   <Map Type="System" Name="EGLL_TWR_RWY_27L" Priority="1" Center="+512753.82-0002602.76">
+      <Runway Name="27L">
+         <Threshold Name="27L" Position="+512753.82-0002602.76" ExtendedCentrelineTrack="89.72" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="09R" Position="+512753.25-0002856.33"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGLL_TWR_RWY_27L_SID" Priority="1" Center="+512753.82-0002602.76">
+      <Line>D255C/D278F/D305H/D326H/CHT/BPK</Line>
+      <Line>D256G/D260K/WOD/D101H/CPT</Line>
+      <Line>D270A/D163J/EPM/DET32/DE29A/D271E/DET</Line>
+      <Line>D256G/D258I/D261M/SAM33/SAM30/GOGSI</Line>
+      <Line>D240F/D224H/D209I/D196L/MAXIT</Line>
+      <Line>D270A/D163J/EPM/MAY</Line>
+      <Line>D255C/D281G/BUR/D356D/UMLAT</Line>
+   </Map>
+   <Map Type="System" Name="EGLL_TWR_RWY_27L_STAR" Priority="1" Center="+512753.82-0002602.76">
+      <Line Pattern="Dotted">ALESO/ROTNO/ETVAX/TIGER/LLE01/BIG</Line>
+      <Line Pattern="Dotted">BARMI/SONOG/LOGAN/SABER/BRASO/WESUL/LAM</Line>
+      <Line Pattern="Dotted">BEDEK/NIGIT/LLW03/OCK</Line>
+      <Line Pattern="Dotted">BEDEK/CPT/BNN</Line>
+      <Line Pattern="Dotted">BIG/DORKI/OCK</Line>
+      <Line Pattern="Dotted">FITBO/SOPIT/WCO/BNN</Line>
+      <Line Pattern="Dotted">HAZEL/LLS01/OCK</Line>
+      <Line Pattern="Dotted">HON/TOBID/SOPIT/WCO/BNN</Line>
+      <Line Pattern="Dotted">LAM/HILLY/BIG</Line>
+      <Line Pattern="Dotted">LAM/DORKI/OCK</Line>
+      <Line Pattern="Dotted">LAM/DONNA/BNN</Line>
+      <Line Pattern="Dotted">LOGAN/SABER/BRASO/WESUL/LAM</Line>
+      <Line Pattern="Dotted">NUGRA/TOBID/SOPIT/WCO/BNN</Line>
+      <Line Pattern="Dotted">OCK/DORKI/HILLY/BIG</Line>
+      <Line Pattern="Dotted">OTMET/SOKDU/NEDUL/BEGTO/HAZEL/LLS01/OCK</Line>
+      <Line Pattern="Dotted">ROXOG/AMTOD/BEGTO/HAZEL/LLS01/OCK</Line>
+      <Line Pattern="Dotted">TANET/DET/LLE02/BIG</Line>
+      <Line Pattern="Dotted">TOBID/WOD/LLW02/OCK</Line>
+   </Map>
+   <Map Type="System" Name="EGLL_TWR_RWY_27L_NAMES" Priority="2" Center="+512753.82-0002602.76">
+      <Label>
+         <Point>HILLY</Point>
+         <Point>TIGER</Point>
+         <Point>ROTNO</Point>
+         <Point>TANET</Point>
+         <Point>LAM</Point>
+         <Point>NIGIT</Point>
+         <Point>D261M</Point>
+         <Point>FITBO</Point>
+         <Point>GOGSI</Point>
+         <Point>SAM30</Point>
+         <Point>LLW03</Point>
+         <Point>DE29A</Point>
+         <Point>AMTOD</Point>
+         <Point>BRASO</Point>
+         <Point>OTMET</Point>
+         <Point>BEDEK</Point>
+         <Point>NEDUL</Point>
+         <Point>MAY</Point>
+         <Point>SOKDU</Point>
+         <Point>D163J</Point>
+         <Point>D356D</Point>
+         <Point>ETVAX</Point>
+         <Point>DONNA</Point>
+         <Point>ROXOG</Point>
+         <Point>NUGRA</Point>
+         <Point>D305H</Point>
+         <Point>LOGAN</Point>
+         <Point>HAZEL</Point>
+         <Point>D255C</Point>
+         <Point>D270A</Point>
+         <Point>LLS01</Point>
+         <Point>BNN</Point>
+         <Point>LLE02</Point>
+         <Point>D240F</Point>
+         <Point>BIG</Point>
+         <Point>DORKI</Point>
+         <Point>SAM33</Point>
+         <Point>DET32</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>D271E</Point>
+         <Point>D101H</Point>
+         <Point>D196L</Point>
+         <Point>EPM</Point>
+         <Point>D260K</Point>
+         <Point>SOPIT</Point>
+         <Point>BPK</Point>
+         <Point>D224H</Point>
+         <Point>D209I</Point>
+         <Point>D281G</Point>
+         <Point>TOBID</Point>
+         <Point>WESUL</Point>
+         <Point>WCO</Point>
+         <Point>MAXIT</Point>
+         <Point>LLE01</Point>
+         <Point>WOD</Point>
+         <Point>SONOG</Point>
+         <Point>SABER</Point>
+         <Point>D326H</Point>
+         <Point>BUR</Point>
+         <Point>DET</Point>
+         <Point>BARMI</Point>
+         <Point>HON</Point>
+         <Point>D256G</Point>
+         <Point>D258I</Point>
+         <Point>UMLAT</Point>
+         <Point>LLW02</Point>
+         <Point>D278F</Point>
+         <Point>CHT</Point>
+         <Point>ALESO</Point>
+         <Point>BEGTO</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>HILLY</Point>
+         <Point>TIGER</Point>
+         <Point>ROTNO</Point>
+         <Point>TANET</Point>
+         <Point>LAM</Point>
+         <Point>NIGIT</Point>
+         <Point>D261M</Point>
+         <Point>FITBO</Point>
+         <Point>GOGSI</Point>
+         <Point>SAM30</Point>
+         <Point>LLW03</Point>
+         <Point>DE29A</Point>
+         <Point>AMTOD</Point>
+         <Point>BRASO</Point>
+         <Point>OTMET</Point>
+         <Point>BEDEK</Point>
+         <Point>NEDUL</Point>
+         <Point>MAY</Point>
+         <Point>SOKDU</Point>
+         <Point>D163J</Point>
+         <Point>D356D</Point>
+         <Point>ETVAX</Point>
+         <Point>DONNA</Point>
+         <Point>ROXOG</Point>
+         <Point>NUGRA</Point>
+         <Point>D305H</Point>
+         <Point>LOGAN</Point>
+         <Point>HAZEL</Point>
+         <Point>D255C</Point>
+         <Point>D270A</Point>
+         <Point>LLS01</Point>
+         <Point>BNN</Point>
+         <Point>LLE02</Point>
+         <Point>D240F</Point>
+         <Point>BIG</Point>
+         <Point>DORKI</Point>
+         <Point>SAM33</Point>
+         <Point>DET32</Point>
+         <Point>OCK</Point>
+         <Point>CPT</Point>
+         <Point>D271E</Point>
+         <Point>D101H</Point>
+         <Point>D196L</Point>
+         <Point>EPM</Point>
+         <Point>D260K</Point>
+         <Point>SOPIT</Point>
+         <Point>BPK</Point>
+         <Point>D224H</Point>
+         <Point>D209I</Point>
+         <Point>D281G</Point>
+         <Point>TOBID</Point>
+         <Point>WESUL</Point>
+         <Point>WCO</Point>
+         <Point>MAXIT</Point>
+         <Point>LLE01</Point>
+         <Point>WOD</Point>
+         <Point>SONOG</Point>
+         <Point>SABER</Point>
+         <Point>D326H</Point>
+         <Point>BUR</Point>
+         <Point>DET</Point>
+         <Point>BARMI</Point>
+         <Point>HON</Point>
+         <Point>D256G</Point>
+         <Point>D258I</Point>
+         <Point>UMLAT</Point>
+         <Point>LLW02</Point>
+         <Point>D278F</Point>
+         <Point>CHT</Point>
+         <Point>ALESO</Point>
+         <Point>BEGTO</Point>
+      </Symbol>
+   </Map>
+</Maps>

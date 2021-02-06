@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Maps xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generated="Wed Feb  3 18:42:31 2021">
+   <Map Type="System" Name="EGPH_TWR_RWY_06" Priority="1" Center="+555641.99-0032313.90">
+      <Runway Name="06">
+         <Threshold Name="06" Position="+555641.99-0032313.90" ExtendedCentrelineTrack="238.85" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1"/>
+         <Threshold Name="24" Position="+555717.66-0032128.66"/>
+      </Runway>
+   </Map>
+   <Map Type="System" Name="EGPH_TWR_RWY_06_SID" Priority="1" Center="+555641.99-0032313.90">
+      <Line>D068A/D051C/GOW35/GOW30/CUMBO/GOSAM</Line>
+      <Line>D068A/D051C/SAB46/GRICE</Line>
+      <Line>D068A/D048G/TL30A/TLA30/D026M/TLA</Line>
+   </Map>
+   <Map Type="System" Name="EGPH_TWR_RWY_06_STAR" Priority="1" Center="+555641.99-0032313.90">
+      <Line Pattern="Dotted">AGPED/HAVEN/TARTN</Line>
+      <Line Pattern="Dotted">GIRVA/TLA/TARTN</Line>
+      <Line Pattern="Dotted">INPIP/INREV/ESKDO/TARTN</Line>
+      <Line Pattern="Dotted">PTH/GRICE/STIRA</Line>
+      <Line Pattern="Dotted">TUNSO/TLA/TARTN</Line>
+   </Map>
+   <Map Type="System" Name="EGPH_TWR_RWY_06_NAMES" Priority="2" Center="+555641.99-0032313.90">
+      <Label>
+         <Point>GIRVA</Point>
+         <Point>TLA</Point>
+         <Point>D048G</Point>
+         <Point>HAVEN</Point>
+         <Point>TL30A</Point>
+         <Point>TUNSO</Point>
+         <Point>AGPED</Point>
+         <Point>GOW30</Point>
+         <Point>D051C</Point>
+         <Point>STIRA</Point>
+         <Point>ESKDO</Point>
+         <Point>PTH</Point>
+         <Point>INPIP</Point>
+         <Point>TARTN</Point>
+         <Point>D026M</Point>
+         <Point>GOW35</Point>
+         <Point>INREV</Point>
+         <Point>TLA30</Point>
+         <Point>D068A</Point>
+         <Point>CUMBO</Point>
+         <Point>SAB46</Point>
+         <Point>GRICE</Point>
+         <Point>GOSAM</Point>
+      </Label>
+      <Symbol Type="HollowStar">
+         <Point>GIRVA</Point>
+         <Point>TLA</Point>
+         <Point>D048G</Point>
+         <Point>HAVEN</Point>
+         <Point>TL30A</Point>
+         <Point>TUNSO</Point>
+         <Point>AGPED</Point>
+         <Point>GOW30</Point>
+         <Point>D051C</Point>
+         <Point>STIRA</Point>
+         <Point>ESKDO</Point>
+         <Point>PTH</Point>
+         <Point>INPIP</Point>
+         <Point>TARTN</Point>
+         <Point>D026M</Point>
+         <Point>GOW35</Point>
+         <Point>INREV</Point>
+         <Point>TLA30</Point>
+         <Point>D068A</Point>
+         <Point>CUMBO</Point>
+         <Point>SAB46</Point>
+         <Point>GRICE</Point>
+         <Point>GOSAM</Point>
+      </Symbol>
+   </Map>
+</Maps>
