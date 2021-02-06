@@ -3,15 +3,11 @@
   <GRIB url="http://sawbe.com/GRIB/" fileName="world.grib2" />
   <ProductTypes>
     <METAR url="http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=metars&amp;requestType=retrieve&amp;format=xml&amp;stationString=%ICAO&amp;hoursBeforeNow=2" xmlDataTag="raw_text" mostRecent="true" />
-	<TAF url="https://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&amp;requestType=retrieve&amp;format=xml&amp;stationString=%ICAO&amp;hoursBeforeNow=0&amp;timeType=valid&amp;mostRecent=true" xmlDataTag="raw_text" mostRecent="true"/>
+	  <TAF url="https://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&amp;requestType=retrieve&amp;format=xml&amp;stationString=%ICAO&amp;hoursBeforeNow=0&amp;timeType=valid&amp;mostRecent=true" xmlDataTag="raw_text" mostRecent="true"/>
     <NOTAM url="http://api.vateud.net/notams/%ICAO.xml" xmlDataTag="raw" />
   </ProductTypes>
   <Browsers><!--bomw0007-->
-	<AreaQNH url="http://reg.bom.gov.au/products/reg/QNH.shtml#aus" Username="bomw0007" Password="aviation" />
-	<WXRadars url="http://www.bom.gov.au/australia/radar/" />
-    <BOM url="http://www.bom.gov.au/aviation/" />
-    <NAIPS url="https://www.airservicesaustralia.com/naips/Account/LogOn" />
-    <AIP url="https://www.airservicesaustralia.com/aip/aip.asp" />
-    <ATCAssist url="http://atc.vatpac.org" />
+    <AIP url="http://www.nats-uk.ead-it.com/public/index.php.html" />
+    <VATSIM-UK-Docs url="https://community.vatsim.uk/downloads" />
   </Browsers>
 </MET>
